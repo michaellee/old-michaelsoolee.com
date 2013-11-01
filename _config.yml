@@ -1,0 +1,6 @@
+name: Michael Lee
+markdown: redcarpet
+pygments: true
+
+permalink: /:title
+baseurl: /
