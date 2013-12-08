@@ -8,37 +8,52 @@
 
         <!-- syntax highlighting CSS -->
         <link rel="stylesheet" href="/css/syntax.css">
+        <link href='http://fonts.googleapis.com/css?family=Varela+Round' rel='stylesheet' type='text/css'>
 
         <!-- Custom CSS -->
         <link rel="stylesheet" href="/css/main.css">
 
     </head>
     <body>
-
-        <div class="site">
-          <div class="header">
-            <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-            <a class="extra" href="/">home</a>
-          </div>
-
-          {{ content }}
-
-          <div class="footer">
-            <div class="contact">
-              <p>
-                Your Name<br />
-                What You Are<br />
-                you@example.com
-              </p>
-            </div>
-            <div class="contact">
-              <p>
-                <a href="https://github.com/yourusername">github.com/yourusername</a><br />
-                <a href="https://twitter.com/yourusername">twitter.com/yourusername</a><br />
-              </p>
+      <nav class="MainNav">
+        <a href="{site.url}}/about">About</a>
+        <a href="{site.url}}/writings">Writings</a>
+        <a href="{site.url}}/projects">Projects</a>
+      </nav>
+      <div class="GlobalHolder">
+        <header>
+          <div class="container">
+            <h1 class="Logo"><a href="/">{{ site.name }}</a></h1>
+            <div class="Menu-trigger">
+              <span></span>
+              <span></span>
+              <span></span>
             </div>
           </div>
-        </div>
-
+        </header>
+        <section class="Body">
+          <div class="container">
+        {{ content }}
+          </div>
+        </section>
+        <footer>
+          <div class="container">
+            <nav>
+              <a href="https://twitter.com/hellomichaellee">Twitter</a>
+              <a href="https://codepen.io/michaellee">CodePen</a>
+              <a href="https://github.com/michaellee">Github</a>
+            </nav>
+            <p>Built with <a href="http://bourbon.io">Bourbon</a>, <a href="http://neat.bourbon.io">Neat</a> and <a href="http://jekyllrb.com">Jekyll</a>. The source code and the articles of this site is <a href="https://github.com/michaellee/michaellee.github.io">hosted on GitHub</a>.</p>
+          </div>
+        </footer>
+      </div>
+      <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+      <script>
+        $(function(){
+          $("header").delegate(".Menu-trigger", "click", function(){
+            $("body").toggleClass("is-pushedLeft");
+          });
+        });
+      </script>
     </body>
 </html>
