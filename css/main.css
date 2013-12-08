@@ -230,9 +230,12 @@ body {
   font-family: 'Varela Round', sans-serif;
   color: #363636;
   -webkit-font-smoothing: subpixel-antialiased; }
+  @media screen and (max-width: 769px) {
+    body {
+      font-size: 18px; } }
 
 h1, h2, h3, h4, h5, h6 {
-  font-size: 100%;
+  font-size: 1em;
   font-weight: normal; }
 
 p {
@@ -264,9 +267,12 @@ header {
 .Logo {
   float: left; }
   .Logo a {
-    font-size: 2.75rem;
+    font-size: 2.25em;
     color: #fff;
     text-shadow: 0 3px 1px #56a182; }
+    @media screen and (max-width: 769px) {
+      .Logo a {
+        font-size: 2em; } }
 
 footer a, footer p {
   font-size: 1rem; }
@@ -285,6 +291,10 @@ footer nav a {
   margin: 23px 0;
   float: right;
   cursor: pointer; }
+  @media screen and (max-width: 769px) {
+    .Menu-trigger {
+      height: 26px;
+      width: 34px; } }
   .Menu-trigger span:first-child {
     margin: 0; }
   .Menu-trigger span {
@@ -299,11 +309,13 @@ footer nav a {
     -webkit-box-shadow: 0 3px 2px -1px #56a182;
     -moz-box-shadow: 0 3px 2px -1px #56a182;
     box-shadow: 0 3px 2px -1px #56a182; }
+    @media screen and (max-width: 769px) {
+      .Menu-trigger span {
+        height: 4px;
+        width: 34px; } }
 
 .Body h1 {
-  font-size: 2.5rem; }
-.Body h1.heading {
-  font-size: 1.5rem; }
+  font-size: 2em; }
 
 .Entry-title a {
   color: #363636; }
