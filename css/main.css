@@ -250,7 +250,7 @@ a {
   max-width: 68em;
   margin-left: auto;
   margin-right: auto;
-  padding: 10px; }
+  padding: 20px; }
   .container:before, .container:after {
     content: " ";
     display: table; }
