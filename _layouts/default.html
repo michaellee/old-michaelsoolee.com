@@ -50,8 +50,12 @@
       <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
       <script>
         $(function(){
-          $("header").delegate(".Menu-trigger", "click", function(){
+          $("header").delegate(".Menu-trigger", "click", function(event){
+            event.stopPropagation();
             $("body").toggleClass("is-pushedLeft");
+          });
+          $(".GlobalHolder").on("click", function(){
+            $("body").removeClass("is-pushedLeft");
           });
         });
       </script>

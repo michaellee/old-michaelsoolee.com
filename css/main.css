@@ -247,7 +247,7 @@ a {
 
 .container {
   *zoom: 1;
-  max-width: 68em;
+  max-width: 700px;
   margin-left: auto;
   margin-right: auto;
   padding: 20px; }
@@ -258,21 +258,24 @@ a {
     clear: both; }
 
 header {
+  text-align: center;
+  position: relative;
   width: 100%;
   background-color: #6ec8a3;
   background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #6ec8a3), color-stop(100%, #6dbf9d));
   background-image: -webkit-linear-gradient(#6ec8a3, #6dbf9d);
   background-image: linear-gradient(#6ec8a3, #6dbf9d); }
+  @media screen and (max-width: 769px) {
+    header {
+      text-align: left; } }
 
-.Logo {
-  float: left; }
-  .Logo a {
-    font-size: 2.25em;
-    color: #fff;
-    text-shadow: 0 3px 1px #56a182; }
-    @media screen and (max-width: 769px) {
-      .Logo a {
-        font-size: 2em; } }
+.Logo a {
+  font-size: 2.25em;
+  color: #fff;
+  text-shadow: 0 3px 1px #56a182; }
+  @media screen and (max-width: 769px) {
+    .Logo a {
+      font-size: 2em; } }
 
 footer a, footer p {
   font-size: 1rem; }
@@ -286,15 +289,18 @@ footer nav a {
   font-style: italic; }
 
 .Menu-trigger {
-  height: 28px;
+  height: 27px;
   width: 40px;
-  margin: 23px 0;
-  float: right;
-  cursor: pointer; }
+  margin: 47px 0;
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  right: 20px; }
   @media screen and (max-width: 769px) {
     .Menu-trigger {
-      height: 26px;
-      width: 34px; } }
+      height: 27px;
+      width: 34px;
+      margin: 40px 0; } }
   .Menu-trigger span:first-child {
     margin: 0; }
   .Menu-trigger span {
