@@ -3,4 +3,27 @@ layout: default
 title: Michael Lee
 ---
 
-# About me
+# About
+
+Hey there! I'm Michael.
+
+I live in the Triangle. 
+
+I [print people's memories](https://www.printsquares.com) saved on Instagram.
+
+I teach people how to [setup websites](http://www.simplesetup.co).
+
+By night (and early mornings), together with a buddy of mine, we run a [software company called Herelde](http://www.herelde.com) that makes nice things.
+
+I share [tips and tricks](http://www.appmanuals.com) that I've found useful on the iPhone, iPad and Mac.
+
+Online I hang out at [Twitter](https://www.twitter.com/hellomichaellee), [CodePen](http://codepen.io/michaellee) and [Github](https://github.com/michaellee).
+
+By day, I'm a front-end architect at a company that [enables music artists](http://www.reverbnation.com) to pursue their dreams.
+
+My curriculum vitae can be found on [Linkedin](https://www.linkedin.com/in/hellomichaellee).
+
+This site is where I mostly chronicle life and things I geek out about.
+
+## Website colophon
+The site is built and maintained with [Jekyll](http://jekyllrb.com). It uses a sass library and grid framework, respectively called [bourbon](http://bourbon.io) and [neat](http://neat.bourbon.io/). It is typeset in Varela Round served via [Google Fonts](https://www.google.com/fonts/specimen/Varela+Round). Hosting is provided by [Github Pages](http://pages.github.com).
