@@ -1,59 +1,65 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>{{ page.title }}</title>
-        <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+  <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+      <title>{{ page.title }}</title>
+      <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
 
-        <!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="/css/syntax.css">
-        <link href='http://fonts.googleapis.com/css?family=Varela+Round' rel='stylesheet' type='text/css'>
+      <link href='http://fonts.googleapis.com/css?family=Varela+Round' rel='stylesheet' type='text/css'>
+      <link rel="stylesheet" href="/css/main.css">
 
-        <!-- Custom CSS -->
-        <link rel="stylesheet" href="/css/main.css">
+  </head>
+  <body>
+    <nav class="MainNav">
+      <a href="{{site.url}}/about">About</a>
+      <a href="{{site.url}}/writings">Writings</a>
+    </nav>
+    <div class="GlobalHolder">
+      <header>
+        <div class="container">
+          <h3 class="Logo"><a href="/">{{ site.name }}</a></h3>
+          <div class="Menu-trigger">
+            <span></span>
+            <span></span>
+            <span></span>
+          </div>
+        </div>
+      </header>
+      <section class="Body">
+        <div class="container">
+      {{ content }}
+        </div>
+      </section>
+      <footer>
+        <div class="container">
+          <p>Let's connect on <a href="https://twitter.com/hellomichaellee">Twitter</a>, <a href="https://codepen.io/michaellee">CodePen</a>, or <a href="https://github.com/michaellee">Github</a>.
+          </p>
+          <p>Built with <a href="http://bourbon.io">Bourbon</a>, <a href="http://neat.bourbon.io">Neat</a> and <a href="http://jekyllrb.com">Jekyll</a>. The source code and the articles of this site is <a href="https://github.com/michaellee/michaellee.github.io">hosted on GitHub</a>.</p>
+        </div>
+      </footer>
+    </div>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-    </head>
-    <body>
-      <nav class="MainNav">
-        <a href="{{site.url}}/about">About</a>
-        <a href="{{site.url}}/writings">Writings</a>
-      </nav>
-      <div class="GlobalHolder">
-        <header>
-          <div class="container">
-            <h3 class="Logo"><a href="/">{{ site.name }}</a></h3>
-            <div class="Menu-trigger">
-              <span></span>
-              <span></span>
-              <span></span>
-            </div>
-          </div>
-        </header>
-        <section class="Body">
-          <div class="container">
-        {{ content }}
-          </div>
-        </section>
-        <footer>
-          <div class="container">
-            <p>Let's connect on <a href="https://twitter.com/hellomichaellee">Twitter</a>, <a href="https://codepen.io/michaellee">CodePen</a>, or <a href="https://github.com/michaellee">Github</a>.
-            </p>
-            <p>Built with <a href="http://bourbon.io">Bourbon</a>, <a href="http://neat.bourbon.io">Neat</a> and <a href="http://jekyllrb.com">Jekyll</a>. The source code and the articles of this site is <a href="https://github.com/michaellee/michaellee.github.io">hosted on GitHub</a>.</p>
-          </div>
-        </footer>
-      </div>
-      <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-      <script>
-        $(function(){
-          $("header").delegate(".Menu-trigger", "click", function(event){
-            event.stopPropagation();
-            $("body").toggleClass("is-pushedLeft");
-          });
-          $(".GlobalHolder").on("click", function(){
-            $("body").removeClass("is-pushedLeft");
-          });
+      ga('create', 'UA-46652311-2', 'michaellee.co');
+      ga('send', 'pageview');
+
+    </script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script>
+      $(function(){
+        $("header").delegate(".Menu-trigger", "click", function(event){
+          event.stopPropagation();
+          $("body").toggleClass("is-pushedLeft");
         });
-      </script>
-    </body>
+        $(".GlobalHolder").on("click", function(){
+          $("body").removeClass("is-pushedLeft");
+        });
+      });
+    </script>
+  </body>
 </html>
