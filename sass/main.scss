@@ -146,7 +146,11 @@ footer a, footer p {
   position: relative;
   min-height: 100%;
   background: #fff;
-  @include prefixer(transition, 0.33s cubic-bezier(0.694, 0.0482, 0.335, 1), webkit ms moz spec o);
+  @include prefixer(transition, -webkit-transform 0.33s cubic-bezier(0.694, 0.0482, 0.335, 1), webkit ms moz spec o);
+  @include prefixer(transition, transform 0.33s cubic-bezier(0.694, 0.0482, 0.335, 1), webkit ms moz spec o);
+  @include prefixer(transition, -moz-transform 0.33s cubic-bezier(0.694, 0.0482, 0.335, 1), webkit ms moz spec o);
+  @include prefixer(transition, -o-transform 0.33s cubic-bezier(0.694, 0.0482, 0.335, 1), webkit ms moz spec o);
+  @include prefixer(transition, -ms-transform 0.33s cubic-bezier(0.694, 0.0482, 0.335, 1), webkit ms moz spec o);
 }
 
 .is-pushedLeft .GlobalHolder {
