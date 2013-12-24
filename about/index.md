@@ -17,13 +17,8 @@ By night (and early mornings), together with a buddy of mine, we run a [software
 
 I share [tips and tricks](http://www.appmanuals.com) that I've found useful on the iPhone, iPad and Mac.
 
-Online I hang out at [Twitter](https://www.twitter.com/hellomichaellee), [CodePen](http://codepen.io/michaellee) and [Github](https://github.com/michaellee).
-
 By day, I'm a front-end architect at a company that [enables music artists](http://www.reverbnation.com) to pursue their dreams.
 
 My curriculum vitae can be found on [Linkedin](https://www.linkedin.com/in/hellomichaellee).
 
 This site is where I mostly chronicle life and things I geek out about.
-
-## Website colophon
-The site is built and maintained with [Jekyll](http://jekyllrb.com). It uses a sass library and grid framework, respectively called [bourbon](http://bourbon.io) and [neat](http://neat.bourbon.io/). It is typeset in Varela Round served via [Google Fonts](https://www.google.com/fonts/specimen/Varela+Round). Hosting is provided by [Github Pages](http://pages.github.com).

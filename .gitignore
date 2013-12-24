@@ -1,4 +1,4 @@
 _site
-sass/.sass-cache
+.sass-cache
 sass/neat
 sass/bourbon

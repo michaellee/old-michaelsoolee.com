@@ -1,0 +1,154 @@
+@import 'bourbon/bourbon';
+@import 'neat/neat';
+
+$reset-margins: true !default;
+@if ($reset-margins == true) {
+  body, h1, h2, h3, h4, h5, h6, dl, ol, ul, p,
+  button, input, select, textarea { margin: 0; }
+}
+
+button, input, select, textarea { font-family: inherit; font-size: 100%; }
+article, aside, details, figcaption, figure, footer, header, main, nav, section, summary { display: block; }
+
+$max-width: 700px;
+
+h1{
+  font-size: 2rem;
+  line-height: 1.25;
+  margin: 1rem 0;
+}
+
+h2{
+  font-size: 1.5rem;
+  line-height: 1.25;
+  margin: 1rem 0;
+}
+
+p{
+	margin: 1rem 0;
+}
+
+h3, h4, h5, h6, dl, ol, ul, p{
+  font-size: 1.125rem;
+}
+
+html, body{
+	height: 100%;
+}
+
+body {
+  position: relative;
+  background-color: #fff;
+  font-size: 20px;
+  line-height: 1.5;
+  font-family: 'Varela Round', sans-serif;
+  color: #363636;
+  -webkit-font-smoothing: subpixel-antialiased;
+	@include media(max-width 769px){
+		font-size: 18px;
+	}
+}
+
+a {
+  color: #6dbf9d;
+  text-decoration: none; 
+}
+
+.container {
+  @include outer-container;
+  @include pad(20px);
+}
+
+header {
+  text-align: center;
+  position: relative;
+  width: 100%;
+  @include linear-gradient(#6ec8a3, #6dbf9d);
+	@include media(max-width 769px){
+		text-align: left;
+	}
+}
+
+.Logo a {
+  font-size: 2.25em;
+  color: #fff;
+  text-shadow: 0 3px 1px #56a182;
+	@include media(max-width 769px){
+		font-size: 2em;
+	}
+}
+
+footer a, footer p {
+  font-size: 1rem; 
+}
+
+.meta {
+  font-size: 1rem;
+  font-style: italic; }
+
+.Menu-trigger {
+  height: 27px;
+  width: 40px;
+  margin: 34px 0;
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  right: 20px;
+	@include media(max-width 769px){
+		height: 27px;
+    width: 34px;
+    margin: 33px 0;
+	}
+	span{
+    height: 5px;
+    width: 40px;
+    margin: 5px 0 0;
+    display: block;
+    background: #fff;
+    @include prefixer(box-shadow, 0 3px 2px -1px #56a182, webkit moz spec);
+    @include prefixer(border-radius, 20px, webkit moz spec);
+    &:first-child{
+    	margin: 0;
+    }
+    @include media(max-width 769px){
+    	height: 4px;
+      width: 34px;
+    }
+	}
+}
+
+.Body h1 {
+  font-size: 1.75em;
+}
+
+.Entry-title a {
+  color: #363636; 
+}
+
+.MainNav {
+  position: fixed;
+  background: #eae9e7;
+  width: 280px;
+  height: 100%;
+  right: 0;
+  top: 0;
+  z-index: 0;
+  @include pad(20px); 
+  a {
+    color: #363636;
+    display: block;
+    margin: 0 0 1em; 
+  }
+}
+
+.GlobalHolder {
+  z-index: 1;
+  position: relative;
+  min-height: 100%;
+  background: #fff;
+  @include prefixer(transition, 0.33s cubic-bezier(0.694, 0.0482, 0.335, 1), webkit ms moz spec o);
+}
+
+.is-pushedLeft .GlobalHolder {
+	@include prefixer(transform, translate3d(-280px, 0, 0), webkit moz spec o);
+}
