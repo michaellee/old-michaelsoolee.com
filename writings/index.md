@@ -15,24 +15,18 @@ title: Other writings / Michael Lee
   {% if forloop.first %}
   <h2>{{this_year}}</h2>
   <h3>{{ this_month }}</h3>
-  <ul>
   {% endif %}
 
-  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  <a href="{{ post.url }}">{{ post.title }}</a>
 
   {% if forloop.last %}
-  </ul>
     {% else %}
       {% if this_year != next_year %}
-  </ul>
   <h2>{{next_year}}</h2>
   <h3>{{ next_month }}</h3>
-  <ul>
     {% else %}    
       {% if this_month != next_month %}
-  </ul>
-    <h3>{{ next_month }}</h3>
-  <ul>
+  <h3>{{ next_month }}</h3>
       {% endif %}
     {% endif %}
   {% endif %}
