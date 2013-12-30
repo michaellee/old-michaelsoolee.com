@@ -12,15 +12,15 @@ title: Other writings / Michael Lee
   {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
   {% capture next_month %}{{ post.previous.date | date: "%B" }}{% endcapture %}
 
-    {% if forloop.first %}
+  {% if forloop.first %}
     <h2>{{this_year}}</h2>
     <h3>{{ this_month }}</h3>
     <ul>
     {% endif %}
 
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 
-    {% if forloop.last %}
+  {% if forloop.last %}
     </ul>
     {% else %}
       {% if this_year != next_year %}
