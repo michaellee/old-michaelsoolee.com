@@ -16,7 +16,7 @@ title: Other writings / Michael Lee
     <h2>{{this_year}}</h2>
     <h3>{{ this_month }}</h3>
     <ul>
-    {% endif %}
+  {% endif %}
 
   <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 
