@@ -13,7 +13,7 @@ title: Other writings / Michael Lee
   {% capture next_month %}{{ post.previous.date | date: "%B" }}{% endcapture %}
 
   {% if forloop.first %}
-  <h2>{{ this_month }} {{this_year}}</h2>
+  <h3>{{ this_month }} {{this_year}}</h3>
   {% endif %}
 
   <a href="{{ post.url }}">{{ post.title }}</a>
@@ -21,10 +21,10 @@ title: Other writings / Michael Lee
   {% if forloop.last %}
     {% else %}
       {% if this_year != next_year %}
-  <h2>{{ next_month }} {{next_year}}</h2>
+  <h3>{{ next_month }} {{next_year}}</h3>
     {% else %}    
       {% if this_month != next_month %}
-  <h2>{{ next_month }} {{next_year}}</h2>
+  <h3>{{ next_month }} {{next_year}}</h3>
       {% endif %}
     {% endif %}
   {% endif %}
