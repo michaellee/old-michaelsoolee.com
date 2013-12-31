@@ -78,7 +78,8 @@ header {
       text-align: left; } }
 
 .Logo {
-  margin: 0; }
+  margin: 0;
+  font-size: 1.125rem; }
 
 .Logo a {
   font-size: 2.25em;
