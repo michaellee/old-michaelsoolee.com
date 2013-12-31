@@ -20,14 +20,18 @@ h1 {
   margin: 1rem 0; }
 
 h2 {
-  font-size: 1.5rem;
+  font-size: 1.625rem;
   line-height: 1.25;
+  margin: 1rem 0; }
+
+h3 {
+  font-size: 1.325rem;
   margin: 1rem 0; }
 
 p {
   margin: 1rem 0; }
 
-h3, h4, h5, h6, dl, ol, ul, p {
+h4, h5, h6, dl, ol, ul, p {
   font-size: 1.125rem; }
 
 html, body {
@@ -72,6 +76,9 @@ header {
   @media screen and (max-width: 769px) {
     header {
       text-align: left; } }
+
+.Logo {
+  margin: 0; }
 
 .Logo a {
   font-size: 2.25em;
