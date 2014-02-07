@@ -2,3 +2,4 @@ _site
 .sass-cache
 sass/neat
 sass/bourbon
+.ruby-version

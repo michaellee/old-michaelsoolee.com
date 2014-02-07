@@ -3,16 +3,17 @@ layout: default
 title: Michael Lee
 ---
 
-<section class="Entry">
+<article>
 	{% assign post = site.posts.first %}
 	{% assign content = post.content %}
-	<h1 class="Entry-title">
+	<h2 class="Entry-title">
 	{% if post.title %}
 	<a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
 	{% endif %}
-	</h1>
+	</h2>
 	<div class="Entry-content">
 	{{ content }}
 	</div>
-	<a href="{{site.url}}/writings">See other writings</a>
-</section>
+	<a href="{{site.url}}/writings" class="Entry-cta">See other writings</a> or let's connect <a href="https://twitter.com/hellomichaellee" class="twitter-follow-button Entry-follow" data-show-count="false">Follow @hellomichaellee</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+</article>

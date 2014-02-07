@@ -6,39 +6,26 @@
       <title>{{ page.title }}</title>
       <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
 
-      <link href='http://fonts.googleapis.com/css?family=Varela+Round' rel='stylesheet' type='text/css'>
+      <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400,700,400italic' rel='stylesheet' type='text/css'>
       <link rel="stylesheet" href="/css/main.css">
 
   </head>
   <body>
-    <nav class="MainNav">
-      <a href="{{site.url}}/about">About</a>
-      <a href="{{site.url}}/writings">Writings</a>
-    </nav>
-    <div class="GlobalHolder">
-      <header>
-        <div class="container">
-          <h3 class="Logo"><a href="/">{{ site.name }}</a></h3>
-          <div class="Menu-trigger">
-            <span></span>
-            <span></span>
-            <span></span>
-          </div>
-        </div>
-      </header>
-      <section class="Body">
-        <div class="container">
+    <header class="SiteHeader">
+      <h1><a href="/">{{ site.name }}</a></h1>
+      <nav>
+        <ul>
+          <li><a href="{{site.url}}/about">About</a></li>
+          <li><a href="{{site.url}}/writings">Writings</a></li>
+        </ul>
+      </nav>
+    </header>
+    <section class="SiteBody">
       {{ content }}
-        </div>
-      </section>
-      <footer>
-        <div class="container">
-          <p>Let's connect on <a href="https://twitter.com/hellomichaellee">Twitter</a>, <a href="https://codepen.io/michaellee">CodePen</a>, or <a href="https://github.com/michaellee">Github</a>.
-          </p>
-          <p>Built with <a href="http://bourbon.io">Bourbon</a>, <a href="http://neat.bourbon.io">Neat</a> and <a href="http://jekyllrb.com">Jekyll</a>. The source code and the articles of this site is <a href="https://github.com/michaellee/michaellee.github.io">hosted on GitHub</a>.</p>
-        </div>
-      </footer>
-    </div>
+    </section>
+    <footer>
+      &copy; 2014 <a href="/">{{ site.name }}</a> / <a href="https://twitter.com/hellomichaellee">Twitter</a> / <a href="https://codepen.io/michaellee">CodePen</a>
+    </footer>
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -48,18 +35,6 @@
       ga('create', 'UA-46652311-2', 'michaellee.co');
       ga('send', 'pageview');
 
-    </script>
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-    <script>
-      $(function(){
-        $("header").delegate(".Menu-trigger", "click", function(event){
-          event.stopPropagation();
-          $("body").toggleClass("is-pushedLeft");
-        });
-        $(".GlobalHolder").on("click", function(){
-          $("body").removeClass("is-pushedLeft");
-        });
-      });
     </script>
   </body>
 </html>
