@@ -18,4 +18,4 @@ Perhaps one day my desk or workspace will be worthy of sharing with the world, u
 
 - [Jeff Sheldon, _Ugmonk_](http://www.ugmonk.com/2014/01/17/ugmonk-studio-tour/)
 - [Kelli Anderson](http://kellianderson.com/blog/2013/12/a-stand-up-desk-ikea-hack/)
-- [Amanda Wright](http://witandwhistle.com/blog/) flip through all her blog posts, her whole house is inspiring
+- [Amanda Wright, _Wit and Whistle_](http://witandwhistle.com/blog/) flip through all her blog posts, her whole house is inspiring
