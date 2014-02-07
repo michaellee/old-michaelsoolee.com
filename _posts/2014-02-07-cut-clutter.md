@@ -4,8 +4,6 @@ title: "Cut Clutter"
 categories: life
 ---
 
-##Cut Clutter
-
 ![](https://dl.dropboxusercontent.com/u/1228961/michaellee/2014/02%20-%20February/clutter-small.jpg)
 
 I admit I'm not the most tidiest person in the world, but the one place where I can't stand clutter is my desk.
