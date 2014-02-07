@@ -29,6 +29,9 @@ header, .SiteBody, footer {
   border-bottom: 1px solid #d9d9d9;
   padding-bottom: 1rem; }
 
+.SiteBody img{
+  max-width: 100%; }
+
 footer {
   margin: 1.5rem auto;
   text-align: center; }
