@@ -24,6 +24,10 @@ header, .SiteBody, footer{
   padding-bottom: 1rem;
 }
 
+.SiteBody img{
+  max-width: 100%;
+}
+
 footer{
   margin: 1.5rem auto;
   text-align: center;
