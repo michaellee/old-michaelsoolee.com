@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cut Clutter"
+title: "Cut clutter"
 categories: life
 ---
 
