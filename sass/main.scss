@@ -60,11 +60,20 @@ nav > ul{
 .SiteHeader{
   margin-top: 2em;
   margin-bottom: 2em;
+  @include media(min-width 320px max-width 700px) {
+    text-align: center;
+    margin-top: 0;
+    max-width: 100%;
+  }
   h1{
     font-weight: 200;
     text-transform: uppercase;
     margin: 0;
     float: left;
+    @include media(min-width 320px max-width 700px) {
+      float: none;
+      display: inline-block;
+    }
     a{
       border: none;
       padding: 0;
@@ -76,6 +85,83 @@ nav > ul{
     line-height: em(24);
     text-transform: uppercase;
     font-weight: 400;
+    @include media(min-width 320px max-width 700px) {
+      display: block;
+      height: 0;
+      float: none;
+      overflow: hidden;
+      width: 100%;
+      text-align: center;
+      background: #5e5e5e;
+      @include transition(height 0.7s ease);
+      ul{
+        margin: 0;
+        padding: 0;
+        list-style: none;
+      }
+      ul li{
+        width: 100%;
+        margin: 0;
+      }
+      ul a{
+        display: block;
+        border: none;
+        padding: 10px;
+        color: #fff;
+      }
+    }
+  }
+}
+
+.SiteHeader.is-open .trigger{
+  @include transform(rotate(225deg));
+  &:before{
+    @include transform(rotate(135deg));
+  }
+  &:after{
+    @include transform(rotate(45deg));
+  }
+}
+
+.SiteHeader.is-open nav{
+  height: 96px;
+}
+
+.SiteHeader .trigger{
+  height: 41px;
+  width: 41px;
+  display: none;
+  margin: 2em auto;
+  border: 1px solid #333;
+  position: relative;
+  @include border-top-radius(100%);
+  @include border-bottom-radius(100%);
+  @include transition(all 0.7s $ease-in-out-back);
+  @include media(min-width 320px max-width 700px) {
+    display: block;
+  }
+  &:before{
+    content: '';
+    height: 1px;
+    width: 27px;
+    background: #333;
+    top: 19px;
+    margin: 0 auto;
+    left: 6px;
+    position: absolute;
+    display: inline-block;
+    @include transition(all 0.4s $ease-in-out-back);
+  }
+  &:after{
+    content: '';
+    width: 1px;
+    height: 27px;
+    background: #333;
+    position: absolute;
+    display: inline-block;
+    left: 50%; /* Position fix by @halfzebra - http://codepen.io/halfzebra/ */
+    top: 6px;
+    @include transition(all 0.4s $ease-in-out-back);
   }
 }
 

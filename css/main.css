@@ -60,11 +60,20 @@ nav > ul {
 .SiteHeader {
   margin-top: 2em;
   margin-bottom: 2em; }
+  @media screen and (min-width: 320px) and (max-width: 700px) {
+    .SiteHeader {
+      text-align: center;
+      margin-top: 0;
+      max-width: 100%; } }
   .SiteHeader h1 {
     font-weight: 200;
     text-transform: uppercase;
     margin: 0;
     float: left; }
+    @media screen and (min-width: 320px) and (max-width: 700px) {
+      .SiteHeader h1 {
+        float: none;
+        display: inline-block; } }
     .SiteHeader h1 a {
       border: none;
       padding: 0; }
@@ -74,6 +83,96 @@ nav > ul {
     line-height: 1.5em;
     text-transform: uppercase;
     font-weight: 400; }
+    @media screen and (min-width: 320px) and (max-width: 700px) {
+      .SiteHeader nav {
+        display: block;
+        height: 0;
+        float: none;
+        overflow: hidden;
+        width: 100%;
+        text-align: center;
+        background: #5e5e5e;
+        -webkit-transition: height 0.7s ease;
+        -moz-transition: height 0.7s ease;
+        transition: height 0.7s ease; }
+        .SiteHeader nav ul {
+          margin: 0;
+          padding: 0;
+          list-style: none; }
+        .SiteHeader nav ul li {
+          width: 100%;
+          margin: 0; }
+        .SiteHeader nav ul a {
+          display: block;
+          border: none;
+          padding: 10px;
+          color: #fff; } }
+
+.SiteHeader.is-open .trigger {
+  -webkit-transform: rotate(225deg);
+  -moz-transform: rotate(225deg);
+  -ms-transform: rotate(225deg);
+  -o-transform: rotate(225deg);
+  transform: rotate(225deg); }
+  .SiteHeader.is-open .trigger:before {
+    -webkit-transform: rotate(135deg);
+    -moz-transform: rotate(135deg);
+    -ms-transform: rotate(135deg);
+    -o-transform: rotate(135deg);
+    transform: rotate(135deg); }
+  .SiteHeader.is-open .trigger:after {
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg); }
+
+.SiteHeader.is-open nav {
+  height: 96px; }
+
+.SiteHeader .trigger {
+  height: 41px;
+  width: 41px;
+  display: none;
+  margin: 2em auto;
+  border: 1px solid #333;
+  position: relative;
+  border-top-left-radius: 100%;
+  border-top-right-radius: 100%;
+  border-bottom-left-radius: 100%;
+  border-bottom-right-radius: 100%;
+  -webkit-transition: all 0.7s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  -moz-transition: all 0.7s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  transition: all 0.7s cubic-bezier(0.68, -0.55, 0.265, 1.55); }
+  @media screen and (min-width: 320px) and (max-width: 700px) {
+    .SiteHeader .trigger {
+      display: block; } }
+  .SiteHeader .trigger:before {
+    content: '';
+    height: 1px;
+    width: 27px;
+    background: #333;
+    top: 19px;
+    margin: 0 auto;
+    left: 6px;
+    position: absolute;
+    display: inline-block;
+    -webkit-transition: all 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+    -moz-transition: all 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+    transition: all 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55); }
+  .SiteHeader .trigger:after {
+    content: '';
+    width: 1px;
+    height: 27px;
+    background: #333;
+    position: absolute;
+    display: inline-block;
+    left: 50%;
+    /* Position fix by @halfzebra - http://codepen.io/halfzebra/ */
+    top: 6px;
+    -webkit-transition: all 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+    -moz-transition: all 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+    transition: all 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55); }
 
 .Entry-cta {
   margin: 0 0 1rem;
