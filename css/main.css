@@ -184,3 +184,11 @@ nav > ul {
 .Entry-follow {
   vertical-align: middle;
   margin: 0 0 2px 0.1875em; }
+
+.About-profile {
+  display: block;
+  margin: 0 auto 1rem;
+  border-top-left-radius: 100%;
+  border-top-right-radius: 100%;
+  border-bottom-left-radius: 100%;
+  border-bottom-right-radius: 100%; }

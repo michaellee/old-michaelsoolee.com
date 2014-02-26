@@ -178,3 +178,10 @@ nav > ul{
   vertical-align: middle;
   margin: 0 0 2px em(3);
 }
+
+.About-profile{
+  display: block;
+  margin: 0 auto 1rem;
+  @include border-top-radius(100%);
+  @include border-bottom-radius(100%);
+}

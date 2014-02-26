@@ -5,6 +5,8 @@ title: Michael Lee
 
 # About
 
+<img src="https://dl.dropboxusercontent.com/u/1228961/michaellee/us.jpeg" alt="NJL and Me" class="About-profile">
+
 Hey there! I'm Michael.
 
 I live in Cary, North Carolina. 
