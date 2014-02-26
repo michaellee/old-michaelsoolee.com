@@ -7,17 +7,17 @@ title: Michael Lee
 
 Hey there! I'm Michael.
 
-I live in the Triangle. 
+I live in Cary, North Carolina. 
 
 By night (and early mornings), together with a buddy of mine, we run a [software company called Herelde](http://www.herelde.com) that makes nice things.
 
 By day, I'm a front-end architect at a company that [enables music artists](http://www.reverbnation.com) to pursue their dreams.
 
-I share [tips and tricks](http://www.appmanuals.com) that I've found useful on the iPhone, iPad and Mac.
-
 My curriculum vitae can be found on [Linkedin](https://www.linkedin.com/in/hellomichaellee).
 
 This site is where I mostly chronicle life and things I geek out about.
+
+Let's connect on twitter [@hellomichaellee](https://twitter.com/hellomichaellee) or shoot me an email at hellomichaellee [at] gmail [dot] com.
 
 # Nerd talk
 
