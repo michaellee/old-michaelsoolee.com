@@ -192,3 +192,13 @@ nav > ul {
   border-top-right-radius: 100%;
   border-bottom-left-radius: 100%;
   border-bottom-right-radius: 100%; }
+
+article form {
+  border-top: 1px solid #d9d9d9;
+  border-bottom: 1px solid #d9d9d9;
+  margin: 2rem 0;
+  padding: 1rem 0; }
+
+.twitter-share-button {
+  display: inline-block;
+  vertical-align: middle; }
