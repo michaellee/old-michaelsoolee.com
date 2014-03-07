@@ -63,9 +63,10 @@ This is unfortunate because that means the world will never get to enjoy what th
 I can't stress enough the amount of positive feedback we got and things that people were able to point out that we simply didn't see.
 
 A few things others pointed out:
-- Why not put your business up for auction? You'd get paid more.
-- Why not take your business to a Co-Founders lab?
-- Setting the price too low, makes people less interested.
+
+* Why not put your business up for auction? You'd get paid more.
+* Why not take your business to a Co-Founders lab?
+* Setting the price too low, makes people less interested.
 
 A lot of great feedback and suggestions, and I won't lie, there were times where I wanted to back out and keep holding on to my baby, Print Squares.
 
