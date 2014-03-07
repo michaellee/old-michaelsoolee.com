@@ -19,7 +19,7 @@ My curriculum vitae can be found on [Linkedin](https://www.linkedin.com/in/hello
 
 This site is where I mostly chronicle life and things I geek out about.
 
-Let's connect on twitter [@hellomichaellee](https://twitter.com/hellomichaellee).
+[Let's connect](https://twitter.com/hellomichaellee).
 
 # Nerd talk
 
