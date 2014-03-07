@@ -11,7 +11,7 @@ A few weeks ago my partner, Christopher and I decided to sell our business, Prin
 I thought I'd share why we did it, what we learned along the way and what's coming up next.
 
 ### Why We Sold Print Squares
-We sold Print Squares becuase we were interested in other projects and didn't have time to nurture and care for it. We didn't want Print Squares to become another internet business that faded into the endless abyss of dead businesses, we wanted to put it into the hands of someone capable of breathing new life into it.
+We sold Print Squares because we were interested in other projects and didn't have time to nurture and care for it. We didn't want Print Squares to become another internet business that faded into the endless abyss of dead businesses, we wanted to put it into the hands of someone capable of breathing new life into it.
 
 ### Seriously, You Sold It For A Dollar?
 Yup we sold the business for $1, 100 pennies, a Washington (Is that a thing?!). We decided to sell Print Squares for a dollar for a few reasons.
