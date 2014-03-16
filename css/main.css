@@ -83,7 +83,7 @@ nav > ul {
   .SiteHeader nav {
     font-size: 1.0625em;
     float: right;
-    line-height: 1.5em;
+    line-height: 2.5em;
     text-transform: uppercase;
     font-weight: 400; }
     @media screen and (min-width: 320px) and (max-width: 700px) {
@@ -93,6 +93,7 @@ nav > ul {
         float: none;
         overflow: hidden;
         width: 100%;
+        line-height: 1.5em;
         text-align: center;
         background: #5e5e5e;
         -webkit-transition: height 0.7s ease;

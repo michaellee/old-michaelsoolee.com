@@ -86,7 +86,7 @@ nav > ul{
   nav{
     font-size: em(17);
     float: right;
-    line-height: em(24);
+    line-height: em(40);
     text-transform: uppercase;
     font-weight: 400;
     @include media(min-width 320px max-width 700px) {
@@ -95,6 +95,7 @@ nav > ul{
       float: none;
       overflow: hidden;
       width: 100%;
+      line-height: em(24);
       text-align: center;
       background: #5e5e5e;
       @include transition(height 0.7s ease);
