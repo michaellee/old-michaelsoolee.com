@@ -4,12 +4,12 @@
 $max-width: 600px;
 
 body{
-  font-family: 'Source Sans Pro', sans-serif;
   color: #333;
-  margin: 0;
-  padding: 0;
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 18px;
   line-height: em(24);
+  margin: 0;
+  padding: 0;
 }
 
 header, .SiteBody, footer{
@@ -38,10 +38,10 @@ h1,h2,h3,h4,h5,h6{
 }
 
 a{
-  text-decoration: none;
+  border-bottom: 1px solid lighten(#333, 65%);
   color: #333;
   padding: 0 0 1px;
-  border-bottom: 1px solid lighten(#333, 65%);
+  text-decoration: none;
   @include transition(border 0.3s ease);
   &:hover{
     border-bottom: 1px solid #FB8671;
@@ -65,18 +65,18 @@ nav > ul{
   margin-top: 2em;
   margin-bottom: 2em;
   @include media(min-width 320px max-width 700px) {
-    text-align: center;
     margin-top: 0;
     max-width: 100%;
+    text-align: center;
   }
   h1{
     font-weight: 200;
-    text-transform: uppercase;
-    margin: 0;
     float: left;
+    margin: 0;
+    text-transform: uppercase;
     @include media(min-width 320px max-width 700px) {
-      float: none;
       display: inline-block;
+      float: none;
     }
     a{
       border: none;
@@ -84,35 +84,35 @@ nav > ul{
     }
   }
   nav{
-    font-size: em(17);
     float: right;
+    font-size: em(17);
+    font-weight: 400;
     line-height: em(40);
     text-transform: uppercase;
-    font-weight: 400;
     @include media(min-width 320px max-width 700px) {
-      display: block;
-      height: 0;
-      float: none;
-      overflow: hidden;
-      width: 100%;
-      line-height: em(24);
-      text-align: center;
       background: #5e5e5e;
+      display: block;
+      float: none;
+      height: 0;
+      line-height: em(24);
+      overflow: hidden;
+      text-align: center;
+      width: 100%;
       @include transition(height 0.7s ease);
       ul{
+        list-style: none;
         margin: 0;
         padding: 0;
-        list-style: none;
       }
       ul li{
-        width: 100%;
         margin: 0;
+        width: 100%;
       }
       ul a{
-        display: block;
         border: none;
-        padding: 10px;
         color: #fff;
+        display: block;
+        padding: 10px;
       }
     }
   }
@@ -133,51 +133,44 @@ nav > ul{
 }
 
 .SiteHeader .trigger{
-  height: 41px;
-  width: 41px;
   display: none;
   margin: 2em auto;
   border: 1px solid #333;
   position: relative;
   @include border-top-radius(100%);
   @include border-bottom-radius(100%);
+  @include size(41px);
   @include transition(all 0.7s $ease-in-out-back);
   @include media(min-width 320px max-width 700px) {
     display: block;
   }
   &:before{
     content: '';
-    height: 1px;
-    width: 27px;
     background: #333;
-    top: 19px;
-    margin: 0 auto;
-    left: 6px;
-    position: absolute;
     display: inline-block;
+    margin: 0 auto;
+    @include position(absolute, 19px 0 0 6px);
+    @include size(27px 1px);
     @include transition(all 0.4s $ease-in-out-back);
   }
   &:after{
     content: '';
-    width: 1px;
-    height: 27px;
     background: #333;
-    position: absolute;
     display: inline-block;
-    left: 50%; /* Position fix by @halfzebra - http://codepen.io/halfzebra/ */
-    top: 6px;
+    @include position(absolute, 6px 0 0 50%);
+    @include size(1px 27px);
     @include transition(all 0.4s $ease-in-out-back);
   }
 }
 
 .Entry-cta{
-  margin: 0 0 1rem;
   display: inline-block;
+  margin: 0 0 1rem;
 }
 
 .Entry-follow{
-  vertical-align: middle;
   margin: 0 0 2px em(3);
+  vertical-align: middle;
 }
 
 .About-profile{
