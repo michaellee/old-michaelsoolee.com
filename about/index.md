@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Michael Lee
+title: About / Michael Lee
 ---
 
 # About
@@ -9,7 +9,7 @@ title: Michael Lee
 
 Hey there! I'm Michael.
 
-I live in Cary, North Carolina. 
+I live in Cary, North Carolina.
 
 By night (and early mornings), together with a buddy of mine, we run a [software company called Herelde](http://www.herelde.com) that makes nice things.
 
@@ -19,7 +19,10 @@ My curriculum vitae can be found on [Linkedin](https://www.linkedin.com/in/hello
 
 This site is where I mostly chronicle life and things I geek out about.
 
-[Let's connect](https://twitter.com/hellomichaellee).
+[Let's connect on Twitter](https://twitter.com/hellomichaellee) or contact me via email by pressing the button below.
+
+<a href="mailto:hellomichaellee@gmail.com?Subject=Hello%20Michael!" target="_top" class="button">
+Get in Contact</a>
 
 # Nerd talk
 

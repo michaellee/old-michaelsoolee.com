@@ -3,6 +3,37 @@
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
 
+#mc_embed_signup h2 {
+  margin: 0; }
+#mc_embed_signup .indicates-required {
+  color: tomato;
+  font-size: 0.875em; }
+#mc_embed_signup .mc-field-group {
+  *zoom: 1;
+  max-width: 68em;
+  margin-left: auto;
+  margin-right: auto; }
+  #mc_embed_signup .mc-field-group:before, #mc_embed_signup .mc-field-group:after {
+    content: " ";
+    display: table; }
+  #mc_embed_signup .mc-field-group:after {
+    clear: both; }
+  #mc_embed_signup .mc-field-group label {
+    display: block;
+    margin-top: 0.5em; }
+  #mc_embed_signup .mc-field-group input {
+    padding: 5px;
+    width: 100%; }
+#mc_embed_signup .button {
+  background: #3498db;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  font-size: 16px;
+  width: 100%;
+  margin-top: 1em;
+  padding: 10px; }
+
 body {
   color: #333;
   font-family: 'Source Sans Pro', sans-serif;
@@ -21,7 +52,7 @@ header, .SiteBody, footer {
     display: table; }
   header:after, .SiteBody:after, footer:after {
     clear: both; }
-  @media screen and (min-width: 320px) and (max-width: 700px) {
+  @media screen and (max-width: 700px) {
     header, .SiteBody, footer {
       max-width: 92%; } }
 
@@ -42,13 +73,12 @@ h1, h2, h3, h4, h5, h6 {
 a {
   border-bottom: 1px solid #d9d9d9;
   color: #333;
-  padding: 0 0 1px;
   text-decoration: none;
   -webkit-transition: border 0.3s ease;
   -moz-transition: border 0.3s ease;
   transition: border 0.3s ease; }
   a:hover {
-    border-bottom: 1px solid #FB8671; }
+    border-bottom: 1px solid tomato; }
 
 nav > ul {
   list-style: none;
@@ -86,7 +116,7 @@ nav > ul {
     font-weight: 400;
     line-height: 2.5em;
     text-transform: uppercase; }
-    @media screen and (min-width: 320px) and (max-width: 700px) {
+    @media screen and (max-width: 700px) {
       .SiteHeader nav {
         background: #5e5e5e;
         display: block;
@@ -148,7 +178,7 @@ nav > ul {
   -webkit-transition: all 0.7s cubic-bezier(0.68, -0.55, 0.265, 1.55);
   -moz-transition: all 0.7s cubic-bezier(0.68, -0.55, 0.265, 1.55);
   transition: all 0.7s cubic-bezier(0.68, -0.55, 0.265, 1.55); }
-  @media screen and (min-width: 320px) and (max-width: 700px) {
+  @media screen and (max-width: 700px) {
     .SiteHeader .trigger {
       display: block; } }
   .SiteHeader .trigger:before {
@@ -202,3 +232,19 @@ article form {
 .twitter-share-button {
   display: inline-block;
   vertical-align: middle; }
+
+.button {
+  background: #fff;
+  border: 3px solid #3498db;
+  color: #3498db;
+  display: inline-block;
+  font-weight: bold;
+  padding: 10px;
+  text-align: center;
+  width: 100%;
+  -webkit-transition: background 0.4s ease;
+  -moz-transition: background 0.4s ease;
+  transition: background 0.4s ease; }
+  .button:hover {
+    background: #eaf4fb;
+    border: 3px solid #3498db; }

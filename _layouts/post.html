@@ -7,13 +7,10 @@ layout: default
 	<div class="post">
 	{{ content }}
 	</div>
-	
-	<form action="https://tinyletter.com/michaellee" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/michaellee', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
-		<p>Sign up to receive my occasional newsletter on programming, learning &amp; other topics of geekery.</p>
-		<p>
-			<label for="tlemail">Enter your email address </label><input type="text" style="width:140px" name="email" id="tlemail" /><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" />
-		</p>
-	</form>
+
+	{% if page.hasform %}
+	{% include webinarform.html %}
+	{% endif %}
 
 	Share this article: <a href="https://twitter.com/share" class="twitter-share-button" data-via="hellomichaellee" data-count="none" data-dnt="true">Tweet</a>
 	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>

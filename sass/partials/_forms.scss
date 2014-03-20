@@ -1,0 +1,30 @@
+#mc_embed_signup{
+  h2{
+    margin: 0;
+  }
+  .indicates-required{
+    color: tomato;
+    font-size: em(14);
+  }
+  .mc-field-group{
+    @include outer-container;
+    label{
+      display: block;
+      margin-top: 0.5em;
+    }
+    input{
+      padding: 5px;
+      width: 100%;
+    }
+  }
+  .button{
+    background: #3498db;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    font-size: 16px;
+    width: 100%;
+    margin-top: 1em;
+    padding: 10px;
+  }
+}
