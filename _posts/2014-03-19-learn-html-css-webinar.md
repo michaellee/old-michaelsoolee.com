@@ -7,9 +7,9 @@ hasform: yes
 
 Can I share a frustration I've had about myself? I've been wanting to teach since <a href="{{ site.url }}/quest-teach-learn" target="_blank">relaunching my site</a>, almost a year ago. And I'm embarrassed to say that I haven't done much to make that desire a reality.
 
-I've made excuses that I don't have time, I don't know enough to teach or that people won't enjoy learning from me, so why start? I've made so many excuses that has kept me from actually trying and seeing if I'm even good at teaching or have something worth teaching.
+I've made excuses that I don't have time, I don't know enough to teach or that people won't enjoy learning from me, so why start? I've made so many excuses that has kept me from trying and seeing if I'm even good at teaching or have something worth teaching.
 
-Tonight, I'm fed up with being frustrated and making excuses. Tonight, I've decided to embark on the journey to teach and I've decided to commit to it for a month.
+Tonight, I'm tired of being frustrated and making excuses. Tonight, I've decided to embark on the journey to teach and I've decided to commit to it for a month.
 
 For the next month I've decided to teach the basics of building a website which is HTML and CSS. The only way to get the ball rolling and create a sense of urgency is to set hard deadlines and set expectations.
 
