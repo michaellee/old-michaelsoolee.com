@@ -2,7 +2,6 @@
 layout: post
 title: "Learn HTML and CSS: Live Webinar"
 categories: teach
-hasform: yes
 ---
 
 Can I share a frustration I've had about myself? I've been wanting to teach since <a href="{{ site.url }}/quest-teach-learn" target="_blank">relaunching my site</a>, almost a year ago. And I'm embarrassed to say that I haven't done much to make that desire a reality.
