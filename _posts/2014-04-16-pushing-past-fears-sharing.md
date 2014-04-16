@@ -35,4 +35,4 @@ There ain't going to be anyone who cares you say? Well, how about yourself? You'
 
 If I hadn't done the webinar, I would've never taken the time to think about why I write code the way that I do. Or that I enjoy teaching. If I didn't do the interview, the stories I shared would've been left hidden somewhere in my memory perhaps never to be told again. 
 
-If not to bring value to others, share your stories and your craft to learn and bring value to yourself.
+If not to bring value to others, share your stories and your craft to learn and find value for yourself.
