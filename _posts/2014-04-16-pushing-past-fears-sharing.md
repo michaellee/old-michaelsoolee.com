@@ -3,8 +3,6 @@ layout: post
 title: "Pushing Past Fears & Sharing"
 ---
 
-#Pushing Past Fears & Sharing
-
 I'm an introvert. This isn't to be confused with being shy. I don't fear social opportunities or putting myself out there.
 
 What I do fear is putting myself or my work out into the world to for others to stomp on or disregard for being meaningless. For this reason it often pains me to hit the publish button.
