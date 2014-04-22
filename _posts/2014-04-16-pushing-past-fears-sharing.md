@@ -5,7 +5,7 @@ title: "Pushing Past Fears & Sharing"
 
 I'm an introvert. This isn't to be confused with being shy. I don't fear social opportunities or putting myself out there.
 
-What I do fear is putting myself or my work out into the world to for others to stomp on or disregard for being meaningless. For this reason it often pains me to hit the publish button.
+What I do fear is putting myself or my work out into the world for others to stomp on or disregard for being meaningless. For this reason it often pains me to hit the publish button.
 
 Over the past month I did two things I have never done in my life. I ran a [live webinar](http://michaellee.co/learn-html-css-webinar/) to teach how to code and was [interviewed](http://onefoursev.co/post/81582843046/michael-lee) by my friend, Brandon Houlihan for his blog about creatives in the triangle.
 
@@ -17,7 +17,7 @@ Brandon is a crazy talented designer and I was honored to be included on his blo
 
 There were many times I would take a pause from the questions and read the interviews of other folks on 147. Their stories felt so much cooler than mine. One dude was a film maker who made a film about the Montagnards of Vietnam during the war or my friend, Greg who hosts a frozen food video blog. My stories were, being jumped in the 4th grade in Los Angeles and dropping out of college twice.
 
-Many times I wanted to command + a and hit the delete key because it felt uninteresting. I didn't. I made no revisions, Brandon took photos of me to put a face to my stories and he published it.
+Many times I wanted to command + a and hit the delete key because it felt uninteresting. But I didn't. I made no revisions, Brandon took photos of me to put a face to my stories and he published it.
 
 With both the webinar and the interview, I ran into fears. Fear of lacking in knowledge to teach, fear of being weird or boring, fear of putting myself and things out there and no one even caring. But if I had let these fears cripple me to the point of holding back from teaching or sharing my stories then I would have never gotten responses like these.
 
@@ -27,7 +27,7 @@ With both the webinar and the interview, I ran into fears. Fear of lacking in kn
 
 <blockquote>"Michael, thanks again for hosting the webinar...I have a coworker who's been looking for something just like your webinar...let him know the next time you host a webinar."</blockquote>
 
-I share these responses not to toot my horn. But to share the results of what came out of putting myself and my work out into the world &ndash; someone found what I was doing valuable.
+I share these responses not to toot my own horn. But to share the results of what came out of putting myself and my work out into the world &ndash; someone found what I was doing valuable.
 
 Each one of us has something to share with the world. Whether it'd be our stories or our craft. You might think these things are insignificant but I challenge you to publicly share it. In doing so I guarantee at least one person will find it valuable and that should be all that matters.
 
