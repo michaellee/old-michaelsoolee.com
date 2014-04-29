@@ -6,7 +6,7 @@ categories: css
 
 I've started playing around with Sass Directives and Maps; which the latter was recently introduced in <a href="http://sass-lang.com/documentation/file.SASS_CHANGELOG.html#330_7_march_2014" target="_blank">Sass 3.3</a>. If you're familiar with languages like Javascript or Ruby, a Sass Map is the equivalent of a Hash; they store key/value pairs.
 
-One of the first things I did when I discovered Sass Directives and Maps were to convert my color variables into a map and use a loop to quickly generate utility style blocks in the manner of OOCSS.
+One of the first things I did when I discovered Sass Directives and Maps were to convert my color variables into a map and use a loop to quickly generate utility style blocks in the manner of <a href="https://github.com/stubbornella/oocss/wiki" target="_blank">OOCSS</a>.
 
 Here's an example of going from using variables to using a Map and a loop.
 
