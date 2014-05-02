@@ -5,7 +5,7 @@ title: "Stop Using Corner Banners"
 
 Once in a while I come across a site that uses a corner banner to link elsewhere. This is a problem. Depending on the size of my browser, the banner will get in the way of my interaction with the site.
 
-!()[https://dl.dropboxusercontent.com/u/1228961/michaellee/2014/05%20-%20May/banner.png]
+![](https://dl.dropboxusercontent.com/u/1228961/michaellee/2014/05%20-%20May/banner.png)
 
 Not cool...
 
