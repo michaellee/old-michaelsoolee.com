@@ -7,7 +7,7 @@ Once in a while I come across a site that uses a corner banner to link elsewhere
 
 ![](https://dl.dropboxusercontent.com/u/1228961/michaellee/2014/05%20-%20May/banner.png)
 
-Not cool...
+I want to click the DOCS button but I can't because the GitHub banner is in the way. Not cool...
 
 The reason why this happens, is that graphic is bound to a square space. Although the graphic is just a banner, the graphic that encases the banner has a bounding box that takes up space to the furthest pixels.
 
