@@ -47,4 +47,8 @@ Native Haus is just getting started. We're learning a lot and solving things as 
 
 Want to stay in the loop with the latest Native Haus news?
 
+<a href="http://eepurl.com/TlyaD" target="_blank" class="button">Sign Up for Newsletter</a>
+
 Check out our website.
+
+<a href="http://www.nativehaus.com" class="button">Go to Native Haus</a>
