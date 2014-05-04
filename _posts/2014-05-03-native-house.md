@@ -3,6 +3,8 @@ layout: post
 title: "Native Haus"
 ---
 
+![](https://dl.dropboxusercontent.com/u/1228961/michaellee/2014/05%20-%20May/native-haus.jpg)
+
 Last Friday, my wife and I officially launched our online paper goods business &ndash; Native Haus.
 
 The idea behind Native Haus came about during Valentine's Day, when my mother-in-law was staying with us. In the tradition of all our American holidays, I wanted to get my mother-in-law a Valentine's Day card but there was a problem; _she doesn't speak or read English_.
