@@ -1,22 +1,35 @@
 ---
 layout: default
-title: Michael Lee
 ---
 
+{% for post in paginator.posts %}
 <article>
-	{% assign post = site.posts.first %}
-	{% assign content = post.content %}
-	<h2 class="Entry-title">
-	{% if post.title %}
-	<a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
-	{% endif %}
-	</h2>
-	<div class="Entry-content">
-	{{ content }}
-	{% if post.hasform %}
-	{% include webinarform.html %}
-	{% endif %}
-	</div>
-	Let's connect <a href="https://twitter.com/hellomichaellee" class="twitter-follow-button Entry-follow" data-show-count="false">Follow @hellomichaellee</a> or check out some of my <a href="{{site.url}}/writings" class="Entry-cta">other writings</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+  <header>
+    <div class="sans-serif">{{ post.date | date: "%b %-d, %Y" }}</div>
+
+    {% if post.external %}
+      <a class="h3 bold inline external mb1" href="{{ post.external }}">{{ post.title }}</a><a href="{{ post.url | prepend: site.baseurl }}" class="icon-anchor Permalink" title="Permalink to {{ post.title }}"></a>
+    {% else %}
+      <a class="h3 bold inline mb1" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    {% endif %}
+  </header>
+
+  {{ post.content }}
 </article>
+{% endfor %}
+
+
+<section class="Pagination">
+  {% if paginator.previous_page %}
+    {% if paginator.previous_page == 1 %}
+      <a href="/" class="left button button--orange sans-serif Pagination-previous">Newer</a>
+    {% else%}
+      <a href="/page{{ paginator.previous_page }}" class="left button button--orange sans-serif Pagination-previous">Newer</a>
+    {% endif %}
+  {% endif %}
+
+  {% if paginator.next_page %}
+    <a href="/page{{ paginator.next_page }}" class="right button button--orange sans-serif Pagination-next">Older</a>
+  {% endif %}
+  <div class="clearfix"></div>
+</section>

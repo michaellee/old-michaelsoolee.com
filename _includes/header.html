@@ -1,0 +1,13 @@
+<header class="container--medium px1 mt2 mb4 SiteHeader">
+
+  <nav class="SiteHeader-nav h5">
+    {% for page in site.pages %}
+      <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+    {% endfor %}
+  </nav>
+  
+  <h1><a class="h2 Brand" href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+
+  <div class="clearfix"></div>
+
+</header>

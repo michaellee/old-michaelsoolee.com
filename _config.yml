@@ -1,6 +1,11 @@
-name: Michael Lee
-markdown: redcarpet
-pygments: true
+# Site settings
+title: Michael Lee
+email: hellomichaellee@gmail.com
+description: "Michael Lee is a craftsman of nice things."
+baseurl: ""
+url: "http://michaellee.co"
+paginate: 4
 
+# Build settings
+markdown: kramdown
 permalink: /:title
-baseurl: /
