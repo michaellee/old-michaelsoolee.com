@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
+title: Writings
+permalink: /writings/
 ---
 
 # Other writings
