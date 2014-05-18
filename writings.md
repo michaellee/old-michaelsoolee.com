@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Other writings / Michael Lee
 ---
 
 # Other writings
