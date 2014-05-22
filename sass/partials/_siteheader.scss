@@ -1,0 +1,26 @@
+.SiteHeader{
+  font-family: $sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+  .Brand{
+    border: none;
+    color: $black;
+    font-weight: 700;
+    text-decoration: none;
+    @include media($desktop){
+      float: left;
+    }
+  }
+  &-nav{
+    line-height: 3rem;
+    @include media($desktop){
+      float: right;
+      a{
+        margin-left: 0.25rem;
+      }
+      a:first-child{
+        margin: 0;
+      }
+    }
+  }
+}

@@ -877,7 +877,11 @@ body {
     line-height: 3rem; }
     @media screen and (min-width: 761px) {
       .SiteHeader-nav {
-        float: right; } }
+        float: right; }
+        .SiteHeader-nav a {
+          margin-left: 0.25rem; }
+        .SiteHeader-nav a:first-child {
+          margin: 0; } }
 
 .SiteContent article:before {
   content: '';

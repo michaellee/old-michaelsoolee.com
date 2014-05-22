@@ -1,0 +1,49 @@
+.SiteContent{
+  article{
+    &:before{
+      content: '';
+      border-top: 1px solid $gray;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 4rem;
+      padding-top: 4rem;
+      width: 140px;
+    }
+    &:first-child:before{
+      border: none;
+      margin: 0;
+      padding: 0;
+    }
+  }
+  article header{
+    a:not(.external){
+      border-bottom: none;
+    }
+    a:hover{
+      color: $red;
+    }
+    .Permalink{
+      color: $gray;
+      display: inline-block;
+      line-height: 2.3rem;
+      margin-left: 0.325rem;
+      vertical-align: top;
+    }
+  }
+  img{
+    max-width: 100%;
+  }
+  h1{
+    @extend .h3;
+  }
+  h2{
+    @extend .h4;
+  }
+}
+
+.Pagination{
+  &:before{
+    @extend %border;
+  }
+}

@@ -1,0 +1,32 @@
+%border{
+  border-top: 1px solid $gray;
+  display: block;
+  content: '';
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 4rem;
+  padding-top: 4rem;
+  width: 140px;
+}
+
+a{
+  border-bottom: 1px solid $gray;
+  padding-bottom: 0.05rem;
+  color: $black;
+  text-decoration: none;
+  @include transition(border 0.3s ease, color 0.3s ease);
+  &:hover{
+    border-bottom: 1px solid $orange;
+  }
+}
+
+.highlight, pre{
+  margin-bottom: 1rem;
+}
+
+blockquote{
+  border-left: 1px solid $gray;
+  margin: 0 1rem 1rem;
+  padding: 0.25rem 1rem;
+  font-style: italic;
+}
