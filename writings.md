@@ -4,8 +4,6 @@ title: Writings
 permalink: /writings/
 ---
 
-# Other writings
-
 {% for post in site.posts  %}
   
   {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
