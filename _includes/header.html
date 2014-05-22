@@ -1,9 +1,8 @@
 <header class="container--medium px1 mt2 mb4 SiteHeader">
 
   <nav class="SiteHeader-nav h5">
-    {% for page in site.pages %}
-      <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-    {% endfor %}
+    <a href="/about">About</a>
+    <a href="/writings">Writings</a>
   </nav>
   
   <h1><a class="h2 Brand" href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
