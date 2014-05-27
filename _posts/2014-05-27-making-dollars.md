@@ -4,7 +4,7 @@ While waiting for my breakfast order the other day at Panera Bread, I was greete
 
 He asked how I was doing and I replied that I was doing well.
 
-I asked how he was doing and with the biggest smile, he replied, "I'm having a good day becasue I'm making dollars".
+I asked how he was doing and with the biggest smile, he replied, "I'm having a good day because I'm making dollars".
 
 He didn't have to say anymore, his demeanor said it all. He was geninely happy and was glad to have a job that paid him dollars.
 
