@@ -4,7 +4,7 @@ title:  "Looping through many-to-many Relationships in Ember.js"
 categories: ember
 ---
 
-Lately I've been learning how to program with Ember.js &ndash; a MVC Javascript framework. In trying to focus on learning Ember.js alone, I've been relying my data on `FIXTURES`. FIXTURES are a great way to populate some data to be used with your Ember.js application without having to hook up to an API server.
+Lately I've been learning how to program with Ember.js &ndash; a MVC Javascript framework. In trying to focus on learning Ember.js alone, I've been relying on `FIXTURES` for my data. FIXTURES are a great way to populate some data to be used with your Ember.js application without having to hook up to an API server.
 
 Recently I started a project that dealt with setting up models for many-to-many relationships. Based on <a href="http://emberjs.com/guides/models/defining-models/#toc_many-to-many" target="_blank">Ember.js' documentation</a>, I set up my models and FIXTURES like this:
 
