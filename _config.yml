@@ -6,6 +6,8 @@ baseurl: ""
 url: "http://michaellee.co"
 paginate: 4
 
+exclude: ['sass/']
+
 # Build settings
-markdown: kramdown
+markdown: redcarpet
 permalink: /:title

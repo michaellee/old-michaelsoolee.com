@@ -23,6 +23,6 @@ This site is where I mostly chronicle life and things I geek out about.
 <a href="mailto:hellomichaellee@gmail.com?Subject=Hello%20Michael!" target="_top" class="button button--orange">
 Get in Contact</a>
 
-## Nerd talk
+<h2 class="mt2">Nerd talk</h2>
 
-This site was built with <a href="http://bourbon.io">Bourbon</a>, <a href="http://neat.bourbon.io">Neat</a> and <a href="http://jekyllrb.com">Jekyll</a>. The source code and the articles of this site is <a href="https://github.com/michaellee/michaellee.github.io">hosted on GitHub</a>. The typeface is set in <a href="http://www.google.com/fonts/specimen/Source+Sans+Pro">Source Sans Pro</a> and hosted by Google Fonts.
+This site was built with <a href="https://github.com/michaellee/chicken">Chicken</a>, <a href="https://github.com/michaellee/waffles">Waffles</a> and <a href="http://jekyllrb.com">Jekyll</a>. The source code and the articles of this site is <a href="https://github.com/michaellee/michaellee.github.io">hosted on GitHub</a>. The typeface is set in [Source Sans Pro](http://www.google.com/fonts/specimen/Source+Sans+Pro) and [Bitter](https://www.google.com/fonts/specimen/Bitter) hosted by Google Fonts.

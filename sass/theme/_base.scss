@@ -29,4 +29,18 @@ blockquote{
   margin: 0 1rem 1rem;
   padding: 0.25rem 1rem;
   font-style: italic;
+  p:last-child{
+    margin: 0;
+  }
+}
+
+pre{
+  overflow-x: scroll;
+}
+
+ul li{
+  margin-top: 1rem;
+  &:first-child{
+    margin-top: 0;
+  }
 }
