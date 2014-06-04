@@ -1024,6 +1024,8 @@ pre[class*='language-'] > code[data-language]::before {
   border-bottom: none; }
 .SiteContent article header a:hover {
   color: #ed6c63; }
+.SiteContent article header .external {
+  display: inline; }
 .SiteContent article header .Permalink {
   color: #cccccc;
   display: inline-block;

@@ -4,13 +4,13 @@ layout: default
 
 {% for post in paginator.posts %}
 <article>
-  <header>
+  <header class="mb1">
     <div class="sans-serif">{{ post.date | date: "%b %-d, %Y" }}</div>
 
     {% if post.external %}
-      <a class="h3 bold inline external mb1" href="{{ post.external }}">{{ post.title }}</a><a href="{{ post.url | prepend: site.baseurl }}" class="icon-anchor Permalink" title="Permalink to {{ post.title }}"></a>
+      <a class="h3 bold external" href="{{ post.external }}">{{ post.title }}</a><a href="{{ post.url | prepend: site.baseurl }}" class="icon-anchor Permalink" title="Permalink to {{ post.title }}"></a>
     {% else %}
-      <a class="h3 bold inline mb1" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      <a class="h3 bold inline" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
     {% endif %}
   </header>
 
