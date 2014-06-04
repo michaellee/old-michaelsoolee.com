@@ -26,4 +26,7 @@ This gets rid of the odd spacing underneath the <img> element, resulting in some
 
 ![](https://dl.dropboxusercontent.com/u/1228961/michaellee/2014/06%20-%20June/img-space-05.png)
 
-Much better!
+Much better! Here's also an example of the <a href="http://codepen.io/michaellee/pen/mILEK">solution on CodePen</a>.
+
+<p data-height="268" data-theme-id="0" data-slug-hash="mILEK" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/michaellee/pen/mILEK/'>Extra Space Beneath <img> Fix</a> by Michael Lee (<a href='http://codepen.io/michaellee'>@michaellee</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//codepen.io/assets/embed/ei.js"></script>
