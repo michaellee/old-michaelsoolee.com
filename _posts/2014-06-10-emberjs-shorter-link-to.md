@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ember.js' shorter `{{link-to}}` helper syntax"
+title:  "Ember.js' shorter {{link-to}} helper syntax"
 categories: ember
 ---
 
