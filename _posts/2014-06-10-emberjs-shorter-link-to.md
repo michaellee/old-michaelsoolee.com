@@ -46,4 +46,6 @@ Yesterday, <a href="http://emberjs.com/guides/templates/links/#toc_adding-additi
 {% endraw %}
 ```
 
-Much shorter and a lot quicker to write then the block link. I know, you're probably saying, "Well why don't you just let your text-editor autosuggest those things?". I actually do but it's nice to know a languages' nuances.
+Much shorter and a lot quicker to write then the block link. I know, you're probably saying, "Well why don't you just let your text-editor autosuggest those things?". I actually do but it's nice to know a languages' nuances. 
+
+I'd also like to add that the Ember.js team has a great job creating an awesome set of docs. If you're learning Ember and haven't familiarized yourself with their <a href="http://emberjs.com/guides/getting-ember/" target="_blank">official docs</a>, I can't recommend it enough.
