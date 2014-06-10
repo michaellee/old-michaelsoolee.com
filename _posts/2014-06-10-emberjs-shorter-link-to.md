@@ -30,7 +30,7 @@ Block of code you're linking
 */
 ```
 
-Yesterday, I discovered a shorter syntax which is perfect for simple text links. That syntax looks like this:
+Yesterday, <a href="http://emberjs.com/guides/templates/links/#toc_adding-additional-attributes-on-a-link" target="_blank">I discovered a shorter syntax</a> which is perfect for simple text links. That syntax looks like this:
 
 ```javascript
 /*
