@@ -4,9 +4,9 @@ title:  "Ember.js' shorter {{link-to}} helper syntax"
 categories: ember
 ---
 
-I feel pretty noobish for just discovering this but there's a way to use Ember's `{{link-to}}` helper as a non-block link. Oh the joys and pains of learning the specifics and various nuances of learning a new language.
+I feel pretty noobish for just discovering this but there's a way to use Ember's {% raw %}`{{link-to}}`{% endraw %} helper as a non-block link. Oh the joys and pains of learning the specifics and various nuances of learning a new language.
 
-The `{{link-to}}` helper is how Ember.js handles links within an application. So for example if you've got a route at `baseurl.com/about`. Instead of using `<a href="/about">About</a>` to render the link, you'd use `{{#link-to 'about'}}About{{/link-to}}`.
+The {% raw %}`{{link-to}}`{% endraw %} helper is how Ember.js handles links within an application. So for example if you've got a route at `baseurl.com/about`. Instead of using `<a href="/about">About</a>` to render the link, you'd use `{{#link-to 'about'}}About{{/link-to}}`.
 
 Up until now I've been using the `{{link-to}}` tag in its block format. The format which looks like this:
 
