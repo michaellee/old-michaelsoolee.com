@@ -2,3 +2,5 @@ _site
 .sass-cache
 sass/library
 .ruby-version
+.env
+s3_website.yml
