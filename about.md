@@ -8,7 +8,7 @@ permalink: /about/
 
 Hey there! I'm Michael.
 
-I'm a husband, a father, a front-end developer at <a href="http://reverbnation.com" target="_blank">ReverbNation</a>, [designer and maker of apps](http://michaellee.co/labors-of-love/), [a writer](http://www.edisonunion.com) and a [paper goods](http://www.nativehaus.com) maker from Cary, North Carolina.
+I'm a husband, a father, a front-end developer at <a href="http://reverbnation.com" target="_blank">ReverbNation</a>, [designer and maker of apps](http://michaellee.co/labors-of-love/), a writer at [Edison Union](http://www.edisonunion.com) and a paper goods maker at [native haus](http://www.nativehaus.com) from Cary, North Carolina.
 
 I designed and built this site to house writings that chronicle life, knowledge I'm gaining as a developer and things I geek out about.
 
