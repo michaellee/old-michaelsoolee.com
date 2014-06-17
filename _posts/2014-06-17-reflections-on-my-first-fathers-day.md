@@ -1,4 +1,10 @@
-> "Having a child, it's extremely expanding. Because you suddenly relate to everyone else on earth who has a child. No matter what race, class or creed." - __<a href="http://www.humansofnewyork.com/" target="_blank">Paraphrased quote from Humans of New York</a>__
+---
+layout: post
+title:  "Reflections on My First Father's Day"
+categories: fathers-day
+---
+
+> "Having a child, it's extremely expanding. Because you suddenly relate to everyone else on earth who has a child. No matter what race, class or creed." - <a href="http://www.humansofnewyork.com/" target="_blank">Paraphrased quote from Humans of New York</a>
 
 This year with the birth of my son, Noah I got to join fatherhood. And what's described in the quote above happened; an experience that no one had told me about so it was completely unexpected.
 
