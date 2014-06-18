@@ -24,12 +24,12 @@ layout: default
     {% if paginator.previous_page == 1 %}
       <a href="/" class="left button button--orange sans-serif Pagination-previous">Newer</a>
     {% else%}
-      <a href="/page{{ paginator.previous_page }}" class="left button button--orange sans-serif Pagination-previous">Newer</a>
+      <a href="/page/{{ paginator.previous_page }}" class="left button button--orange sans-serif Pagination-previous">Newer</a>
     {% endif %}
   {% endif %}
 
   {% if paginator.next_page %}
-    <a href="/page{{ paginator.next_page }}" class="right button button--orange sans-serif Pagination-next">Older</a>
+    <a href="/page/{{ paginator.next_page }}" class="right button button--orange sans-serif Pagination-next">Older</a>
   {% endif %}
   <div class="clearfix"></div>
 </section>
