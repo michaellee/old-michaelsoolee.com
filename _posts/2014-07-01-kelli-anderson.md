@@ -19,4 +19,4 @@ Having just learned some Ember.js by jumping head-first in building <a href="htt
 
 The amount I learn from just diving into building an actual app is exponential. If you're trying to learn to program, I can't recommend enough a head-first approach.
 
-Check out Kelli's interview on _The Great Discontent_ and check out Kelli's work in Tinybop's _The Human Body_ app.
+Check out Kelli's interview on _The Great Discontent_ and check out Kelli's work in <a href="https://itunes.apple.com/us/app/the-human-body-by-tinybop/id682046579?mt=8&uo=4&at=11l9EG">Tinybop's _The Human Body_ app</a>.
