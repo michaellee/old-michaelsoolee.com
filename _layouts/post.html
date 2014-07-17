@@ -3,14 +3,14 @@ layout: default
 ---
 
 <article>
-  <header>
+  <header class="mb1">
     
     <div class="sans-serif">{{ page.date | date: "%b %-d, %Y" }}</div>
     
     {% if page.external %}
-    <a class="h3 bold inline external mb1" href="{{ page.external }}">{{ page.title }}</a>
+    <a class="h3 bold inline external" href="{{ page.external }}">{{ page.title }}</a>
     {% else %}
-    <h1 class="h3 bold inline mb1">{{ page.title }}</h1>
+    <h1 class="h3 bold inline">{{ page.title }}</h1>
     {% endif %}
 
   </header>
