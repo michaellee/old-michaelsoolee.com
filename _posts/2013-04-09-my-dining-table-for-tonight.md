@@ -5,8 +5,6 @@ date:   2013-04-09 22:21:03
 categories: life
 ---
 
-<img src="https://s3.amazonaws.com/michaelleeco/post-photos/dining-table-040913.jpg" alt="" />
-
 Tonight I got to enjoy the delicious dinner my wife prepared for me outside in the 80 degrees heat. With my own personal band consisting of birds, a calm breeze, leaves swishing in a nearby tree and cars roaming by the side street adjacent to where I was sitting, playing some sweet melodies. Ok, the cars and their drivers glancing at me weren't so sweet but being able to unplug and have dinner outside alone with my meal, my thoughts and the gifts Mother Nature had to provide were.
 
 Don't get me wrong, I love being able to dine in at home with my wife. But tonight I had an opportunity to unplug and be outside which is something I find rare in my life these days.

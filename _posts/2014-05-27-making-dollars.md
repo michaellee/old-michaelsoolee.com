@@ -1,4 +1,9 @@
-> I'm having a good day because I'm making dollars.
+---
+layout: post
+title: "I'm having a good day because I'm making dollars"
+date: 2014-05-27
+categories: life
+--- 
 
 While waiting for my breakfast order the other day at Panera Bread, I was greeted by a guy who had just walked out of the back with some clean dishes.
 

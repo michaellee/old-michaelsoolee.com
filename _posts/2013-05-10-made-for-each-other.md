@@ -2,7 +2,7 @@
 layout: post
 title:  "Made for Each Other"
 date:   2013-05-10 22:21:03
-categories: collaboration
+categories: people 
 ---
 
 Tonight I was reminded that we are all made for each other. Human beings are made to interact with each other. To work with one another. To inspire and bring forth ideas and strengths to share with the world.

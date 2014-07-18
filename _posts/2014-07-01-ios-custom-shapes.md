@@ -4,6 +4,8 @@ title: "Custom Shapes in iOS"
 categories: programming
 ---
 
+![](https://dl.dropboxusercontent.com/u/1228961/michaellee/2014/07%20-%20July/pz-dribbble-icons.jpg)
+
 The other day, my partner challenged me that I should draw the custom shape elements I was using for Project Z with code instead of relying on transparent PNGs that I created in Photoshop.
 
 After some thought, I accepted the challenge and sought out how to draw custom shapes in iOS. After doing a quick search, I discovered iOS has a vector drawing class called `UIBezierPath`. The bezier path would be used to define the path of the new shape, and then the shape would be rendered using the `CAShapeLayer` class.
