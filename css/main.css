@@ -1043,33 +1043,42 @@ pre[class*="language-"] {
       .SiteHeader .menu a:hover {
         color: #62bc94; }
 
-.SiteContent article:before {
-  content: '';
-  border-top: 1px solid #cccccc;
+.SiteContent {
+  float: left;
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 4rem;
-  padding-top: 4rem;
-  width: 140px; }
-.SiteContent article:first-child:before {
-  border: none;
-  margin: 0;
-  padding: 0; }
-.SiteContent article header a:not(.external) {
-  border-bottom: none; }
-.SiteContent article header a:hover {
-  color: #ed6c63; }
-.SiteContent article header .external {
-  display: inline; }
-.SiteContent article header .Permalink {
-  color: #cccccc;
-  display: inline-block;
-  line-height: 2.3rem;
-  margin-left: 0.325rem;
-  vertical-align: top; }
-.SiteContent img {
-  max-width: 100%; }
+  margin-right: 2.35765%;
+  width: 48.82117%;
+  margin-right: 0; }
+  .SiteContent:last-child {
+    margin-right: 0; }
+  .SiteContent p {
+    font-size: 1.5rem;
+    margin-bottom: 1.75rem; }
+  .SiteContent article:before {
+    content: '';
+    border-top: 1px solid #cccccc;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 4rem;
+    padding-top: 4rem;
+    width: 140px; }
+  .SiteContent article:first-child:before {
+    border: none;
+    margin: 0;
+    padding: 0; }
+  .SiteContent article header a:not(.external) {
+    border-bottom: none; }
+  .SiteContent article header .external {
+    display: inline; }
+  .SiteContent article header .Permalink {
+    color: #cccccc;
+    display: inline-block;
+    line-height: 2.3rem;
+    margin-left: 0.325rem;
+    vertical-align: top; }
+  .SiteContent img {
+    max-width: 100%; }
 
 .SiteSidebar {
   float: left;

@@ -1,4 +1,10 @@
 .SiteContent{
+  @include span-columns(6 of 12);
+  @include omega();
+  p{
+    font-size: rem(24);
+    margin-bottom: 1.75rem;
+  }
   article{
     &:before{
       content: '';
@@ -19,9 +25,6 @@
   article header{
     a:not(.external){
       border-bottom: none;
-    }
-    a:hover{
-      color: $red;
     }
     .external{
       display: inline;
