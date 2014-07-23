@@ -80,15 +80,15 @@ body {
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility; }
 
-p, h1, .h1, h2, .h2, h3, .h3, .SiteContent h1, h4, .h4, .SiteContent h2, h5, .h5, h6, .h6, dl, ol, ul {
-  font-size: 0.9375rem;
+p, h1, h2, h3, h4, h5, h6, dl, ol, ul {
+  font-size: 0.875rem;
   line-height: 1.25em; }
   @media screen and (max-width: 760px) and (min-width: 321px) {
-    p, h1, .h1, h2, .h2, h3, .h3, .SiteContent h1, h4, .h4, .SiteContent h2, h5, .h5, h6, .h6, dl, ol, ul {
-      font-size: 1.00rem; } }
+    p, h1, h2, h3, h4, h5, h6, dl, ol, ul {
+      font-size: 0.9375rem; } }
   @media screen and (min-width: 761px) {
-    p, h1, .h1, h2, .h2, h3, .h3, .SiteContent h1, h4, .h4, .SiteContent h2, h5, .h5, h6, .h6, dl, ol, ul {
-      font-size: 1.0625rem; } }
+    p, h1, h2, h3, h4, h5, h6, dl, ol, ul {
+      font-size: 1.0rem; } }
 
 p {
   line-height: 1.5em; }
@@ -151,10 +151,13 @@ h6, .h6 {
   font-weight: normal; }
 
 .thin {
-  font-weight: 100; }
+  font-weight: 300; }
 
 .bold, strong {
   font-weight: bold; }
+
+.medium {
+  font-weight: 500; }
 
 .italic {
   font-style: italic; }
@@ -860,15 +863,14 @@ ul li {
     margin-top: 0; }
 
 body {
-  color: #333333;
-  font-family: "Bitter", serif;
+  font-family: Georgia, Cambria, "Times New Roman", Times, serif;
   font-weight: 400; }
 
-.sans-serif {
-  font-family: "Source Sans Pro", sans-serif; }
-
 .serif {
-  font-family: "Bitter", serif; }
+  font-family: Georgia, Cambria, "Times New Roman", Times, serif; }
+
+.sans-serif {
+  font-family: "Avenir Next", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; }
 
 /* http://prismjs.com/download.html?themes=prism-okaidia&languages=markup+css+clike+javascript+scss+ruby+swift */
 /**
@@ -964,7 +966,6 @@ pre[class*="language-"] {
   cursor: help; }
 
 .SiteHeader {
-  font-family: "Source Sans Pro", sans-serif;
   text-align: center;
   text-transform: uppercase; }
   .SiteHeader .Brand {
@@ -1012,6 +1013,3 @@ pre[class*="language-"] {
   vertical-align: top; }
 .SiteContent img {
   max-width: 100%; }
-
-.SiteFooter {
-  font-family: "Source Sans Pro", sans-serif; }

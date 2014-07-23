@@ -1,16 +1,12 @@
-$sans-serif: "Source Sans Pro", sans-serif;
-$serif: "Bitter", serif;
-
 body{
-  color: $black;
-  font-family: $serif;
-  font-weight: 400;
-}
-
-.sans-serif{
-  font-family: $sans-serif;
+	font-family: $georgia;
+	font-weight: 400;
 }
 
 .serif{
-  font-family: $serif;
+	font-family: $georgia;
+}
+
+.sans-serif{
+	font-family: 'Avenir Next', $helvetica;
 }
