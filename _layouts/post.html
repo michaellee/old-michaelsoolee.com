@@ -8,11 +8,12 @@ layout: default
     <div class="sans-serif">{{ page.date | date: "%b %-d, %Y" }}</div>
     
     {% if page.external %}
-    <a class="h3 bold inline external" href="{{ page.external }}">{{ page.title }}</a>
+    <h2 class="mb0"><a class="bold inline external" href="{{ page.external }}">{{ page.title }}</a></h2>
     {% else %}
-    <h1 class="h3 bold inline">{{ page.title }}</h1>
+    <h1 class="h2 bold inline">{{ page.title }}</h1>
     {% endif %}
-
+    
+    <div class="sans-serif">in {{page.categories}}</div>
   </header>
 
   {{ content }}

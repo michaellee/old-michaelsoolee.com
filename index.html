@@ -8,10 +8,12 @@ layout: default
     <div class="sans-serif">{{ post.date | date: "%b %-d, %Y" }}</div>
 
     {% if post.external %}
-      <a class="h3 bold external" href="{{ post.external }}">{{ post.title }}</a><a href="{{ post.url | prepend: site.baseurl }}" class="icon-anchor Permalink" title="Permalink to {{ post.title }}"></a>
+      <h2 class="mb0" style="display: inline;"><a class="bold external" href="{{ post.external }}">{{ post.title }}</a></h2><a href="{{ post.url | prepend: site.baseurl }}" class="icon-anchor Permalink" title="Permalink to {{ post.title }}"></a>
     {% else %}
-      <a class="h3 bold inline" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      <h2 class="mb0" style="display: inline;"><a class="bold" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
     {% endif %}
+
+    <div class="sans-serif">in {{post.categories}}</div>
   </header>
 
   {{ post.content }}

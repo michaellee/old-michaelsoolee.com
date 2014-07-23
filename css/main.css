@@ -111,22 +111,22 @@ h2, .h2 {
     h2, .h2 {
       font-size: 2.375rem; } }
 
-h3, .h3, .SiteContent h1 {
+h3, .h3 {
   font-size: 1.5rem; }
   @media screen and (max-width: 760px) and (min-width: 321px) {
-    h3, .h3, .SiteContent h1 {
+    h3, .h3 {
       font-size: 1.625rem; } }
   @media screen and (min-width: 761px) {
-    h3, .h3, .SiteContent h1 {
+    h3, .h3 {
       font-size: 1.75rem; } }
 
-h4, .h4, .SiteContent h2 {
+h4, .h4 {
   font-size: 1.25rem; }
   @media screen and (max-width: 760px) and (min-width: 321px) {
-    h4, .h4, .SiteContent h2 {
+    h4, .h4 {
       font-size: 1.3125rem; } }
   @media screen and (min-width: 761px) {
-    h4, .h4, .SiteContent h2 {
+    h4, .h4 {
       font-size: 1.375rem; } }
 
 h5, .h5 {
@@ -822,16 +822,6 @@ input {
   content: '\e800'; }
 
 /* '' */
-.Pagination:before, .SiteFooter:before {
-  border-top: 1px solid #cccccc;
-  display: block;
-  content: '';
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 4rem;
-  padding-top: 4rem;
-  width: 140px; }
-
 a {
   color: #62bc94;
   text-decoration: none;
@@ -925,7 +915,7 @@ body {
 .sans-serif {
   font-family: "Avenir Next", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; }
 
-h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .SiteContent h1, .h4, .SiteContent h2, .h5, .h6 {
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   font-family: "Avenir Next", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; }
 
 /* http://prismjs.com/download.html?themes=prism-okaidia&languages=markup+css+clike+javascript+scss+ruby+swift */
@@ -1054,19 +1044,6 @@ pre[class*="language-"] {
   .SiteContent p {
     font-size: 1.5rem;
     margin-bottom: 1.75rem; }
-  .SiteContent article:before {
-    content: '';
-    border-top: 1px solid #cccccc;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 4rem;
-    padding-top: 4rem;
-    width: 140px; }
-  .SiteContent article:first-child:before {
-    border: none;
-    margin: 0;
-    padding: 0; }
   .SiteContent article header a:not(.external) {
     border-bottom: none; }
   .SiteContent article header .external {
@@ -1074,7 +1051,7 @@ pre[class*="language-"] {
   .SiteContent article header .Permalink {
     color: #cccccc;
     display: inline-block;
-    line-height: 2.3rem;
+    line-height: 2.75rem;
     margin-left: 0.325rem;
     vertical-align: top; }
   .SiteContent img {
