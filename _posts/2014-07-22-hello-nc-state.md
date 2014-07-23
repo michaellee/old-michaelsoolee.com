@@ -3,7 +3,7 @@ layout: post
 title: "Hello, NC State"
 categories: Life
 ---
-![](https://dl.dropboxusercontent.com/u/1228961/michaellee/2014/07%20-%20July/ncsu.jpg)
+![]({{ site.url }}/assets/images/2014/july/ncsu.jpg)
 
 Wednesday will be my last day at ReverbNation.
 
