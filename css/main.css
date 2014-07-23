@@ -1044,6 +1044,10 @@ pre[class*="language-"] {
   .SiteContent p {
     font-size: 1.5rem;
     margin-bottom: 1.75rem; }
+  .SiteContent article {
+    border-bottom: 1px solid #cccccc;
+    margin-bottom: 3rem;
+    padding-bottom: 1.25rem; }
   .SiteContent article header a:not(.external) {
     border-bottom: none; }
   .SiteContent article header .external {
@@ -1071,3 +1075,13 @@ pre[class*="language-"] {
 
 .SiteSidebar-emailSignUp input {
   width: 100%; }
+
+.SiteFooter {
+  float: left;
+  display: block;
+  margin-right: 2.35765%;
+  width: 48.82117%;
+  margin-left: 25.58941%;
+  margin-right: 0; }
+  .SiteFooter:last-child {
+    margin-right: 0; }

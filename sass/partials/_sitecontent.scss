@@ -5,6 +5,11 @@
     font-size: rem(24);
     margin-bottom: 1.75rem;
   }
+  article{
+    border-bottom: 1px solid $gray;
+    margin-bottom: 3rem;
+    padding-bottom: 1.25rem;
+  }
   article header{
     a:not(.external){
       border-bottom: none;
