@@ -5,14 +5,15 @@ layout: default
 <article>
   <header class="mb1">
     
-    <div class="sans-serif">{{ page.date | date: "%b %-d, %Y" }}</div>
+    <div class="sans-serif medium">{{ page.date | date: "%b %-d, %Y" }}</div>
     
     {% if page.external %}
-    <a class="h3 bold inline external" href="{{ page.external }}">{{ page.title }}</a>
+    <h2 class="mb0"><a class="bold inline external" href="{{ page.external }}">{{ page.title }}</a></h2>
     {% else %}
-    <h1 class="h3 bold inline">{{ page.title }}</h1>
+    <h1 class="h2 bold inline mb0">{{ page.title }}</h1>
     {% endif %}
-
+    
+    <div class="sans-serif medium">in {{page.categories}}</div>
   </header>
 
   {{ content }}

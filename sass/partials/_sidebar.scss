@@ -1,0 +1,14 @@
+.SiteSidebar{
+	@include span-columns(2 of 12);
+	@include shift(1);
+}
+
+.Profile{
+	img{
+		max-width: 120px;
+	}
+}
+
+.SiteSidebar-emailSignUp input{
+	width: 100%;
+}

@@ -1,16 +1,21 @@
-$sans-serif: "Source Sans Pro", sans-serif;
-$serif: "Bitter", serif;
-
 body{
-  color: $black;
-  font-family: $serif;
-  font-weight: 400;
+	font-family: $georgia;
+	font-weight: 400;
 }
 
-.sans-serif{
-  font-family: $sans-serif;
+::selection{
+	background: $green;
+	color: #fff;
 }
 
 .serif{
-  font-family: $serif;
+	font-family: $georgia;
+}
+
+.sans-serif{
+	font-family: 'Avenir Next', $helvetica;
+}
+
+h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
+	font-family: 'Avenir Next', $helvetica;
 }

@@ -1,27 +1,18 @@
 .SiteContent{
+  @include span-columns(6 of 12);
+  @include omega();
+  p{
+    font-size: rem(24);
+    margin-bottom: 1.75rem;
+  }
   article{
-    &:before{
-      content: '';
-      border-top: 1px solid $gray;
-      display: block;
-      margin-left: auto;
-      margin-right: auto;
-      margin-top: 4rem;
-      padding-top: 4rem;
-      width: 140px;
-    }
-    &:first-child:before{
-      border: none;
-      margin: 0;
-      padding: 0;
-    }
+    border-bottom: 1px solid $gray;
+    margin-bottom: 3rem;
+    padding-bottom: 1.25rem;
   }
   article header{
     a:not(.external){
       border-bottom: none;
-    }
-    a:hover{
-      color: $red;
     }
     .external{
       display: inline;
@@ -29,7 +20,7 @@
     .Permalink{
       color: $gray;
       display: inline-block;
-      line-height: 2.3rem;
+      line-height: 2.75rem;
       margin-left: 0.325rem;
       vertical-align: top;
     }
@@ -37,16 +28,7 @@
   img{
     max-width: 100%;
   }
-  h1{
-    @extend .h3;
-  }
-  h2{
-    @extend .h4;
-  }
 }
 
 .Pagination{
-  &:before{
-    @extend %border;
-  }
 }

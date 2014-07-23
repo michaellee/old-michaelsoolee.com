@@ -5,13 +5,15 @@ layout: default
 {% for post in paginator.posts %}
 <article>
   <header class="mb1">
-    <div class="sans-serif">{{ post.date | date: "%b %-d, %Y" }}</div>
+    <div class="sans-serif medium">{{ post.date | date: "%b %-d, %Y" }}</div>
 
     {% if post.external %}
-      <a class="h3 bold external" href="{{ post.external }}">{{ post.title }}</a><a href="{{ post.url | prepend: site.baseurl }}" class="icon-anchor Permalink" title="Permalink to {{ post.title }}"></a>
+      <h2 class="mb0" style="display: inline;"><a class="bold external" href="{{ post.external }}">{{ post.title }}</a></h2><a href="{{ post.url | prepend: site.baseurl }}" class="icon-anchor Permalink" title="Permalink to {{ post.title }}"></a>
     {% else %}
-      <a class="h3 bold inline" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      <h2 class="mb0" style="display: inline;"><a class="bold" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
     {% endif %}
+
+    <div class="sans-serif medium">in {{post.categories}}</div>
   </header>
 
   {{ post.content }}
@@ -22,14 +24,14 @@ layout: default
 <section class="Pagination">
   {% if paginator.previous_page %}
     {% if paginator.previous_page == 1 %}
-      <a href="/" class="left button button--orange sans-serif Pagination-previous">Newer</a>
+      <a href="/" class="left button button--greenAlt sans-serif Pagination-previous">Newer</a>
     {% else%}
-      <a href="/page/{{ paginator.previous_page }}" class="left button button--orange sans-serif Pagination-previous">Newer</a>
+      <a href="/page/{{ paginator.previous_page }}" class="left button button--greenAlt sans-serif Pagination-previous">Newer</a>
     {% endif %}
   {% endif %}
 
   {% if paginator.next_page %}
-    <a href="/page/{{ paginator.next_page }}" class="right button button--orange sans-serif Pagination-next">Older</a>
+    <a href="/page/{{ paginator.next_page }}" class="right button button--greenAlt sans-serif Pagination-next">Older</a>
   {% endif %}
   <div class="clearfix"></div>
 </section>

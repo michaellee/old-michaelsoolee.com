@@ -1,22 +1,11 @@
-%border{
-  border-top: 1px solid $gray;
-  display: block;
-  content: '';
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 4rem;
-  padding-top: 4rem;
-  width: 140px;
-}
+$green: #62bc94;
 
 a{
-  border-bottom: 1px solid $gray;
-  padding-bottom: 0.05rem;
-  color: $black;
+  color: $green;
   text-decoration: none;
-  @include transition(border 0.3s ease, color 0.3s ease);
+  @include transition(color ease 0.5s);
   &:hover{
-    border-bottom: 1px solid $orange;
+    color: darken($green, 15%);
   }
 }
 
@@ -43,4 +32,47 @@ ul li{
   &:first-child{
     margin-top: 0;
   }
+}
+
+input[type="text"],
+input[type="password"],
+input[type="date"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="month"],
+input[type="week"],
+input[type="email"],
+input[type="number"],
+input[type="search"],
+input[type="tel"],
+input[type="time"],
+input[type="url"],
+textarea{
+  border: 1px solid $gray;
+  font-size: 1em;
+  box-shadow: none;
+  transition: none; 
+  outline: none;
+  &:focus{
+    border: 1px solid $green;
+    box-shadow: none;
+    outline: none;
+  }
+}
+
+.button--greenAlt{
+  background: $white;
+  border: 1px solid $green;
+  color: $green;
+  cursor: pointer;
+  font-weight: 500;
+  &:hover{
+    background: $green;
+    color: $white;
+  }
+}
+
+.button--medium{
+  font-size: 1em;
+  padding: 0.5em 1em;
 }
