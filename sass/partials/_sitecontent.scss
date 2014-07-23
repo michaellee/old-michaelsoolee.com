@@ -1,6 +1,10 @@
 .SiteContent{
-  @include span-columns(6 of 12);
+  padding: 0 1.5rem;
+  @include span-columns(12 of 12);
   @include omega();
+  @include media($desktop){
+    @include span-columns(6 of 12);
+  }
   p{
     font-size: rem(24);
     margin-bottom: 1.75rem;

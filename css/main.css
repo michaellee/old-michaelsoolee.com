@@ -1012,14 +1012,24 @@ pre[class*="language-"] {
   cursor: help; }
 
 .SiteHeader {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
   float: left;
   display: block;
   margin-right: 2.35765%;
-  width: 48.82117%;
-  margin-left: 25.58941%;
+  width: 100%;
   margin-right: 0; }
   .SiteHeader:last-child {
     margin-right: 0; }
+  @media screen and (min-width: 761px) {
+    .SiteHeader {
+      float: left;
+      display: block;
+      margin-right: 2.35765%;
+      width: 48.82117%;
+      margin-left: 25.58941%; }
+      .SiteHeader:last-child {
+        margin-right: 0; } }
   @media screen and (min-width: 761px) {
     .SiteHeader .Brand {
       float: left; } }
@@ -1034,13 +1044,22 @@ pre[class*="language-"] {
         color: #62bc94; }
 
 .SiteContent {
+  padding: 0 1.5rem;
   float: left;
   display: block;
   margin-right: 2.35765%;
-  width: 48.82117%;
+  width: 100%;
   margin-right: 0; }
   .SiteContent:last-child {
     margin-right: 0; }
+  @media screen and (min-width: 761px) {
+    .SiteContent {
+      float: left;
+      display: block;
+      margin-right: 2.35765%;
+      width: 48.82117%; }
+      .SiteContent:last-child {
+        margin-right: 0; } }
   .SiteContent p {
     font-size: 1.5rem;
     margin-bottom: 1.75rem; }
@@ -1062,13 +1081,17 @@ pre[class*="language-"] {
     max-width: 100%; }
 
 .SiteSidebar {
-  float: left;
-  display: block;
-  margin-right: 2.35765%;
-  width: 14.70196%;
-  margin-left: 8.5298%; }
-  .SiteSidebar:last-child {
-    margin-right: 0; }
+  display: none; }
+  @media screen and (min-width: 761px) {
+    .SiteSidebar {
+      display: block;
+      float: left;
+      display: block;
+      margin-right: 2.35765%;
+      width: 14.70196%;
+      margin-left: 8.5298%; }
+      .SiteSidebar:last-child {
+        margin-right: 0; } }
 
 .Profile img {
   max-width: 120px; }
