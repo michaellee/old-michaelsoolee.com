@@ -1,24 +1,21 @@
 .SiteHeader{
-  text-align: center;
-  text-transform: uppercase;
+  @include span-columns(6 of 12);
+  @include shift(3);
+  @include omega();
   .Brand{
-    border: none;
-    color: $black;
-    font-weight: 700;
-    text-decoration: none;
     @include media($desktop){
       float: left;
     }
   }
-  &-nav{
-    line-height: 3rem;
-    @include media($desktop){
-      float: right;
-      a{
-        margin-left: 0.5rem;
-      }
-      a:first-child{
-        margin: 0;
+  .menu{
+    float: right;
+    a{
+      color: #B1B9B6;
+      font-family: 'Avenir Next', $helvetica, sans-serif;
+      font-weight: 500;
+      line-height: 35px;
+      &:hover{
+        color: $green;
       }
     }
   }
