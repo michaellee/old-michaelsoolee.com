@@ -1070,3 +1070,18 @@ pre[class*="language-"] {
   vertical-align: top; }
 .SiteContent img {
   max-width: 100%; }
+
+.SiteSidebar {
+  float: left;
+  display: block;
+  margin-right: 2.35765%;
+  width: 14.70196%;
+  margin-left: 8.5298%; }
+  .SiteSidebar:last-child {
+    margin-right: 0; }
+
+.Profile img {
+  max-width: 120px; }
+
+.SiteSidebar-emailSignUp input {
+  width: 100%; }
