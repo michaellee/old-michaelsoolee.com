@@ -16,3 +16,5 @@ I've never worked in higher education so I'm excited to grow and learn new thing
 As I start this new chapter, I thought it'd be appropriate to give my site a little facelift. I spent the last couple of nights to move around some elements, swap out typefaces and create a cleaner, friendlier design.
 
 There are still some things to be fixed &mdash; it's not responsive yet and there are small details that I need to iron out &mdash; but I'm happy with where it's going.
+
+Here's to a new chapter.
