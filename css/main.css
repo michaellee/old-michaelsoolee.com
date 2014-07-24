@@ -1018,6 +1018,15 @@ pre[class*="language-"] {
   margin-right: 0; }
   .SiteHeader:last-child {
     margin-right: 0; }
+  @media screen and (max-width: 760px) and (min-width: 321px) {
+    .SiteHeader {
+      float: left;
+      display: block;
+      margin-right: 2.35765%;
+      width: 82.94039%;
+      margin-left: 8.5298%; }
+      .SiteHeader:last-child {
+        margin-right: 0; } }
   @media screen and (min-width: 761px) {
     .SiteHeader {
       float: left;
@@ -1049,6 +1058,15 @@ pre[class*="language-"] {
   margin-right: 0; }
   .SiteContent:last-child {
     margin-right: 0; }
+  @media screen and (max-width: 760px) and (min-width: 321px) {
+    .SiteContent {
+      float: left;
+      display: block;
+      margin-right: 2.35765%;
+      width: 82.94039%;
+      margin-left: 8.5298%; }
+      .SiteContent:last-child {
+        margin-right: 0; } }
   @media screen and (min-width: 761px) {
     .SiteContent {
       float: left;
@@ -1123,6 +1141,15 @@ pre[class*="language-"] {
   margin-right: 0; }
   .SiteFooter:last-child {
     margin-right: 0; }
+  @media screen and (max-width: 760px) and (min-width: 321px) {
+    .SiteFooter {
+      float: left;
+      display: block;
+      margin-right: 2.35765%;
+      width: 82.94039%;
+      margin-left: 8.5298%; }
+      .SiteFooter:last-child {
+        margin-right: 0; } }
   @media screen and (min-width: 761px) {
     .SiteFooter {
       float: left;
