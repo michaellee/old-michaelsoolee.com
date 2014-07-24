@@ -5,7 +5,7 @@ layout: default
 <article>
   <header class="mb1">
     
-    <div class="sans-serif medium">{{ page.date | date: "%b %-d, %Y" }}</div>
+    <div class="sans-serif medium SiteArticle-meta">{{ page.date | date: "%b %-d, %Y" }}</div>
     
     {% if page.external %}
     <h2 class="mb0"><a class="bold inline external" href="{{ page.external }}">{{ page.title }}</a></h2>
@@ -13,7 +13,7 @@ layout: default
     <h1 class="h2 bold inline mb0">{{ page.title }}</h1>
     {% endif %}
     
-    <div class="sans-serif medium">in {{page.categories}}</div>
+    <div class="sans-serif medium SiteArticle-meta">in {{page.categories}}</div>
   </header>
 
   {{ content }}

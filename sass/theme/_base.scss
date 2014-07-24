@@ -3,7 +3,6 @@ $green: #62bc94;
 a{
   color: $green;
   text-decoration: none;
-  @include transition(color ease 0.5s);
   &:hover{
     color: darken($green, 15%);
   }

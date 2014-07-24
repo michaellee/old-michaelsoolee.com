@@ -824,10 +824,7 @@ input {
 /* '' */
 a {
   color: #62bc94;
-  text-decoration: none;
-  -webkit-transition: color ease 0.5s;
-  -moz-transition: color ease 0.5s;
-  transition: color ease 0.5s; }
+  text-decoration: none; }
   a:hover {
     color: #3f936d; }
 
@@ -1012,8 +1009,8 @@ pre[class*="language-"] {
   cursor: help; }
 
 .SiteHeader {
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
   float: left;
   display: block;
   margin-right: 2.35765%;
@@ -1044,7 +1041,7 @@ pre[class*="language-"] {
         color: #62bc94; }
 
 .SiteContent {
-  padding: 0 1.5rem;
+  padding: 0 1rem;
   float: left;
   display: block;
   margin-right: 2.35765%;
@@ -1061,8 +1058,23 @@ pre[class*="language-"] {
       .SiteContent:last-child {
         margin-right: 0; } }
   .SiteContent p {
-    font-size: 1.5rem;
-    margin-bottom: 1.75rem; }
+    font-size: 1.3rem;
+    margin-bottom: 1.625rem; }
+    @media screen and (max-width: 760px) and (min-width: 321px) {
+      .SiteContent p {
+        font-size: 1.425rem; } }
+    @media screen and (min-width: 761px) {
+      .SiteContent p {
+        font-size: 1.5rem; } }
+  .SiteContent ul {
+    font-size: 1.3rem;
+    list-style: circle; }
+    @media screen and (max-width: 760px) and (min-width: 321px) {
+      .SiteContent ul {
+        font-size: 1.425rem; } }
+    @media screen and (min-width: 761px) {
+      .SiteContent ul {
+        font-size: 1.5rem; } }
   .SiteContent article {
     border-bottom: 1px solid #cccccc;
     margin-bottom: 3rem;
@@ -1079,6 +1091,9 @@ pre[class*="language-"] {
     vertical-align: top; }
   .SiteContent img {
     max-width: 100%; }
+
+.SiteArticle-meta {
+  color: #B1B9B6; }
 
 .SiteSidebar {
   display: none; }
@@ -1100,11 +1115,20 @@ pre[class*="language-"] {
   width: 100%; }
 
 .SiteFooter {
+  padding: 0 1rem;
   float: left;
   display: block;
   margin-right: 2.35765%;
-  width: 48.82117%;
-  margin-left: 25.58941%;
+  width: 100%;
   margin-right: 0; }
   .SiteFooter:last-child {
     margin-right: 0; }
+  @media screen and (min-width: 761px) {
+    .SiteFooter {
+      float: left;
+      display: block;
+      margin-right: 2.35765%;
+      width: 48.82117%;
+      margin-left: 25.58941%; }
+      .SiteFooter:last-child {
+        margin-right: 0; } }

@@ -1,13 +1,29 @@
 .SiteContent{
-  padding: 0 1.5rem;
+  padding: 0 1rem;
   @include span-columns(12 of 12);
   @include omega();
   @include media($desktop){
     @include span-columns(6 of 12);
   }
   p{
-    font-size: rem(24);
-    margin-bottom: 1.75rem;
+    font-size: 1.3rem;
+    margin-bottom: 1.625rem;
+    @include media($tablet){
+      font-size: 1.425rem;
+    }
+    @include media($desktop){
+      font-size: 1.5rem;
+    }
+  }
+  ul{
+    font-size: 1.3rem;
+    @include media($tablet){
+      font-size: 1.425rem;
+    }
+    @include media($desktop){
+      font-size: 1.5rem;
+    }
+    list-style: circle;
   }
   article{
     border-bottom: 1px solid $gray;
@@ -35,4 +51,8 @@
 }
 
 .Pagination{
+}
+
+.SiteArticle-meta{
+  color: #B1B9B6;
 }

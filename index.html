@@ -5,7 +5,7 @@ layout: default
 {% for post in paginator.posts %}
 <article>
   <header class="mb1">
-    <div class="sans-serif medium">{{ post.date | date: "%b %-d, %Y" }}</div>
+    <div class="sans-serif medium SiteArticle-meta">{{ post.date | date: "%b %-d, %Y" }}</div>
 
     {% if post.external %}
       <h2 class="mb0" style="display: inline;"><a class="bold external" href="{{ post.external }}">{{ post.title }}</a></h2><a href="{{ post.url | prepend: site.baseurl }}" class="icon-anchor Permalink" title="Permalink to {{ post.title }}"></a>
@@ -13,7 +13,7 @@ layout: default
       <h2 class="mb0" style="display: inline;"><a class="bold" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
     {% endif %}
 
-    <div class="sans-serif medium">in {{post.categories}}</div>
+    <div class="sans-serif medium SiteArticle-meta">in {{post.categories }}</div>
   </header>
 
   {{ post.content }}
