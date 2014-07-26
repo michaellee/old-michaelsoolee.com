@@ -8,7 +8,7 @@ permalink: /about/
 
 Hey there! I'm Michael.
 
-I'm a husband, a father, a front-end developer at <a href="http://reverbnation.com" target="_blank">ReverbNation</a>, [designer and maker of apps](http://michaellee.co/labors-of-love/), a writer at [Edison Union](http://www.edisonunion.com) and a paper goods maker at [native haus](http://www.nativehaus.com) from Cary, North Carolina.
+I'm a husband, a father, a senior web developer at <a href="http://www.ncsu.edu" target="_blank">NC State University</a>, [designer and maker of apps](http://michaellee.co/labors-of-love/), a writer at [Edison Union](http://www.edisonunion.com) and a paper goods maker at [native haus](http://www.nativehaus.com) from Cary, North Carolina.
 
 I designed and built this site to house writings that chronicle life, knowledge I'm gaining as a developer and things I geek out about.
 
@@ -20,4 +20,4 @@ Are you on [Twitter](https://twitter.com/hellomichaellee), [CodePen](http://code
 
 <h2 class="mt2">Nerd talk</h2>
 
-This site was built with a (OO)CSS library called <a href="https://github.com/michaellee/chicken">Chicken</a> and it's complement grid library, <a href="https://github.com/michaellee/waffles">Waffles</a> and a Ruby static-site generator, <a href="http://jekyllrb.com" target="_blank">Jekyll</a>. The source code and the articles of this site is <a href="https://github.com/michaellee/michaellee.github.io">hosted on GitHub</a>. The typeface is set in [Source Sans Pro](http://www.google.com/fonts/specimen/Source+Sans+Pro) and [Bitter](https://www.google.com/fonts/specimen/Bitter) hosted by Google Fonts.
+This site was built with a (OO)CSS library called <a href="https://github.com/michaellee/chicken">Chicken</a> and it's complement grid library, <a href="https://github.com/michaellee/waffles">Waffles</a> and a Ruby static-site generator, <a href="http://jekyllrb.com" target="_blank">Jekyll</a>. The source code and the articles of this site is <a href="https://github.com/michaellee/michaellee.github.io">hosted on GitHub</a>. The typeface is set in Avenir Next and Georgia.
