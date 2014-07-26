@@ -83,10 +83,10 @@ body {
 p, h1, h2, h3, h4, h5, h6, dl, ol, ul {
   font-size: 0.875rem;
   line-height: 1.25em; }
-  @media screen and (max-width: 760px) and (min-width: 321px) {
+  @media screen and (max-width: 1024px) and (min-width: 641px) {
     p, h1, h2, h3, h4, h5, h6, dl, ol, ul {
       font-size: 0.9375rem; } }
-  @media screen and (min-width: 761px) {
+  @media screen and (min-width: 1025px) {
     p, h1, h2, h3, h4, h5, h6, dl, ol, ul {
       font-size: 1.0rem; } }
 
@@ -95,55 +95,55 @@ p {
 
 h1, .h1 {
   font-size: 2.375rem; }
-  @media screen and (max-width: 760px) and (min-width: 321px) {
+  @media screen and (max-width: 1024px) and (min-width: 641px) {
     h1, .h1 {
       font-size: 2.625rem; } }
-  @media screen and (min-width: 761px) {
+  @media screen and (min-width: 1025px) {
     h1, .h1 {
       font-size: 3.125rem; } }
 
 h2, .h2 {
   font-size: 1.875rem; }
-  @media screen and (max-width: 760px) and (min-width: 321px) {
+  @media screen and (max-width: 1024px) and (min-width: 641px) {
     h2, .h2 {
       font-size: 2.215rem; } }
-  @media screen and (min-width: 761px) {
+  @media screen and (min-width: 1025px) {
     h2, .h2 {
       font-size: 2.375rem; } }
 
 h3, .h3 {
   font-size: 1.5rem; }
-  @media screen and (max-width: 760px) and (min-width: 321px) {
+  @media screen and (max-width: 1024px) and (min-width: 641px) {
     h3, .h3 {
       font-size: 1.625rem; } }
-  @media screen and (min-width: 761px) {
+  @media screen and (min-width: 1025px) {
     h3, .h3 {
       font-size: 1.75rem; } }
 
 h4, .h4 {
   font-size: 1.25rem; }
-  @media screen and (max-width: 760px) and (min-width: 321px) {
+  @media screen and (max-width: 1024px) and (min-width: 641px) {
     h4, .h4 {
       font-size: 1.3125rem; } }
-  @media screen and (min-width: 761px) {
+  @media screen and (min-width: 1025px) {
     h4, .h4 {
       font-size: 1.375rem; } }
 
 h5, .h5 {
   font-size: 1rem; }
-  @media screen and (max-width: 760px) and (min-width: 321px) {
+  @media screen and (max-width: 1024px) and (min-width: 641px) {
     h5, .h5 {
       font-size: 1.0625rem; } }
-  @media screen and (min-width: 761px) {
+  @media screen and (min-width: 1025px) {
     h5, .h5 {
       font-size: 1.125rem; } }
 
 h6, .h6 {
   font-size: 0.6875rem; }
-  @media screen and (max-width: 760px) and (min-width: 321px) {
+  @media screen and (max-width: 1024px) and (min-width: 641px) {
     h6, .h6 {
       font-size: 0.75rem; } }
-  @media screen and (min-width: 761px) {
+  @media screen and (min-width: 1025px) {
     h6, .h6 {
       font-size: 0.875rem; } }
 
@@ -1018,7 +1018,7 @@ pre[class*="language-"] {
   margin-right: 0; }
   .SiteHeader:last-child {
     margin-right: 0; }
-  @media screen and (max-width: 760px) and (min-width: 321px) {
+  @media screen and (max-width: 1024px) and (min-width: 641px) {
     .SiteHeader {
       float: left;
       display: block;
@@ -1027,7 +1027,7 @@ pre[class*="language-"] {
       margin-left: 8.5298%; }
       .SiteHeader:last-child {
         margin-right: 0; } }
-  @media screen and (min-width: 761px) {
+  @media screen and (min-width: 1025px) {
     .SiteHeader {
       float: left;
       display: block;
@@ -1036,7 +1036,7 @@ pre[class*="language-"] {
       margin-left: 25.58941%; }
       .SiteHeader:last-child {
         margin-right: 0; } }
-  @media screen and (min-width: 761px) {
+  @media screen and (min-width: 1025px) {
     .SiteHeader .Brand {
       float: left; } }
   .SiteHeader .menu {
@@ -1058,7 +1058,7 @@ pre[class*="language-"] {
   margin-right: 0; }
   .SiteContent:last-child {
     margin-right: 0; }
-  @media screen and (max-width: 760px) and (min-width: 321px) {
+  @media screen and (max-width: 1024px) and (min-width: 641px) {
     .SiteContent {
       float: left;
       display: block;
@@ -1067,7 +1067,7 @@ pre[class*="language-"] {
       margin-left: 8.5298%; }
       .SiteContent:last-child {
         margin-right: 0; } }
-  @media screen and (min-width: 761px) {
+  @media screen and (min-width: 1025px) {
     .SiteContent {
       float: left;
       display: block;
@@ -1078,19 +1078,19 @@ pre[class*="language-"] {
   .SiteContent p {
     font-size: 1.3rem;
     margin-bottom: 1.625rem; }
-    @media screen and (max-width: 760px) and (min-width: 321px) {
+    @media screen and (max-width: 1024px) and (min-width: 641px) {
       .SiteContent p {
         font-size: 1.425rem; } }
-    @media screen and (min-width: 761px) {
+    @media screen and (min-width: 1025px) {
       .SiteContent p {
         font-size: 1.5rem; } }
   .SiteContent ul {
     font-size: 1.3rem;
     list-style: circle; }
-    @media screen and (max-width: 760px) and (min-width: 321px) {
+    @media screen and (max-width: 1024px) and (min-width: 641px) {
       .SiteContent ul {
         font-size: 1.425rem; } }
-    @media screen and (min-width: 761px) {
+    @media screen and (min-width: 1025px) {
       .SiteContent ul {
         font-size: 1.5rem; } }
   .SiteContent article {
@@ -1115,7 +1115,7 @@ pre[class*="language-"] {
 
 .SiteSidebar {
   display: none; }
-  @media screen and (min-width: 761px) {
+  @media screen and (min-width: 1025px) {
     .SiteSidebar {
       display: block;
       float: left;
@@ -1141,7 +1141,7 @@ pre[class*="language-"] {
   margin-right: 0; }
   .SiteFooter:last-child {
     margin-right: 0; }
-  @media screen and (max-width: 760px) and (min-width: 321px) {
+  @media screen and (max-width: 1024px) and (min-width: 641px) {
     .SiteFooter {
       float: left;
       display: block;
@@ -1150,7 +1150,7 @@ pre[class*="language-"] {
       margin-left: 8.5298%; }
       .SiteFooter:last-child {
         margin-right: 0; } }
-  @media screen and (min-width: 761px) {
+  @media screen and (min-width: 1025px) {
     .SiteFooter {
       float: left;
       display: block;
