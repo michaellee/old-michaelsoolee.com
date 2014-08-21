@@ -5,7 +5,7 @@ layout: default
 {% for post in paginator.posts %}
 <article itemscope itemtype="http://schema.org/Article">
   <header class="mb1">
-    <div class="sans-serif medium SiteArticle-meta" itemprop="datePublished" content="{{ page.date | date: '%Y-%m-%d' }}">{{ post.date | date: "%b %-d, %Y" }}</div>
+    <div class="sans-serif medium SiteArticle-meta" itemprop="datePublished" content="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: "%b %-d, %Y" }}</div>
 
     {% if post.external %}
       <h2 class="mb0" style="display: inline;" itemprop="name"><a class="bold external" href="{{ post.external }}">{{ post.title }}</a></h2><a href="{{ post.url | prepend: site.baseurl }}" class="icon-anchor Permalink" title="Permalink to {{ post.title }}" itemprop="url"></a>
