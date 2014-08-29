@@ -1,6 +1,7 @@
 ---
-layout: post
-title: "Functions"
+layout: collection
+title: 'Functions'
+category: javascript
 ---
 
 Functions are defined as:
@@ -9,6 +10,7 @@ Functions are defined as:
 var sayHello = function(name){
   console.log("Hello " + name);
 };
+```
 
 ## Function Declaration
 The syntax for `function declarations` is:

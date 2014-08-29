@@ -1,6 +1,7 @@
 ---
-layout: post
-title: "Vim: Commands"
+layout: collection
+title: "Commands"
+category: vim
 ---
 
 I grew up playing Street Fighter 2 as a kid. What made Street Fighter 2 so great was that you could combine a string of moves and your character will perform a special attack.

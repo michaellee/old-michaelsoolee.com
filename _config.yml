@@ -14,5 +14,12 @@ markdown: redcarpet
 permalink: /:title
 
 collections:
-  learning:
+  javascript:
     output: true
+    permalink: /learning/javascript/:path/
+  vim:
+    output: true
+    permalink: /learning/vim/:path/
+  swift:
+    output: true
+    permalink: /learning/swift/:path/

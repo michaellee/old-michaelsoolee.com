@@ -1,6 +1,7 @@
 ---
-layout: post
-title:  "Swift: Operators"
+layout: collection
+title:  "Operators"
+category: swift
 ---
 
 ## Increment and Decrement Operators

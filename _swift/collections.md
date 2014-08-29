@@ -1,6 +1,7 @@
 ---
-layout: post
-title:  "Swift: Collections"
+layout: collection
+title:  "Collections"
+category: swift
 ---
 
 ## Arrays

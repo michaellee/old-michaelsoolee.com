@@ -1,6 +1,7 @@
 ---
-layout: post
-title:  "Swift: Constants & Variables"
+layout: collection
+title:  "Constants & Variables"
+category: swift
 ---
 
 Almost every character you like can be used for constant and variable names. Names cannot start with numbers.
