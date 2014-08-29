@@ -4,7 +4,7 @@ title: "Open Current Directoy in a New Tab in ZSH in the Mac Terminal"
 category: programming
 ---
 
-For my terminal I like to use the shell _ZSH_, specifically [_Oh-My-ZSH_](http://ohmyz.sh/) &mdash a community-driven, open source configuration of ZSH.
+For my terminal I like to use the shell _ZSH_, specifically [_Oh-My-ZSH_](http://ohmyz.sh/) &mdash; a community-driven, open source configuration of ZSH.
 
 One of the things I do quite often during my workflow is open up additional Terminal tabs. For example, I may have one Terminal tab open with Sass watching my .scss
 files for changes and compiling on the fly as I add new style rules. While that's happening I might want to navigate to a different folder within my project directory without having to stop Sass.
