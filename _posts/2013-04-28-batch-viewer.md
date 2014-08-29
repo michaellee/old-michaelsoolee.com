@@ -5,8 +5,6 @@ date:   2013-04-28 22:21:03
 categories: projects
 ---
 
-<img src="https://s3.amazonaws.com/michaelleeco/post-photos/batch-viewer-042813.jpg" alt="Batch Viewer image" />
-
 I am thankful for Adam Whitcroft's <a href="http://adamwhitcroft.com/batch/" title="Adam Whitcroft's Batch icons" target="_blank">Batch interface icons</a>. Batch is my go to set of icons for most of my design work these days.
 
 Batch is a 300+ and growing, free library of icons that Adam has given to the world. And through his giving, I and I believe many others have benefitted from his generosity.
