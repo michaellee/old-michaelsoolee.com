@@ -5,7 +5,7 @@ date:   2013-04-01 22:21:03
 categories: life
 ---
 
-This morning I heard an interview with <a title="Nathan Barry" href="http://nathanbarry.com/" target="_blank">Nathan Barry</a> on the <a title="Living for Monday podcast with Nathan Barry" href="http://livingformonday.com/podcast/nathan-barry/" target="_blank">Living for Monday podcast</a>. One bit from the interview that really resonated with me, was when Nathan shared how he acquired the skills that he has today in software design.
+This morning I heard an interview with <a title="Nathan Barry" href="http://nathanbarry.com/" target="_blank">Nathan Barry</a> on the Living for Monday podcast. One bit from the interview that really resonated with me, was when Nathan shared how he acquired the skills that he has today in software design.
 
 Nathan's entry into web design started from a book he borrowed from the library, but soon he realized what he read was irrelevant because of the pace in which web technologies and design techniques advance. So he turned to the internet to read blogs by experts in his field. He then followed their tutorials or lessons and applied what he learned immediately. More or less this is how I have come to acquire most of the knowledge that I use in my day to day life as a software developer.
 
