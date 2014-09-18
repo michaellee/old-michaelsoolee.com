@@ -20,4 +20,4 @@ Are you on [Twitter](https://twitter.com/hellomichaellee), [CodePen](http://code
 
 <h2 class="mt2">Nerd talk</h2>
 
-This site was built with a (OO)CSS library called <a href="https://github.com/michaellee/chicken">Chicken</a> and it's complement grid library, <a href="https://github.com/michaellee/waffles">Waffles</a> and a Ruby static-site generator, <a href="http://jekyllrb.com" target="_blank">Jekyll</a>. The source code and the articles of this site is <a href="https://github.com/michaellee/michaellee.github.io">hosted on GitHub</a>. The typeface is set in Avenir Next and Georgia.
+This site was built with an (OO)CSS library called [chicken and waffles](https://github.com/Herelde/chicken-and-waffles) and a Ruby static-site generator, <a href="http://jekyllrb.com" target="_blank">Jekyll</a>. The source code and the articles of this site is <a href="https://github.com/michaellee/michaellee.github.io">hosted on GitHub</a>. The typeface is set in Avenir Next and Georgia.
