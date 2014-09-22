@@ -4,7 +4,7 @@ title: "Oh My ZSH Not Updating"
 category: programming
 ---
 
-I use Oh My ZSH as my terminal shell. From time to time, Oh My ZSH will ask if I want to update it. This morning when I got the prompt and said, "Yes" I want to update it. I immediately got an error that looked like this:
+I use Oh My ZSH as my terminal shell. From time to time, Oh My ZSH will ask if I want to update it. This morning when I got the prompt and said, "Yes". I immediately got an error that looked like this:
 
 
 ```javascript
