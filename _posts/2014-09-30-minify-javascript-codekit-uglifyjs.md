@@ -34,7 +34,7 @@ What this line does is, first it calls the uglifyjs command-line tool. Then the 
 
 The command above got me pretty close to what CodeKit produced in a minified JS file but there was still one difference between my file and CodeKit's file. The difference was the variable names. In CodeKit it replaced variables with single characters. Reading through UglifyJS' document, it turns out it could do that as well.
 
-To replace variables with UglifyJS you simply had to pass in an extra option, which is `-m` which stands for mangle. In passing in that option it'll replace the variables with single characters just like CodeKit. So the final command to get us to a result like what CodeKit produces, you'll want to use this:
+To replace variables with UglifyJS you simply pass in an extra option, `-m` which stands for mangle. In passing in that option it'll replace the variables with single characters just like CodeKit. So the final command to get us to a result like what CodeKit produces, you'll want to use this:
 
 ```javascript
 uglifyjs filename.js -c -m -o filename.min.js
