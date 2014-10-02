@@ -20,7 +20,7 @@ Many of his awesome pens have graced the front page of CodePen. If you've never 
 
 <p data-height="688" data-theme-id="0" data-slug-hash="sAHtF" data-default-tab="result" data-user="Hornebom" class='codepen'>See the Pen <a href='http://codepen.io/Hornebom/pen/sAHtF/'>Catch Me!</a> by Hornebom (<a href='http://codepen.io/Hornebom'>@Hornebom</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 
-My interactions with Hornebom have always been via Codepen, Twitter or email. All those mediums are great but I only got bits and pieces of who Hornebom really was. Our interactions were at times greatly fragmented because Hornebom is in the future &mdash; he's in Germany, which is 6 hours ahead of me, I'm in the US on the east coast &mdash; so there would be a delay in our communication.
+My interactions with Hornebom have always been via Codepen, Twitter or email. All those mediums are great but I only got bits and pieces of who Hornebom really was. Our interactions were at times fragmented because Hornebom is in the future &mdash; he's in Germany, which is 6 hours ahead of me, I'm in the US on the east coast &mdash; so there would be a delay in our communication.
 
 Then earlier this year, my family and I decided to take a trip to Germany to visit family in September. Coincidentally, Hornebom lives in the city, where my wife attended University and that was one of the stops on our trip. So I reached out to Hornebom and asked to meet up in person.
 
@@ -32,7 +32,7 @@ It was a Friday afternoon, there was a slight overcast and we met at a cafe. Hor
 
 It was a refreshing, two hour meet where I got to connect with a real person who was like me &mdash; but with a rad German accent and taller.
 
-During our conversation, I learned something about Hornebom that actually surprised me. While I was praising him for some of the awesome pens that he's posted up on CodePen, he mentioned to me that all the pens he's posted were simply him playing with code. This was a great reminder to me that learning is best done through play.
+During our conversation, I learned something about Hornebom that actually surprised me. While I was giving him props for some of the awesome pens that he's posted up on CodePen, he mentioned to me that all the pens he's posted were simply him playing with code. This was a great reminder to me that learning is best done through play.
 
 When you're playing, learning isn't so painful, you see things outside of the box and you're able to iterate quickly instead of fixating on a problem. Playing is also great because you're not approaching something linearly, the possibilities are only limited to your imagination. Have a look at Hornebom's Pens; nearly all of his Pens are interactive without the use of Javascript. That's creative.
 
@@ -50,6 +50,8 @@ Europeans are so tall...
 A selfie with Mr. &amp; Mrs. Hornebom
 
 CodePen's first official meetup is coming up in November in Texas. If you're reading this and you live in Texas, I can't recommend enough going out there. In-person human interaction is pretty cool and you might learn a thing or two about a CodePen-er. Not to mention there's going to be some sweet CodePen swag...I'm jelly.
+
+<p data-height="742" data-theme-id="0" data-slug-hash="oAcua" data-default-tab="result" data-user="chriscoyier" class='codepen'>See the Pen <a href='http://codepen.io/chriscoyier/pen/oAcua/'>CodePen Meetup Pen</a> by Chris Coyier (<a href='http://codepen.io/chriscoyier'>@chriscoyier</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 
 And if you're not in Texas, don't be bummed! Why not reach out to a fellow CodePen member in your state or city? Grab a coffee or a coke or both and chat it up.
 
