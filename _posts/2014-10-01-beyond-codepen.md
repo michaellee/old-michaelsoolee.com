@@ -47,7 +47,7 @@ Thumbs up for CodePen
 Europeans are so tall...
 
 ![](https://dl.dropboxusercontent.com/u/1228961/michaellee/2014/10%20-%20October/hornebom-03.jpg)
-A selfie with Mrs. Hornebom
+A selfie with Mr. &amp; Mrs. Hornebom
 
 CodePen's first official meetup is coming up in November in Texas. If you're reading this and you live in Texas, I can't recommend enough going out there. In-person human interaction is pretty cool and you might learn a thing or two about a CodePen-er. Not to mention there's going to be some sweet CodePen swag...I'm jelly.
 
