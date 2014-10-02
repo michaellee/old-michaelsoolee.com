@@ -4,9 +4,9 @@ title: "Beyond CodePen"
 category: programming
 ---
 
-In my very first blog post on CodePen, I had shared [4 things that makes CodePen awesome](http://codepen.io/michaellee/blog/4-things-that-makes-codepen-awesome). Right off the bat, I mentioned that community was one of the factors that keeps me around CodePen.
+In my very first blog post on CodePen, I had shared <a href="http://codepen.io/michaellee/blog/4-things-that-makes-codepen-awesome" target="_blank">4 things that makes CodePen awesome</a>. Right off the bat, I mentioned that community was one of the factors that keeps me around CodePen.
 
-The founders of CodePen are made up of great gents and the community that has formed around CodePen have been nothing but great. One of the members of CodePen that I have befriended is the designer/developer extraordinaire, [Hornebom](http://hornebom.com/).
+The founders of CodePen are made up of great gents and the community that has formed around CodePen have been nothing but great. One of the members of CodePen that I have befriended is the designer/developer extraordinaire, <a href="http://hornebom.com/" target="_blank">Hornebom</a>.
 
 Many of his awesome pens have graced the front page of CodePen. If you've never seen them, here are a few of my favorites:
 
