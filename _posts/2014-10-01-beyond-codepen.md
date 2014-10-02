@@ -40,13 +40,13 @@ Thanks Mr. Hornebom for this reminder, for your hospitality during our meet and 
 
 Here are some photos Hornebom and I snapped together:
 
-![]()
+![](https://dl.dropboxusercontent.com/u/1228961/michaellee/2014/10%20-%20October/hornebom-01.jpg)
 Thumbs up for CodePen
 
-![]()
+![](https://dl.dropboxusercontent.com/u/1228961/michaellee/2014/10%20-%20October/hornebom-02.jpg)
 Europeans are so tall...
 
-![]()
+![](https://dl.dropboxusercontent.com/u/1228961/michaellee/2014/10%20-%20October/hornebom-03.jpg)
 A selfie with Mrs. Hornebom
 
 CodePen's first official meetup is coming up in November in Texas. If you're reading this and you live in Texas, I can't recommend enough going out there. In-person human interaction is pretty cool and you might learn a thing or two about a CodePen-er. Not to mention there's going to be some sweet CodePen swag...I'm jelly.
