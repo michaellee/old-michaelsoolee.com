@@ -10,7 +10,7 @@ The founders of CodePen are made up of great gents and the community that has fo
 
 Many of his awesome pens have graced the front page of CodePen. If you've never seen them, here are a few of my favorites:
 
-<p data-height="400" data-theme-id="0" data-slug-hash="clDsr" data-default-tab="result" data-user="Hornebom" class='codepen'>See the Pen <a href='http://codepen.io/Hornebom/pen/ertdf/'>CSS Slime Attack</a> by Hornebom (<a href='http://codepen.io/Hornebom'>@Hornebom</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<p data-height="400" data-theme-id="0" data-slug-hash="ertdf" data-default-tab="result" data-user="Hornebom" class='codepen'>See the Pen <a href='http://codepen.io/Hornebom/pen/ertdf/'>CSS Slime Attack</a> by Hornebom (<a href='http://codepen.io/Hornebom'>@Hornebom</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 
 <p data-height="296" data-theme-id="0" data-slug-hash="clDsr" data-default-tab="result" data-user="Hornebom" class='codepen'>See the Pen <a href='http://codepen.io/Hornebom/pen/clDsr/'>lamp</a> by Hornebom (<a href='http://codepen.io/Hornebom'>@Hornebom</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 
