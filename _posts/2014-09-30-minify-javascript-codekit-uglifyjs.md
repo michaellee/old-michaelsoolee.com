@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Minify Your Javascript Like CodeKit with UglifyJS 2"
-category: programming
+category: javascript
 ---
 
 If you're a web developer, chances are you've come across an app called CodeKit. CodeKit is an app that takes care of a lot of stuff such as compiling Sass files, compressing CSS and Javascript and so much more other cool stuff without touching the command-line.
