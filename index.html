@@ -13,7 +13,7 @@ layout: default
       <h2 class="mb0" style="display: inline;" itemprop="name"><a class="bold" href="{{ post.url | prepend: site.baseurl }}" itemprop="url">{{ post.title }}</a></h2>
     {% endif %}
 
-    <div class="sans-serif medium SiteArticle-meta">in {{post.categories }}</div>
+    <div class="sans-serif medium SiteArticle-meta">in {{page.categories | join: ', '}}</div>
   </header>
 
   {{ post.content }}
