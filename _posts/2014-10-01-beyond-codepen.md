@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Beyond CodePen"
-category: programming
+category: friends
 ---
 
 In my very first blog post on CodePen, I had shared <a href="http://codepen.io/michaellee/blog/4-things-that-makes-codepen-awesome" target="_blank">4 things that makes CodePen awesome</a>. Right off the bat, I mentioned that community was one of the factors that keeps me around CodePen.
