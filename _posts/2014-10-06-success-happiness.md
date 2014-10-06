@@ -5,5 +5,4 @@ categories: word inspiration
 ---
 
 > Success and happiness are not matters of change but choice.
-
-- Zig Ziglar
+<br>&mdash; Zig Ziglar
