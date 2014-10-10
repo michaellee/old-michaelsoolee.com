@@ -14,7 +14,7 @@ Here's an example of what I'm trying to accomplish:
 
 Here's an example of the HTML I used to setup my menu.
 
-```html
+```javascript
 <nav role='navigation'>
   <ul class="menu">
     <li class="menu-item">
@@ -37,7 +37,7 @@ Here's an example of the HTML I used to setup my menu.
 
 As you can see, it's a simple unordered-list menu. In the second list-item, you see that I have another unordered-list that is used for the submenu.
 
-```html
+```javascript
 ...
 <li class="menu-item">
   <a href="javascript:;">Works<span class="ion-arrow-down-b menu-item-icon"></span></a>
