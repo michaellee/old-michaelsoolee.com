@@ -39,7 +39,6 @@ As you can see, it's a simple unordered-list menu. In the second list-item, you 
 
 ```javascript
 ...
-
 <li class="menu-item">
   <a href="javascript:;">Works<span class="ion-arrow-down-b menu-item-icon"></span></a>
   <ul class="menu-submenu">
@@ -48,7 +47,6 @@ As you can see, it's a simple unordered-list menu. In the second list-item, you 
     <li class="menu-submenu-item"><a href="javascript:;">Writings</a></li>
   </ul>
 </li>
-
 ...
 ```
 
@@ -58,7 +56,6 @@ Here's the chunk of my code that accomplishes this.
 
 ```css
 ...
-
 .menu-item{
   display: inline-block;
   margin-left:   0.5em;
@@ -76,7 +73,6 @@ Here's the chunk of my code that accomplishes this.
     color: #4F8EF7;
   }
 }
-
 ...
 ```
 
