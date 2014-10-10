@@ -79,3 +79,8 @@ Here's the chunk of my code that accomplishes this.
 Specifically, the rule when `.menu-item` is hovered over. The `:hover` rule is saying, when `.menu-item` is being hover, then change the color of the immediate child `a` elements.
 
 In placing the `:hover` rule on the element that encompasses the menu item link and the submenu &mdash; instead of the actual link &mdash; you're able to achieve having the parent item stay highlighted while you hover over the submenu.
+
+Here's a demo of the dropdown menu with highlighting parent items.
+
+<p data-height="268" data-theme-id="0" data-slug-hash="mzJFi" data-default-tab="result" data-user="michaellee" class='codepen'>See the Pen <a href='http://codepen.io/michaellee/pen/mzJFi/'>Highlighted Parent Item in Dropdown Menus</a> by Michael Lee (<a href='http://codepen.io/michaellee'>@michaellee</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//codepen.io/assets/embed/ei.js"></script>
