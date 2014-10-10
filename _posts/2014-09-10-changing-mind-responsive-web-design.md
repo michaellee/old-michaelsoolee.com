@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Changing My Mind About Responsive Web Design"
-category: programming
+category: rwd
 external: http://bradfrostweb.com/blog/post/7-habits-of-highly-effective-media-queries/
 ---
 
