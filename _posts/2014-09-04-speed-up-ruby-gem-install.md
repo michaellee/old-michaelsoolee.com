@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Speed up Ruby gem install"
-category: programming
+categories: ruby programming
 ---
 
 Ruby gems are awesome! But some gems take forever to install. To help speed things up, you can install the gem without including the docs. The speed gain isn't insanely significant but it helps.
