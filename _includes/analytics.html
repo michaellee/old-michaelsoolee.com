@@ -7,4 +7,12 @@
   ga('create', 'UA-46652311-2', 'auto');
   ga('send', 'pageview');
 
+  $('.twitter-link').on('click', function(){
+  	ga('send', 'event', 'link', 'click', 'twitter-link');
+  });
+
+  $('.codepen-link').on('click', function(){
+  	ga('send', 'event', 'link', 'click', 'codepen-link');
+  });
+
 </script>
