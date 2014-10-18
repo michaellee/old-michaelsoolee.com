@@ -8,7 +8,7 @@ A common practice when architecturing HTML is to wrap a group of elements with a
 
 An example of this would be creating a button on a page.
 
-```html
+```javascript
 <a href="http://michaellee.co/subscribe" class="btn btn-primary">
 	Click here to Subscribe
 	<span class="icon icon-arrow"></span>
