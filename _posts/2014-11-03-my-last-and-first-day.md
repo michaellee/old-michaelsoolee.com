@@ -8,9 +8,9 @@ Today, is my last day at NC State Universty as the Senior Web Developer. Althoug
 
 I won't go into great detail as to why I'm leaving, but will share, it has been a desire of mine for a very long time to carve out more time in my day to spend with my wife and my son.
 
-For this reason, I've lined up some freelancing projects and have decided not to join another company. If you're interested in working with me, hit me up and I'd love to hear about your web projects!
+For this reason, I've lined up some freelancing projects and have decided not to join another company. If you're interested in working with me, [hit me up](mailto:hellomichaellee@gmail.com) and I'd love to hear about your web projects!
 
-I've also wanted to give my passions &mdash; CodeHive and Native Haus &mdash; more room to grow.
+I've also wanted to give my passions &mdash; <a href="https://www.codehive.io" target="_blank">CodeHive</a> and <a href="http://www.nativehaus.com" target="_blank">Native Haus</a> &mdash; more room to grow.
 
 There is so much work to be done with CodeHive. Christopher and I have so many ideas and desires to where we would like to see the community going and the tools we could create to enable folks to level up their skill sets. CodeHive is the community we've always wanted to be part of as we embarked on our journey as developers.
 
