@@ -2,6 +2,7 @@
 layout: post
 title: "First Unofficial CodePen Meetup Mention on CodePen Radio"
 category: friends
+external: http://blog.codepen.io/2014/11/11/026-meetups/
 ---
 
 Earlier today, my buddy Hornebom told me to checkout the latest episode of CodePen Radio. The episode was recorded right before their first official Meetup in Austin and so the subject of the episode was about Meetups. At around the 7:00 mark, Alex talked about some groups who have come together to do some cool collaborations on CodePen.
