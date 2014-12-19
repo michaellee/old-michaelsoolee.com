@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pain is part of the process"
-category: life
+category: goals
 ---
 
 This morning I ran for the first time in 4 years. It was 30 degress outside so I had the shivers, my lungs and nose were burning, I was hacking up what felt like my lungs and all sorts of areas of my body were in pain.
