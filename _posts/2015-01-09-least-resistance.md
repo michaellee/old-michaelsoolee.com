@@ -4,7 +4,7 @@ title: "Path of least resistance"
 category: productivity
 ---
 
-I really enjoy [Zen Habits](http://zenhabits.net/) and [mnmlist](http://mnmlist.com/) by Leo Babauta. The design of the sites are simple and clean and you're just left with the words. There are no distractions and only a connection between you and Leo's words &mdash; his thoughts.
+I really enjoy [Zen Habits](http://zenhabits.net/) and [mnmlist](http://mnmlist.com/) by Leo Babauta. The design of the sites are simple and clean. There are no distractions and only a connection between you and Leo &mdash; his words and thoughts.
 
 Writing isn't an easy activity for me, but when I do write, I enjoy it very much. And I'd like to do more.
 
