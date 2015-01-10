@@ -2,36 +2,18 @@
 layout: default
 ---
 
-{% for post in paginator.posts %}
-<article itemscope itemtype="http://schema.org/Article">
-  <header class="mb1">
-    <div class="sans-serif medium SiteArticle-meta" itemprop="datePublished" content="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: "%b %-d, %Y" }}</div>
-
-    {% if post.external %}
-      <h2 class="mb0" style="display: inline;" itemprop="name"><a class="bold external" href="{{ post.external }}">{{ post.title }}</a></h2><a href="{{ post.url | prepend: site.baseurl }}" class="icon-anchor Permalink" title="Permalink to {{ post.title }}" itemprop="url"></a>
-    {% else %}
-      <h2 class="mb0" style="display: inline;" itemprop="name"><a class="bold" href="{{ post.url | prepend: site.baseurl }}" itemprop="url">{{ post.title }}</a></h2>
-    {% endif %}
-
-    <div class="sans-serif medium SiteArticle-meta">in {{post.categories | join: ', '}}</div>
-  </header>
-
-  {{ post.content }}
-</article>
-{% endfor %}
 
 
-<section class="Pagination">
-  {% if paginator.previous_page %}
-    {% if paginator.previous_page == 1 %}
-      <a href="/" class="left button button--greenAlt sans-serif Pagination-previous">Newer</a>
-    {% else%}
-      <a href="/page/{{ paginator.previous_page }}" class="left button button--greenAlt sans-serif Pagination-previous">Newer</a>
-    {% endif %}
-  {% endif %}
+    {% for post in paginator.posts %}
+    <article class="post">
+        <!-- <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> -->
 
-  {% if paginator.next_page %}
-    <a href="/page/{{ paginator.next_page }}" class="right button button--greenAlt sans-serif Pagination-next">Older</a>
-  {% endif %}
-  <div class="clearfix"></div>
-</section>
+        <h1>
+          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h1>
+        {{ post.content }}
+    </article>
+    {% endfor %}
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+

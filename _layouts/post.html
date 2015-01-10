@@ -1,31 +1,15 @@
 ---
 layout: default
 ---
+<div class="post">
 
-<article itemscope itemtype="http://schema.org/Article">
-  <header class="mb1">
-    
-    <div class="sans-serif medium SiteArticle-meta" itemprop="datePublished" content="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date: "%b %-d, %Y" }}</div>
-    
-    {% if page.external %}
-    <h2 class="mb0" itemprop="name"><a class="bold inline external" href="{{ page.external }}">{{ page.title }}</a></h2>
-    {% else %}
-    <h1 class="h2 bold inline mb0" itemprop="name">{{ page.title }}</h1>
-    {% endif %}
-    
-    <div class="sans-serif medium SiteArticle-meta">in {{ page.categories | join: ', ' }}</div>
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
   </header>
 
-  {{ content }}
-
-  {% if page.response %}
-  	<p>{{ page.response }}</p>
-  	<div class="align--center mt2">
-	  	<a href="https://twitter.com/intent/tweet?screen_name=hellomichaellee" class="twitter-mention-button" data-size="large" data-dnt="true">Tweet to @hellomichaellee</a>
-		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-	</div>
-
-  {% endif %}
+  <article class="post-content">
+    {{ content }}
   </article>
 
-{% include disqus.html %}
+</div>
