@@ -2,20 +2,17 @@
 layout: default
 ---
 
+{% for post in paginator.posts %}
+<article class="post">
+  <!-- <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> -->
+  <h1>
+    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+  </h1>
+  {{ post.content }}
+</article>
+{% endfor %}
 
+<p><a href="{{ site.url }}/writings/" class="gray">See all writings &raquo;</a></p>
 
-    {% for post in paginator.posts %}
-    <article class="post">
-        <!-- <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> -->
-
-        <h1>
-          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h1>
-        {{ post.content }}
-    </article>
-    {% endfor %}
-
-  <p><a href="{{ site.url }}/writings/" class="gray">See all writings &raquo;</a></p>
-
-  <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
+<!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
 
