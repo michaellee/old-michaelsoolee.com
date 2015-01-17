@@ -18,9 +18,9 @@ My son wakes up around 6:30 ~ 7 in the morning and I'm in charge of morning duti
 
 Sleeping at 9:30 at night sounded ludicrous at first but I was going to start this sleep shift in Germany. So it really meant going to bed at 3:30 AM in Germany and waking up at 9:30 AM. That didn't sound so bad.
 
-So during the last week we were in Germany I did just that. It was hard at first, since by that time we had already been in Germany for a couple of weeks and my sleep schedule started to normalize to our family's schedule. But I stuck to the schedule and by the time we came back to the states, just as I expected, I got tired at 9:30 each night and I woke up at 3:30 ~ 4:00 every morning.
+So during the last week we were in Germany I did just that. It was hard at first, since by that time we had already been in Germany for a couple of weeks and my sleep schedule started to normalize to Central European Time. But I stuck to the schedule and by the time we came back to the States, just as I expected, I got tired at 9:30 each night and I woke up at 3:30 ~ 4:00 every morning.
 
-The benefits of waking up earlier were, I was able to squeeze in a couple of hours of uninterrupted coding in for [CodeHive](https://www.codehive.io), I also squeezed in some light reading and by the time my son woke up, I wasn't that cranky.
+The benefits of waking up earlier were, I was able to squeeze in a couple of hours of uninterrupted coding for [CodeHive](https://www.codehive.io), I also did some light reading and by the time my son woke up, I wasn't that cranky.
 
 Prior to the morning shift, my son acted as my alarm. When he woke up, I'd stumble across our home to his room to get him out of bed. I'd then stick him in front of his toys and usually dosed off for a few more minutes.
 
