@@ -4,7 +4,7 @@ title: "Don't Forget the Address"
 category: html
 ---
 
-A common practice when architecturing HTML is to wrap a group of elements with an anchor tag. This is so that clicking any of the elements within the anchor tag takes you to a linked page.
+A common practice when architecting HTML is to wrap a group of elements with an anchor tag. This is so that clicking any of the elements within the anchor tag takes you to a linked page.
 
 An example of this would be creating a button on a page.
 
