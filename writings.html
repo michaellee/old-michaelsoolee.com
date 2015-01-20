@@ -1,11 +1,11 @@
 ---
 layout: page
-title: writings
+title: Writings
 permalink: /writings/
 ---
 
 {% for post in site.posts  %}
-  
+
   {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
   {% capture this_month %}{{ post.date | date: "%B" }}{% endcapture %}
   {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
@@ -21,7 +21,7 @@ permalink: /writings/
     {% else %}
       {% if this_year != next_year %}
   <h2 class="h3">{{ next_month }} {{next_year}}</h2>
-    {% else %}    
+    {% else %}
       {% if this_month != next_month %}
   <h2 class="h3">{{ next_month }} {{next_year}}</h2>
       {% endif %}
