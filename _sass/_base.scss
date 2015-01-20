@@ -195,8 +195,6 @@ pre {
     }
 }
 
-
-
 /**
  * Clearfix
  */
@@ -226,4 +224,27 @@ pre {
             fill: $grey-color;
         }
     }
+}
+
+
+.footer{
+  @extend %clearfix;
+}
+
+.copyright{
+  float: left;
+}
+
+.footer-menu{
+  float: right;
+  ul{
+    list-style: none;
+  }
+  li{
+    float: left;
+    margin-left: 1rem;
+  }
+  li:first-child{
+    margin-left: 0;
+  }
 }
