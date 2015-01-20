@@ -24,4 +24,4 @@ Rather connect with me via email? [Click here](mailto:hellomichaellee@gmail.com?
 
 ## Colophon
 
-This site is built with good ol' HTML, CSS and Javascript. The site's theme is a modified version of Brent Jackson's [Heather](http://jxnblk.com/Heather/). It is compiled with a Ruby static-site generator, [Jekyll](http://jekyllrb.com). Hosted and version-controlled on [GitHub](https://github.com/michaellee/michaellee.github.io). The typeface is set in Merriweather.
+This site is built with good ol' HTML, CSS and Javascript. The site's theme is a modified version of Brent Jackson's [Heather](http://jxnblk.com/Heather/). It is compiled with a Ruby static-site generator, [Jekyll](http://jekyllrb.com). Hosted and version-controlled on [GitHub](https://github.com/michaellee/michaellee.github.io). The typeface is set in [Merriweather](http://www.google.com/fonts/specimen/Merriweather).
