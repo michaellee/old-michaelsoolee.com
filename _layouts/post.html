@@ -9,7 +9,14 @@ layout: default
 
   {{ content }}
 
-  <p class="small gray">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+  <p class="small gray">Posted on: {{ page.date | date: "%B %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+
+  {% if page.previous %}
+  <p class="small">Previous post: <a href="{{page.previous.url}}">{{page.previous.title}}</a></p>
+  {% endif %}
+  {% if page.next %}
+  <p class="small">Next post: <a href="{{page.next.url}}">{{page.next.title}}</a></p>
+  {% endif %}
 
 </article>
 <p>Follow along: <a href="https://twitter.com/hellomichaellee" class="gray">Twitter</a> / <a href="http://eepurl.com/-zz01" class="gray">Email</a> / <a href="{{ "/feed.xml" | prepend: site.baseurl }}" class="gray">RSS</a></p>
