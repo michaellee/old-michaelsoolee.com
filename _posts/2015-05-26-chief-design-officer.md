@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chief Creative Officer"
+title: "Chief Design Officer"
 category: work
 ---
 
