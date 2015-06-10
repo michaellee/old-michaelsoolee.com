@@ -12,3 +12,7 @@ github_username:  michaellee
 markdown: kramdown
 permalink: /:title
 paginate: 1
+
+github:
+  repo: michaellee/michaellee.github.io
+  branch: master
