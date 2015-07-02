@@ -11,7 +11,7 @@ github_username:  michaellee
 # Build settings
 markdown: kramdown
 permalink: /:title
-paginate: 1
+paginate: 3
 
 github:
   repo: michaellee/michaellee.github.io
