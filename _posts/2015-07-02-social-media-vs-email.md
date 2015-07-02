@@ -14,7 +14,9 @@ Which has a little welcome message and a permission to let them know if somethin
 
 Within the hour, @asm tweeted me back and the Head of Products tweeted to say they've fixed the bug &mdash; awesome.
 
-<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/asm">@asm</a> yo yo, took changelog for a ride &amp; can&#39;t seem to change the logo for my changelog. Uploaded a PNG &amp; didn&#39;t work. JPG doesn&#39;t work too</p>&mdash; Michael Lee (@hellomichaellee) <a href="https://twitter.com/hellomichaellee/status/616449018244255744">July 2, 2015</a></blockquote>
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hellomichaellee">@hellomichaellee</a> we&#39;re on it</p>&mdash; Assembly (@asm) <a href="https://twitter.com/asm/status/616458625884684288">July 2, 2015</a></blockquote>
+
+<blockquote class="twitter-tweet" lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hellomichaellee">@hellomichaellee</a> <a href="https://twitter.com/asm">@asm</a> looks like it was a bug; sorry about that! Just pushed up a fix—let us know if you run into any other issues</p>&mdash; Ben Shyong (@bshyong) <a href="https://twitter.com/bshyong/status/616459133575794688">July 2, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 As far as the e-mail goes, it doesn't matter now because the problem is fixed. But it amazes me how fast support is given nowadays thanks to social media.
