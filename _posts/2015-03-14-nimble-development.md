@@ -8,6 +8,8 @@ A few days ago we launched a new design for CodeHive. A layout that should scale
 
 As developers, we always want to craft the best work we can produce. But this obviously comes at a cost. The more polish you put into your work, the longer it takes for you to get the product or new feature to your users.
 
+<!--more-->
+
 When working on the new layout, I had to constantly fight off the desire to introduce new features or spend more time on polishing up little details. The goal was simply to execute on the new layout and get it in front of our users as quickly as possible.
 
 I think this is why Facebook and Twitter are on fast development cycles for their mobile apps. They want to get the latest and coolest features out to their users as quickly as possible. If there are bugs that were introduced because of this, no worries, a new update is coming out soon to mitigate the problem.

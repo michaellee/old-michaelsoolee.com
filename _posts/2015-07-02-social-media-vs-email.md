@@ -8,6 +8,8 @@ Last night I checked out Assembly's newish product called, [Changelog](http://ch
 
 One of the first things I did was try to upload a logo for a changelog. It didn't work. At first I thought it was because I had uploaded a PNG instead of a JPG. So I uploaded a JPG and still nothing.
 
+<!--more-->
+
 There was no mention of file type, resolution or size requirements so I just thought, "ok it's broken I'll let them know". So I backtracked to one of the first pages you see when you sign up.
 
 ![Changelog's welcome message](https://s3.amazonaws.com/michaellee.co/20150702-assembly.png)

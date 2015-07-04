@@ -18,6 +18,8 @@ What struck me was this excerpt:
 
 It is quite amazing to read this statement because there are two realizations. The first, that Ive has been acknowledged by others of his art and what he has contributed to this world. The second, is that Ive himself understands his abilities and purpose to create and release his art into this world.
 
+<!--more-->
+
 I can only imagine how this new position and move came about.
 
 Ive, probably frustrated by minutes, hours, days, months slipping away as he is stuck doing the things he wasn't made for. He perhaps storms into Cook's office and shares his frustration. The administrative and management work is draining and taking him away from what gets him out of bed in the mornings and pumped throughout the day &mdash; his art. Tim Cook, seeing Ive's frustration and his importance to Apple, agrees and out of thin air...a new position is made just for him.
