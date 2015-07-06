@@ -2,6 +2,7 @@
 layout: post
 title: "Chief Design Officer"
 category: work
+excerpt_separator: <!--more-->
 ---
 
 Today it was announced that Jony Ive, long time lead for Apple's Industrial Design team and more recently the Human Interface team, has been [promoted to a newly created position of Chief Design Officer](http://www.macrumors.com/2015/05/25/jony-ive-chief-design-officer/).
@@ -11,9 +12,9 @@ Alongside the official announcement from Apple, [a story was published](http://w
 What struck me was this excerpt:
 
 > When I catch up with Ive alone, I ask him why he has seemingly relinquished the two departments that had been so successfully under his control. "Well, I'm still in charge of both," he says, "I am called Chief Design Officer. Having Alan and Richard in place frees me up from some of the administrative and management work **which isn’t … which isn’t …**"
-
+>
 >"**Which isn’t what you were put on this planet to do?**"
-
+>
 >"**Exactly.** Those two are as good as it gets."
 
 It is quite amazing to read this statement because there are two realizations. The first, that Ive has been acknowledged by others of his art and what he has contributed to this world. The second, is that Ive himself understands his abilities and purpose to create and release his art into this world.

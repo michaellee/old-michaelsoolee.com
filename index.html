@@ -15,12 +15,30 @@ layout: default
     <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
   </h1>
   {% endif %}
+  
+  {% if post.excerpt_separator %}
+    {{ post.excerpt }}
+    <a href="{{ post.url | prepend: site.baseurl }}" class="view-more">Continue reading</a>
+  {% else %}
+    {{ post.content }}
+  {% endif %}
 
-  {{ post.excerpt }}
-  <a href="{{ post.url | prepend: site.baseurl }}" class="view-more">Continue reading</a>
+  
 </article>
 {% endfor %}
 
-<p><a href="{{ site.url }}/writings/" class="gray">See all writings &raquo;</a></p>
+<p>
+  {% if paginator.previous_page %}
+    {% if paginator.previous_page == 1 %}
+      <a href="/">Newer posts</a>  / 
+    {% else%}
+      <a href="/page/{{ paginator.previous_page }}">Newer posts</a> / 
+    {% endif %}
+  {% endif %}
+
+  {% if paginator.next_page %}
+    <a href="/page/{{ paginator.next_page }}">Older posts</a>
+  {% endif %}
+</p>
 
 <p>Follow along: <a href="https://twitter.com/hellomichaellee" class="gray">Twitter</a> / <a href="http://eepurl.com/-zz01" class="gray">Email</a> / <a href="{{ "/feed.xml" | prepend: site.baseurl }}" class="gray">RSS</a></p>

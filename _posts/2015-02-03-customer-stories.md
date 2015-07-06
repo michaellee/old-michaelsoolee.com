@@ -1,10 +1,13 @@
 ---
 layout: post
 title: "Customer stories"
-category: business
+category: work
+excerpt_separator: <!--more-->
 ---
 
 One of the privileges that I have as a business owner is being able to personally reach out to my customers and users. It is something I try to do often. In doing so, it reminds me that these customers and users are not just a transaction number or a user name, but a real human being with feelings, emotions and a story behind why they need something that I have to offer them.
+
+<!--more-->
 
 Stories like, a boyfriend from Germany trying to send his girlfriend in Korea &mdash; that he met while studying abroad in Taiwan &mdash; a Christmas greeting card. The family in the US, who had just adopted a daughter from Korea and wanted to send their daughter a first birthday card because they can't be there. The guy who is learning Ember.js for the first time to build his company's new website and found my tip on how to create an Ember component useful. A 13 year old developer eager to learn as much as he can about programming and web development.
 
