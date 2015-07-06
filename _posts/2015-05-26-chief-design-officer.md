@@ -2,6 +2,7 @@
 layout: post
 title: "Chief Design Officer"
 category: work
+excerpt_separator: <!--more-->
 ---
 
 Today it was announced that Jony Ive, long time lead for Apple's Industrial Design team and more recently the Human Interface team, has been [promoted to a newly created position of Chief Design Officer](http://www.macrumors.com/2015/05/25/jony-ive-chief-design-officer/).
