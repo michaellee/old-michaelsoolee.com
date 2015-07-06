@@ -2,7 +2,7 @@
 layout: post
 title: "Four Questions for Developer, Sam Soffes"
 category: life
-external: http://sam.roon.io/four-questions
+link: http://sam.roon.io/four-questions
 ---
 
 I came across this post by Sam Soffes, where he answers four questions that a college student sent him regarding being a developer. I'm glad he publicly shared these questions and answers as it is refreshing to read someone's origin story. And it could be helpful to a whole bunch of folks.

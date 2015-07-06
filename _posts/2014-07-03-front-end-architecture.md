@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Front-End Architecture"
-external: http://nicolasgallagher.com/about-html-semantics-front-end-architecture/#how-i-learned-to-stop-worrying-
+link: http://nicolasgallagher.com/about-html-semantics-front-end-architecture/#how-i-learned-to-stop-worrying-
 categories: programming
 response: "Do you write your CSS using BEM or OOCSS? If so care to share resources that helped you learn them?"
 ---

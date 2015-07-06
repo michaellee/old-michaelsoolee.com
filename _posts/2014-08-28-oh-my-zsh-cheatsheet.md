@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Oh-My-ZSH Cheatsheet"
-external: https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet
+link: https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet
 category: programming
 ---
 

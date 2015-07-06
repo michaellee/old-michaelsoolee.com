@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "4 Things That Makes CodePen Awesome"
-external: http://codepen.io/michaellee/blog/4-things-that-makes-codepen-awesome
+link: http://codepen.io/michaellee/blog/4-things-that-makes-codepen-awesome
 categories: codepen
 ---
 

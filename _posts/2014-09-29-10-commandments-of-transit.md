@@ -2,7 +2,7 @@
 layout: post
 title: "10 Commandments of Transit by Facebook's Analog Research Lab"
 category: life
-external: http://www.transitcommandments.com/
+link: http://www.transitcommandments.com/
 ---
 
 Having just got back from a trip to NYC and Germany, when I came across this 10 Commandments of Transit page, I couldn't help but nod and chuckle. I love the simplicity in the drawings and how they knocked back the transit seat and put the focus on the subject. It made the drawing pair really well with the commandment.

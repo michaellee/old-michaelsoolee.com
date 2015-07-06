@@ -2,7 +2,7 @@
 layout: post
 title: "Ember.js skip link component"
 category: 'ember.js'
-external: https://www.codehive.io/boards/pZUuwIk
+link: https://www.codehive.io/boards/pZUuwIk
 ---
 
 One of the requirements for the project I'm currently working on is to make sure accessibility features are implemented so that users with disabilities may be able to navigate with keyboard or screen reader.

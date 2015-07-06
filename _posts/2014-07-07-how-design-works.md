@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How Design Works"
-external: http://startupsthisishowdesignworks.com/
+link: http://startupsthisishowdesignworks.com/
 categories: design
 ---
 

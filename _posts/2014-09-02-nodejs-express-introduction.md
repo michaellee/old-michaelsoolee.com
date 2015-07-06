@@ -2,7 +2,7 @@
 layout: post
 title: "An Intro to Node.js and Express"
 category: programming
-external: http://evanhahn.com/understanding-express/
+link: http://evanhahn.com/understanding-express/
 ---
 
 In the past couple of days I've been trying to wrap my head around Node.js and the Express framework. I've only been able to find a handful of useful articles that has helped me dive in. One of which is this article by lover of Sriracha, [Evan Hahn](https://twitter.com/EvanHahn).

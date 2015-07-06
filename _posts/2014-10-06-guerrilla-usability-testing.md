@@ -2,7 +2,7 @@
 layout: post
 title: "Running Your Own Guerrilla Usability Testing"
 category: usability
-external: http://www.slideshare.net/jtcchan/how-to-run-your-own-guerrilla-usability-testing
+link: http://www.slideshare.net/jtcchan/how-to-run-your-own-guerrilla-usability-testing
 ---
 
 Today, I was tasked to start prepping to run a usability test of a project at work. I've done some basic usability tests when I was in an HCI course and then again in my human factors course. But I needed a refresher.

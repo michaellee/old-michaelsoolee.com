@@ -6,9 +6,9 @@ layout: default
 <article class="post">
   <!-- <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> -->
   
-  {% if post.external %}
+  {% if post.link %}
   <h1>
-    <a href="{{ post.external }}">{{ page.title }}</a>
+    <a href="{{ post.link }}">{{ post.title }}</a>
   </h1>
   {% else %}
   <h1>

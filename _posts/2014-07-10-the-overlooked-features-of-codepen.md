@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Overlooked Features of CodePen"
-external: http://codepen.io/michaellee/blog/the-overlooked-features-of-codepen
+link: http://codepen.io/michaellee/blog/the-overlooked-features-of-codepen
 categories: codepen
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Learning Vim"
-external: http://csswizardry.com/2014/06/vim-for-people-who-think-things-like-vim-are-weird-and-hard/
+link: http://csswizardry.com/2014/06/vim-for-people-who-think-things-like-vim-are-weird-and-hard/
 categories: programming
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Launch MacVim from the Mac OS X Terminal"
-external: https://gist.github.com/michaellee/d155b9b9f26dedd0d9cc
+link: https://gist.github.com/michaellee/d155b9b9f26dedd0d9cc
 categories: programming
 ---
 

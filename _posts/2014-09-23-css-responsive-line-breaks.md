@@ -2,7 +2,7 @@
 layout: post
 title: "Responsive Line Breaks in CSS"
 category: rwd
-external: http://danielmall.com/articles/responsive-line-breaks/
+link: http://danielmall.com/articles/responsive-line-breaks/
 ---
 
 One of the common design trends that you see these days are headers with a huge image and text overlayed on top of it. With responsive web design, there's a challenge of breaking the text over several lines to make it look good, while having it look good over a multitude of resolutions.

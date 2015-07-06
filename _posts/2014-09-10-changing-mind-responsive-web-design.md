@@ -2,7 +2,7 @@
 layout: post
 title: "Changing My Mind About Responsive Web Design"
 category: rwd
-external: http://bradfrostweb.com/blog/post/7-habits-of-highly-effective-media-queries/
+link: http://bradfrostweb.com/blog/post/7-habits-of-highly-effective-media-queries/
 ---
 
 Weeks before Apple announced the iPhone 6, I wondered what sort of resolutions web-developers would have to support for responsive websites. While doing some research on media queries, I stumbled upon Brad Frosts' excellent article, _7 Habits of Highly Effective Media Queries_; an excellent read. As I mull over the contents of the article, I'm beginning to change the way I think about responsive web design.

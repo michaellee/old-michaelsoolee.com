@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kelli Anderson on The Great Discontent"
-external: http://thegreatdiscontent.com/interview/kelli-anderson
+link: http://thegreatdiscontent.com/interview/kelli-anderson
 categories: cool
 ---
 

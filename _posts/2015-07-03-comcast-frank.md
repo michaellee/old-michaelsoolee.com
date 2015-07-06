@@ -8,9 +8,9 @@ excerpt_separator: <!--more-->
 I've been going through Seth Godin's book, *<a href="http://www.amazon.com/gp/product/1591844096/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1591844096&linkCode=as2&tag=michaelleeco-20&linkId=CSNTQ44AMTZRBDXG">Linchpin</a>*. Last night, I came across a story of a guy named Frank and how he single-handedly changed the perception of Comcast simply by being human and interacting with angry folks on Twitter. I thought I'd share Frank's story as told by Seth, after sharing yesterday's [positive social media interaction with the folks at Assembly](http://michaellee.co/social-media-vs-email).
 
 > Frank figured out that angry customers were ofen using Twitter to vent their rage about Comcast and their service or lack thereof.
-
+>
 > One day, Frank tweeted back.
-
+>
 > He showed up. Not because it was in the manual or because someone told him to, but because he wanted to help. It was a gift, not his job. Frank was honestly interested in connecting, and his generosity came through.
 
 <!--more-->

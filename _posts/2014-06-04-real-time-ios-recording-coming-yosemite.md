@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Real-Time iOS App Recording Coming in OS X Yosemite"
-external: http://www.macstories.net/news/os-x-yosemite-will-feature-option-to-record-real-time-footage-of-ios-apps/
+link: http://www.macstories.net/news/os-x-yosemite-will-feature-option-to-record-real-time-footage-of-ios-apps/
 categories: ios, osx
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Source Serif Pro"
-external: http://adobe.github.io/source-serif-pro/
+link: http://adobe.github.io/source-serif-pro/
 ---
 
 Source Serif Pro is a new font released by Adobe to complement the Source Sans Pro font family. I can't wait to pair the two font's together in a future project as Source Sans Pro is a font I've been delighting in these days.
