@@ -5,9 +5,17 @@ layout: default
 {% for post in paginator.posts %}
 <article class="post">
   <!-- <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> -->
+  
+  {% if post.external %}
+  <h1>
+    <a href="{{ post.external }}">{{ page.title }}</a>
+  </h1>
+  {% else %}
   <h1>
     <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
   </h1>
+  {% endif %}
+
   {{ post.excerpt }}
   <a href="{{ post.url | prepend: site.baseurl }}" class="view-more">Continue reading</a>
 </article>
