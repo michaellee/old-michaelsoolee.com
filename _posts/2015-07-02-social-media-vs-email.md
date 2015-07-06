@@ -2,7 +2,6 @@
 layout: post
 title: "Social media vs E-mail"
 category: work
-excerpt_separator: <!--more-->
 ---
 
 Last night I checked out Assembly's newish product called, [Changelog](http://changelog.assembly.com/). I signed up, created a couple of changelogs and started to tweak my changelogs to make it more custom.
