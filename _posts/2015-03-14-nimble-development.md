@@ -2,7 +2,6 @@
 layout: post
 title: "Nimble development"
 category: programming
-excerpt_separator: <!--more-->
 ---
 
 A few days ago we launched a new design for CodeHive. A layout that should scale well for the ideas we have in the pipeline.

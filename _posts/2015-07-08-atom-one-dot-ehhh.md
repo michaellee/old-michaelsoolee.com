@@ -2,7 +2,6 @@
 layout: post
 title: "Atom 1.ehhh"
 category: 'work'
-excerpt_separator: <!--more-->
 link: http://blog.atom.io/2015/06/25/atom-1-0.html
 ---
 

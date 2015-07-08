@@ -2,7 +2,6 @@
 layout: post
 title: "Customer stories"
 category: work
-excerpt_separator: <!--more-->
 ---
 
 One of the privileges that I have as a business owner is being able to personally reach out to my customers and users. It is something I try to do often. In doing so, it reminds me that these customers and users are not just a transaction number or a user name, but a real human being with feelings, emotions and a story behind why they need something that I have to offer them.

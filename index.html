@@ -16,8 +16,8 @@ layout: default
   </h1>
   {% endif %}
   
-  {% if post.excerpt_separator %}
-    {{ post.excerpt }}
+  {% if post.content contains '<!--more-->' %}
+    {{ post.content | split:'<!--more-->' | first }}
     <a href="{{ post.url | prepend: site.baseurl }}" class="view-more">Continue reading</a>
   {% else %}
     {{ post.content }}
