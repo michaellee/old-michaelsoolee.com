@@ -2,8 +2,8 @@
 layout: post
 title: "Atom 1.ehhh"
 category: 'work'
-link: http://blog.atom.io/2015/06/25/atom-1-0.html
 excerpt_separator: <!--more-->
+link: http://blog.atom.io/2015/06/25/atom-1-0.html
 ---
 
 A few weeks ago GitHub shipped version 1.0 of their open source text editor, Atom. I've checked out pre-1.0 versions of Atom before but each time, I just kept coming back to Sublime Text. It was no exception with 1.0 either.
