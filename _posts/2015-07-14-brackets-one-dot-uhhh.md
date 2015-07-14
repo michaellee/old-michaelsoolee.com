@@ -32,7 +32,7 @@ Here is a list of my pros and cons for Brackets.
 
 That last one was what broke the camel's back for me. While I understand that this was a decision to keep Brackets fast and nimble (which I admit it was). I thought it was kind of ridiculous. When I had two projects open, I received this message.
 
-![](https://s3.amazonaws.com/michaellee.co/20150714-brackets-error.png)
+![](http://i.michaellee.co/20150714-brackets-error.png)
 
 Seeing that there was a reason that this message was shown, I clicked on the link to see what all the fuss was about. Towards the end of the document I saw this explanation.
 

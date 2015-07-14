@@ -11,6 +11,6 @@ One of the things that IFTTT does by default is shorten your links using their s
 
 Simply login, go to *[Preferences > Settings](https://ifttt.com/preferences/settings)*. Then scroll down until you see *URL Shortening*. You should see a checkbox checked with *Auto shorten URLs*. Simply uncheck this and update your settings. 
 
-![Screenshot of IFTTT's settings](https://s3.amazonaws.com/michaellee.co/images/20150710-ifttt-links.png)
+![Screenshot of IFTTT's settings](http://i.michaellee.co/images/20150710-ifttt-links.png)
 
 Now everytime IFTTT shares a link on your behalf, it'll be the non shortened version.
