@@ -4,18 +4,19 @@ layout: default
 
 {% for post in paginator.posts %}
 <article class="post">
-  <!-- <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> -->
-  
-  {% if post.link %}
-  <h1>
-    <a href="{{ post.link }}">{{ post.title }}</a>
-  </h1>
-  {% else %}
-  <h1>
-    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-  </h1>
-  {% endif %}
-  
+  <header class="post-header">
+    {% if post.link %}
+    <h1>
+      <a href="{{ post.link }}">{{ post.title }}</a>
+    </h1>
+    <a href="{{ post.url | prepend: site.baseurl }}" title="Permalink to {{ post.title }}" class="permalink"></a>
+    {% else %}
+    <h1>
+      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </h1>
+    {% endif %}
+    <div class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</div>
+  </header>
   {% if post.content contains '<!--more-->' %}
     {{ post.content | split:'<!--more-->' | first }}
     <a href="{{ post.url | prepend: site.baseurl }}" class="view-more">Continue reading</a>

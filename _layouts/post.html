@@ -10,12 +10,10 @@ layout: default
     {% else %}
     <h1>{{ page.title }}</h1>
     {% endif %}
-
+    <div class="post-meta">{{ page.date | date: "%b %-d, %Y" }}</div>
   </header>
 
   {{ content }}
-
-  <p class="small gray">Posted on: {{ page.date | date: "%B %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
 
   {% if page.previous %}
   <p class="small">Previous post: <a href="{{page.previous.url}}">{{page.previous.title}}</a></p>

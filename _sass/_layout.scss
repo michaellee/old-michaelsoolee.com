@@ -179,7 +179,7 @@
 }
 
 .post-meta {
-    font-size: $small-font-size;
+    font-size: 1rem;
     color: $grey-color;
 }
 
@@ -195,6 +195,25 @@
  */
 .post-header {
     margin-bottom: $spacing-unit;
+  h1{
+    display: inline-block;
+    margin-bottom: 0;
+    vertical-align: middle;
+  }
+}
+
+.permalink{
+  background: url("https://s3.amazonaws.com/michaellee.co/anchor.svg") no-repeat center center;
+		font: 0/0 a;
+		-webkit-background-size: 20px 20px;
+		background-size: 20px 20px;
+		width: 20px;
+		height: 20px;
+		display: inline-block;
+  vertical-align: middle;
+		border: 0;
+		outline: 0;
+  margin-left: 1rem;
 }
 
 .post-title {
