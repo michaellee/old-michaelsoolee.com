@@ -199,11 +199,15 @@
     display: inline-block;
     margin-bottom: 0;
     vertical-align: middle;
+    margin-right: 1rem;
+  }
+  a{
+    display: inline-block;
   }
 }
 
 .permalink{
-  background: url("https://s3.amazonaws.com/michaellee.co/anchor.svg") no-repeat center center;
+  background: url("https://s3.amazonaws.com/michaellee.co/images/anchor.svg") no-repeat center center;
 		font: 0/0 a;
 		-webkit-background-size: 20px 20px;
 		background-size: 20px 20px;
@@ -213,7 +217,6 @@
   vertical-align: middle;
 		border: 0;
 		outline: 0;
-  margin-left: 1rem;
 }
 
 .post-title {

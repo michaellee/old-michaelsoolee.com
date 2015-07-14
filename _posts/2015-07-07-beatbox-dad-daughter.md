@@ -4,7 +4,7 @@ title: "Father, daughter beatbox battle"
 category: 'play'
 ---
 
-![](https://s3.amazonaws.com/michaellee.co/20150707-beatbox.jpg)
+![](https://s3.amazonaws.com/michaellee.co/images/20150707-beatbox.jpg)
 
 This video makes me smile so much. Father vs daughter in a beatbox battle. Daughter kills it. But watch the father's reaction when she's up.
 

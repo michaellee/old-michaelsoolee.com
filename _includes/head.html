@@ -10,6 +10,7 @@
   <link href='http://fonts.googleapis.com/css?family=Merriweather:400,400italic,700' rel='stylesheet' type='text/css'>
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+  {% if jekyll.environment == "production" %}
   <script>
     !function(g,s,q,r,d){r=g[r]=g[r]||function(){(r.q=r.q||[]).push(
     arguments)};d=s.createElement(q);q=s.getElementsByTagName(q)[0];
@@ -18,4 +19,5 @@
 
     _gs('GSN-106453-M');
   </script>
+  {% endif %}
 </head>
