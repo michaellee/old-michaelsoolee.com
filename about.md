@@ -8,13 +8,15 @@ Hey there! I'm Michael.
 
 I'm a husband, a father and a freelance developer &amp; designer based out of Cary, North Carolina.
 
-I enjoy learning and sharing my knowledge of programming, which is why I built [CodeHive](https://www.codehive.io) &mdash; a community where developers of all skill sets help each other solve problems, learn new skills and become better at their craft. If you're a programmer, you should come join and level up your skills.
+![Picture of Michael Lee](http://i.michaellee.co/2015-michaellee-profile.jpg)
+
+I enjoy learning and sharing my knowledge of programming, which is why I built [CodeHive](https://www.codehive.io) &mdash; a community where developers of all skill-sets help each other solve problems, learn new skills and become better at their craft. If you're a programmer, you should come join and level up your skills.
 
 My wife is wickedly good at crafting things with her hands and together we sell paper goods online at [native haus](http://www.nativehaus.com).
 
 In the past I've worked for NC State University as a senior web developer, ReverbNation as a front-end developer and PathosEthos as a software developer.
 
-I designed and built this site to house writings about building an online community, making products, online business, eating healthy and being a family man.
+I designed and built this site to house writings about building an online community, making products, online business, and being a family man.
 
 ## Connect with me
 
