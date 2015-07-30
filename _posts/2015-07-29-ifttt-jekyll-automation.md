@@ -21,7 +21,7 @@ First, [click on create a new recipe](https://ifttt.com/myrecipes/personal/new) 
 
 ![](http://i.michaellee.co/20150729-ifttt-01.png)
 
-Click on the *this* statement, and then you'll be presented with a bunch of channels (what IFTTT calls applications) to select from. Filter this list, by typing in **RSS** in the search field.
+Clicking on the *this* statement, and then you'll be presented with a bunch of channels (what IFTTT calls applications) to select from. Filter this list, by typing in **RSS** in the search field.
 
 ![](http://i.michaellee.co/20150729-ifttt-02.png)
 
