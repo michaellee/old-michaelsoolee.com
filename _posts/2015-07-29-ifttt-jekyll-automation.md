@@ -21,7 +21,7 @@ First, [click on create a new recipe](https://ifttt.com/myrecipes/personal/new) 
 
 ![](http://i.michaellee.co/20150729-ifttt-01.png)
 
-Clicking on the *this* statement, and then you'll be presented with a bunch of channels (what IFTTT calls applications) to select from. Filter this list, by typing in **RSS** in the search field.
+Click on the *this* statement, and then you'll be presented with a bunch of channels (what IFTTT calls applications) to select from. Filter this list, by typing in **RSS** in the search field.
 
 ![](http://i.michaellee.co/20150729-ifttt-02.png)
 
@@ -37,7 +37,7 @@ You'll be asked to provide the URL of your RSS feed. Fill this in and then creat
 
 ![](http://i.michaellee.co/20150729-ifttt-05.png)
 
-Click on *that* will bring you to a new listing of channels to create your action.
+Clicking on *that* will bring you to a new listing of channels to create your action.
 
 ![](http://i.michaellee.co/20150729-ifttt-06.png)
 
