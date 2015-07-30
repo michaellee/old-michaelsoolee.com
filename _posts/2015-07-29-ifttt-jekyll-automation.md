@@ -11,6 +11,8 @@ The site is statically generated, meaning there is no database. Jekyll generates
 
 Thankfully there is a sweet service called [IFTTT](https://ifttt.com/) (which stands for *If This Then That*). IFTTT is a great service to automate actions between two different apps using recipes that follow the simple statement of, if this then that. I've created a couple of recipes that helps automate some of my social networking.
 
+<!--more-->
+
 Prior to discovering IFTTT, after I published a post, I would grab the URL and the title and open Twitter and LinkedIn and publish my new post there. Although it'd take me but five minutes or less to do this, I wanted to remove that step altogether from my posting workflow.
 
 To accomplish this, I use recipes that are made up of watching my site's RSS feed for new items, since Jekyll automatically creates a RSS file. When a new item is found, then IFTTT creates a new update using the title and URL and post it up to their respective social media accounts.
