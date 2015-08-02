@@ -61,7 +61,7 @@ Once you've created your action, you'll be brought to a screen to review your re
 
 Now look at that, a nice shiny new IFTTT recipe that'll watch my Jekyll generated site's RSS and auto tweet my latest post's title and URL.
 
-There are two tidbits, I'd like to also share. First, after publishing a post, the recipe doesn't trigger instantaneously. I believe IFTTT has their servers set up to trigger recipes on a set interval. I've got IFTTT on my phone to notify me when a recipe runs and <del>I believe the recipes usually trigger within five minutes of posting</del> <ins>according to IFTTT most recipes will poll for [new trigger data every 15 mins](https://ifttt.com/wtf).</ins>.
+There are two tidbits, I'd like to also share. First, after publishing a post, the recipe doesn't trigger instantaneously. I believe IFTTT has their servers set up to trigger recipes on a set interval. I've got IFTTT on my phone to notify me when a recipe runs and <del>I believe the recipes usually trigger within five minutes of posting</del> <ins>according to IFTTT most recipes will poll for [new trigger data every 15 mins](https://ifttt.com/wtf)</ins>.
 
 The second tidbit is, by default, IFTTT will shorten links and uses their shortened URL when posting things with a link. I'm not a big fan of shortened URLs, especially if they are unbranded. Thankfully there is an option that you can actually have IFTTT not shorten links.
 
