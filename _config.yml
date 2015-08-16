@@ -19,3 +19,6 @@ github:
   branch: master
 
 exclude: ["s3_website.yml"]
+
+sass:
+  style: :compressed
