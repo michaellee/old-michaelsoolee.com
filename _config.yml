@@ -17,3 +17,5 @@ paginate_path: "/page/:num"
 github:
   repo: michaellee/michaellee.github.io
   branch: master
+
+exclude: ["s3_website.yml"]
