@@ -18,7 +18,10 @@ github:
   repo: michaellee/michaellee.github.io
   branch: master
 
-exclude: ["s3_website.yml"]
-
 sass:
   style: :compressed
+
+collections:
+  notes:
+    output: true
+    permalink: /notes/:path/
