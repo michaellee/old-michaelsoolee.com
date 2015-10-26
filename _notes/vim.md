@@ -3,6 +3,18 @@ layout: page
 title: Vim 
 ---
 
+## Navigating
+
+These should be performed in *command mode*.
+
+`h` Move to the left
+
+`l` Move to the right
+
+`j` Move up
+
+`k` Move down
+
 ## Editing
 
 `>>` Indent line by shiftwidth spaces. shiftwidth is defined in a .vimrc file.
