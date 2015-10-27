@@ -11,9 +11,9 @@ These should be performed in *command mode*.
 
 `l` Move to the right
 
-`j` Move up
+`j` Move down 
 
-`k` Move down
+`k` Move up 
 
 ## Editing
 
