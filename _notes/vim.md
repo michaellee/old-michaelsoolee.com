@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: note 
 title: Vim 
+lastupdated: 2015-10-27  
 ---
 
 ## Navigating
@@ -20,6 +21,8 @@ These should be performed in *command mode*.
 `>>` Indent line by shiftwidth spaces. shiftwidth is defined in a .vimrc file.
 
 `[1-9]>>` Indents line by shiftwidth spaces starting from the line your cursor is currently on. So if I did `3>>` this would shift the current line plus the 2 followng lines
+
+`s` Delete and enter insert mode. Like `x` you'll want the cursor over the character you want to replace.
 
 ## Tips
 

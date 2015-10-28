@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
+
+	{{ content }}
+
+  {% if page.lastupdated %}
+  <p><b>Last updated:</b> {{page.lastupdated}}</p>
+  {% endif %}
+  
+
+</div>
