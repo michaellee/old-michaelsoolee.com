@@ -10,6 +10,8 @@ github_username:  michaellee
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
 permalink: /:title
 paginate: 4
 paginate_path: "/page/:num"
