@@ -1,6 +1,6 @@
 ---
-layout: note 
-title: Rails 
+layout: note
+title: Rails
 lastupdated: 2015-11-02  
 ---
 
@@ -10,14 +10,14 @@ lastupdated: 2015-11-02
 
 Let's say you have two variables each with a string assigned to them
 
-```
+```ruby
 first_name = "Michael"
 last_name = "Lee"
 ```
 
 You can then use these variables with `#{}` to perform a string interpolation.
 
-```
+```ruby
 puts "My name is #{first_name} #{last_name}"
 ```
 
@@ -35,14 +35,14 @@ What this means is any helper method is available in all Rails views.
 
 You can split words in a string into an array, using the split method.
 
-```
+```ruby
 "pizza hamburger fries".split
 # => ["pizza", "hamburger", "fries"]
 ```
 
 By default split divids a string into an array on whitespace. `split` can also take an argument which will be used to split the string into an array.
 
-```
+```ruby
 "pizzashamburgersrice".split('s')
 # => ["pizza", "hamburger", "rice"]
 ```
@@ -55,7 +55,7 @@ Arrays also has `.sort`, `.reverse`, and `.shuffle` these will change the output
 
 You can add to an array using the `.push` method which is also equivalent to `<<`
 
-```
+```ruby
 a.push(6)
 # or
 a << 6
@@ -65,7 +65,7 @@ a << 6
 
 The opposite of `split` is the `join` method, which allows you to the values of an array and join them together.
 
-```
+```ruby
 a = [12,3,55,"hello","world"]
 a.join
 # => "12355helloworld"
@@ -80,7 +80,7 @@ Hash values can be virtually anything, even other hashes.
 
 `:name` is a symbol. Inside of a hash, `:name` and `name:` are essentially the same.
 
-```
+```ruby
 {:name => "Michael"}
 {name: "Michael"}
 ```
@@ -91,7 +91,7 @@ Everything in Ruby is an object. Classes are used to organize methods and these 
 
 To write your own class, the syntax follows:
 
-```
+```ruby
 class Word
   def palindrome?(string)
     string == string.reverse
@@ -101,7 +101,7 @@ end
 
 We can then use it as follows.
 
-```
+```ruby
 w = Word.new
 w.palindrome?("hello")
 # => false
@@ -111,7 +111,7 @@ w.palindrome?("level")
 
 We can have the Word class inherit from String
 
-```
+```ruby
 class Word < String
   def palindrome?
     self == self.reverse
@@ -123,7 +123,7 @@ This inheritance now allows for the Word class to ensure it has all of String's 
 
 Classes can also be modified by using the same name as an existing class. Here we add the new method `palindrome?` to the existing String class.
 
-```
+```ruby
 class String
   def palindrome?
     self == self.reverse
