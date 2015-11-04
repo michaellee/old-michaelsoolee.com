@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What I expect when I successfully run a Vim command"
+title: "A better understanding of how to use Git submodules"
 category: "link"
 link: "https://chrisjean.com/git-submodules-adding-using-removing-and-updating/"
 date: 2015-11-03 23:29:00
