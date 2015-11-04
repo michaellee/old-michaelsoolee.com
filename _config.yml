@@ -10,8 +10,6 @@ github_username:  michaellee
 
 # Build settings
 markdown: redcarpet
-redcarpet:
-  extensions: ["smart", "tables", "no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", "with_toc_data"]
 permalink: /:title
 paginate: 4
 paginate_path: "/page/:num"
