@@ -5,7 +5,7 @@ category: "work"
 date: 2015-11-06 13:41:00
 ---
 
-On October 14, 2015 CodeHive passed the one year mark since it went live. Originally this post was pretty epic in that it was nearing 2400+ words and it was to include some observations and reflections on the past year but I've decided to break it into two parts. Part one, which is this post, is all about numbers from the first year. Part two, I wanted to give a little more thought and reflection on before publishing it. So you'll have to tune in next week to read part two. But while you're here, enjoy part one with some numbers and charts.
+On October 14, 2015 [CodeHive](https://www.codehive.io/) passed the one year mark since it went live. Originally this post was pretty epic in that it was nearing 2400+ words and it was to include some observations and reflections on the past year but I've decided to break it into two parts. Part one, which is this post, is all about numbers from the first year. Part two, I wanted to give a little more thought and reflection on before publishing it. So you'll have to tune in next week to read part two. But while you're here, enjoy part one with some numbers and charts.
 
 ## The numbers
 
