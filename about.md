@@ -14,7 +14,7 @@ I enjoy learning and sharing my knowledge of programming, which is why I built [
 
 In the past I've worked for NC State University as a senior web developer, ReverbNation as a front-end developer and Pathos Ethos as a software developer. I've also had the pleasure of doing work for companies and brands such as University of North Carolina at Chapel Hill, the Carolina Hurricanes and !deation.
 
-I designed and built this site to house writings about being a family man, building products and just cool stuff that I'm interested in.
+I designed and built this site to house writings about being a family man, building products and cool stuff that I'm interested in.
 
 ## Connect with me
 
