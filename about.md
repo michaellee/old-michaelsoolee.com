@@ -4,25 +4,23 @@ title: About
 permalink: /about/
 ---
 
-Hey there! I'm Michael.
+Hey there, I'm Michael Lee. Thanks for visiting my site!
 
-I'm a husband, a father and a freelance developer &amp; designer based out of Cary, North Carolina.
+My favorite food is pizza, I'm a stay-at-home dad and a freelance developer &amp; designer based out of Cary, North Carolina.
 
 ![Picture of Michael Lee](http://i.michaellee.co/2015-michaellee-profile.jpg)
 
-I enjoy learning and sharing my knowledge of programming, which is why I built [CodeHive](https://www.codehive.io) &mdash; a community where developers of all skill-sets help each other solve problems, learn new skills and become better at their craft. If you're a programmer, you should come join and level up your skills.
+I enjoy learning and sharing my knowledge of programming, which is why I built [CodeHive](https://www.codehive.io) &mdash; a community for developers to share programming tips, ask questions and help each other grow in their craft.
 
-My wife is wickedly good at crafting things with her hands and together we sell paper goods online at [native haus](http://www.nativehaus.com).
+In the past I've worked for NC State University as a senior web developer, ReverbNation as a front-end developer and Pathos Ethos as a software developer. I've also had the pleasure of doing work for companies and brands such as University of North Carolina at Chapel Hill, the Carolina Hurricanes and !deation.
 
-In the past I've worked for NC State University as a senior web developer, ReverbNation as a front-end developer and PathosEthos as a software developer.
-
-I designed and built this site to house writings about building an online community, making products, online business, and being a family man.
+I designed and built this site to house writings about being a family man, building products and just cool stuff that I'm interested in.
 
 ## Connect with me
 
-You can find me having conversations in 140 characters as [@hellomichaellee on Twitter](https://twitter.com/michaelsoolee), sharing my knowledge of front-end development on [CodePen](http://codepen.io/michaellee), helping others level up their programming skills on [CodeHive](https://www.codehive.io/michaellee), sharing my thoughts and experiences on [this site](http://michaellee.co/writings/) you're on right now and flexing my design chops at [Dribbble](https://dribbble.com/michaellee).
+You can find me having conversations in 140 characters as [@michaelsoolee on Twitter](https://twitter.com/michaelsoolee), sharing my knowledge of front-end development on [CodePen](http://codepen.io/michaellee), helping others level up their programming skills on [CodeHive](https://www.codehive.io/michaellee), sharing my thoughts and experiences on [this site](http://michaellee.co/writings/) you're on right now and flexing my design chops at [Dribbble](https://dribbble.com/michaellee).
 
-Rather connect with me via email? [Click here](mailto:hellomichaellee@gmail.com?Subject=Hello%20Michael!) and say hello!
+Rather connect with me via email? [Click here](mailto:michaelsoolee@gmail.com?Subject=Hello%20Michael!) and say hello!
 
 ## Colophon
 
