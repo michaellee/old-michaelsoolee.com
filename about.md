@@ -18,7 +18,7 @@ I designed and built this site to house writings about being a family man, build
 
 ## Connect with me
 
-You can find me having conversations in 140 characters as [@michaelsoolee on Twitter](https://twitter.com/michaelsoolee), sharing my knowledge of front-end development on [CodePen](http://codepen.io/michaellee), helping others level up their programming skills on [CodeHive](https://www.codehive.io/michaellee), sharing my thoughts and experiences on [this site](http://michaellee.co/writings/) you're on right now and flexing my design chops at [Dribbble](https://dribbble.com/michaellee).
+You can find me having conversations in 140 characters as [@michaelsoolee on Twitter](https://twitter.com/michaelsoolee), sharing my knowledge of front-end development on [CodePen](http://codepen.io/michaellee), helping others level up their programming skills on [CodeHive](https://www.codehive.io/michaellee), sharing my thoughts and experiences on [this site](http://michaellee.co/writings/) you're on right now and capturing fleeting moments of my friends and family on [Instagram](https://instagram.com/michaelsoolee).
 
 Rather connect with me via email? [Click here](mailto:michaelsoolee@gmail.com?Subject=Hello%20Michael!) and say hello!
 
