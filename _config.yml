@@ -1,11 +1,11 @@
 # Site settings
 title: "Michael Lee"
-email: "hellomichaellee@gmail.com"
+email: "michaelsoolee@gmail.com"
 description: > # this means to ignore newlines until "baseurl:"
-  Michael Lee is a craftsman of digital and analog things.
+  Michael Lee is a craftsman of digital things.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://michaellee.co" # the base hostname & protocol for your site
-twitter_username: hellomichaellee
+url: "http://michaelsoolee.com" # the base hostname & protocol for your site
+twitter_username: michaelsoolee
 github_username:  michaellee
 
 # Build settings
@@ -13,10 +13,6 @@ markdown: redcarpet
 permalink: /:title
 paginate: 4
 paginate_path: "/page/:num"
-
-github:
-  repo: michaellee/michaellee.github.io
-  branch: master
 
 sass:
   style: :compressed
