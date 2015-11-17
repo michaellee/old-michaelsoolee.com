@@ -13,7 +13,7 @@ Compared to a lot of web properties these numbers are nowhere near impressive. B
 
 ### Users
 
-![Chart of user sign ups](http://i.michaellee.co/20151106-users.png)
+![Chart of user sign ups](http://i.michaelsoolee.com/20151106-users.png)
 
 At the time of writing, CodeHive has **419** users that have signed up. "Signed up" means, that a user with a GitHub account have authenticated via GitHub to sign into CodeHive. We chose GitHub for our signup/signin mechanism because GitHub has become a standard for how developers work on code together. Christopher and I use it to build CodeHive from opposite sides of the U.S. as well as our other products.
 
@@ -54,11 +54,11 @@ This is a chart that I grabbed off of our Google Analytics. It is the number of 
 
 <br>
 
-![Grabbed from Google Analytics. Range from Oct 2014 to Nov 2015](http://i.michaellee.co/20151106-analytics-001.png)
+![Grabbed from Google Analytics. Range from Oct 2014 to Nov 2015](http://i.michaelsoolee.com/20151106-analytics-001.png)
 <div class="center">Grabbed from Google Analytics. Range from Oct 2014 to Nov 2015</div>
 
 <div class="center">
-  <img src="http://i.michaellee.co/20151106-analytics-002.png" alt="% of returning vs new sessions">
+  <img src="http://i.michaelsoolee.com/20151106-analytics-002.png" alt="% of returning vs new sessions">
 </div>
 <div class="center">% of returning vs new sessions</div>
 <br>

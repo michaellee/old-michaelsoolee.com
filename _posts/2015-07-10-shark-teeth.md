@@ -4,7 +4,7 @@ title: "Shark teeth"
 category: 'life'
 ---
 
-![Shark teeth found at Myrtle Beach](http://i.michaellee.co/20150710-shark-teeth.jpg)
+![Shark teeth found at Myrtle Beach](http://i.michaelsoolee.com/20150710-shark-teeth.jpg)
 
 For father's day we took a little family vacation to Myrtle Beach. The weather was great and our boy loves playing in the sun, sand and water. 
 

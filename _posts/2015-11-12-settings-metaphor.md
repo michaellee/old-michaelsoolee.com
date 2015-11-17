@@ -24,7 +24,7 @@ How do you extract a gear from that? When I think about setting, I think about s
 For this reason, I decided to go with this icon.
 
 <div class="center">
-  <img src="http://i.michaellee.co/20151112-settings.svg" alt="Settings icon">
+  <img src="http://i.michaelsoolee.com/20151112-settings.svg" alt="Settings icon">
 </div>
 
 I've seen it before but I think it is far less used to represent settings. But when I think through it I think it is a better representation of settings. The lines each represent a different preference that could be set by the user. The dots are used to denote the user's preference, hence the differing positions along each line.

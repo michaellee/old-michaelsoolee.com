@@ -12,7 +12,7 @@ One of the first things I did was try to upload a logo for a changelog. It didn'
 
 There was no mention of file type, resolution or size requirements so I just thought, "ok it's broken I'll let them know". So I backtracked to one of the first pages you see when you sign up.
 
-![Changelog's welcome message](http://i.michaellee.co/20150702-assembly.png)
+![Changelog's welcome message](http://i.michaelsoolee.com/20150702-assembly.png)
 
 Which has a little welcome message and a permission to let them know if something is off (poor Christine). So I sent an e-mail regarding my troubles and just to double up and make sure I'm heard I took to Twitter and also sent a tweet to @asm.
 

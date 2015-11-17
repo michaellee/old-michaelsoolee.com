@@ -5,7 +5,7 @@ category: 'lesson learned'
 date: 2015-07-22 21:00:00
 ---
 
-![My brave and persistent son](http://i.michaellee.co/20150722-persistence.jpg)
+![My brave and persistent son](http://i.michaelsoolee.com/20150722-persistence.jpg)
 
 This morning, my son and I were playing our usual game when we play with wooden blocks &mdash; how high of a block tower can we stack. We got pretty far, I'd say about 18 blocks tall or so. But like always, the blocks started to lean until...crash, they came falling down. One of the blocks had hit my son on his forehead. From the looks of it, I'd say it was an edge of a block.
 
