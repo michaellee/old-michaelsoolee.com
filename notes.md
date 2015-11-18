@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Notes
-permalink: /notes/
+permalink: /notes
 ---
 
 These are a set of notes I've created while learning something new. I've created these to reference when I need them.
