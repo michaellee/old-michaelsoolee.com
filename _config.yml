@@ -21,3 +21,5 @@ collections:
   notes:
     output: true
     permalink: /notes/:path/
+
+gems: [jekyll-paginate]
