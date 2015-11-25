@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Safari settings"
+title: "URLs in Safari"
 category: "tools"
 date: 2015-11-25 09:16:00
 ---
