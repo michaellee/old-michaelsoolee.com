@@ -10,7 +10,7 @@ There's this saying.
 
 In my understanding it means, if you're trying to build something substantial it takes time.
 
-And the more I build, the more I program, the older I get, I've come to realize this to be true. In the past, I would get these spur of the moment ideas and try to execute in a day or two. But what this yielded was usually poor execution of the idea, exhaustion, a pissed off spouse and a lot of frustration.
+The more I build, the more I program, the older I get, I've come to realize this to be true. In the past, I would get these spur of the moment ideas and try to execute in a day or two. But what this yielded was usually poor execution of the idea, exhaustion, a pissed off spouse and a lot of frustration.
 
 I still try to sprint when I should be pacing myself in a marathon, but I'm learning more and more to slow things down.
 
