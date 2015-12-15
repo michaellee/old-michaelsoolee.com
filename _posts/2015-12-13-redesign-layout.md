@@ -10,7 +10,7 @@ If I'm comparing my site with food, it's like going to a super fancy, upscale re
 
 In the same way that nothing should come in the way of the taste of the steak, I expect the same for the experience. If I'm going to a fancy restaurant for steak, I don't want to fill up on salad and bread. I came for steak. For an awesome experience, I want my steak as quick as possible. Only after I've had my steak, then can you offer some dessert and maybe a box of matches to keep reminding me of the place I had an awesome steak.
 
-Now that I've got you hungry for steak, let me jump into the meat of this post. The details of the redesign.
+Now that I've got you hungry for steak, let me jump into the meat of this post, the details of the redesign.
 
 ## Breathing room
 
@@ -18,7 +18,6 @@ Now that I've got you hungry for steak, let me jump into the meat of this post. 
   <img src="http://i.michaelsoolee.com/20151213-layout-01.png" alt="">
 </div>
 <br>
-With the new layout, I wanted to give the content room to breath.
 
 ## Easy to read
 
@@ -36,9 +35,10 @@ It turns out that the optimal number of characters for the ideal line length is 
   <img src="http://i.michaelsoolee.com/20151213-layout-02.png" alt="">
 </div>
 <br>
-Meanwhile, I also wanted to visually excite the reader when I included images in my posts. From the image above, you'll see that images exceed beyond the 500 pixels line width. I've chosen for images to be 550 pixels wide. During my experiments with the layout, I've found that it was large enough to provide some visual difference from the text and not detracting from the flow of the text.
+Meanwhile, I also wanted to visually excite the reader when I include images in my posts. From the image above, you'll see that images exceed beyond the 500 pixels line width. I've chosen for images to be 550 pixels wide. During my experiments with the layout, I've found that it was large enough to provide some visual difference from the text and not detract from the flow of the text.
 
 ## Guidance
+
 This aspect of the redesign was tough for me &mdash; guiding a reader through an experience on my website. I'm not able to control how a reader gets to my website, but I do have some control over how the reader experiences my website once they are there. This is an area that I had to really think through. In doing so, I've had to learn to cut out clutter.
 
 In the past I thought that providing the reader with as many links as possible to other parts of my website would increase engagement with my brand. But as you can see from this image below, my assumptions lead to a really messy footer.
@@ -62,6 +62,13 @@ I've purposely made the newsletter sign up stand out by adding a background colo
 </div>
 <br>
 I also want to do some split testing to see which newsletter sign up does better. I've heard that making a user click on an actual button first, then showing a form yields higher sign ups. I'm a bit skeptical about this since I believe most readers are used to the form being made available immediately, so that all they have to do is enter in their information and hit submit.
+
+Another element I wanted to try introducing is a top window sticky banner like the one in this screenshot.
+<div style="border: 1px solid #f3f3f3;">
+  <img src="http://i.michaelsoolee.com/20151213-layout-06.png" alt="">
+</div>
+<br>
+The purpose of this banner would be to inform readers on information that I wanted to make sure they knew about. This information could be in the form of a new resource I've created for the user or an announcement of a current series I'm covering such as this one about my redesign. I want to keep this banner as minimal as possible so I plan on just having text and a link in it. The color is used to help draw attention to the banner.
 
 ======
 
