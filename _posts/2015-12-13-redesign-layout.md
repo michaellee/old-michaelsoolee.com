@@ -6,7 +6,7 @@ category: work
 
 When I decided to redesign my website, I knew I wanted to concentrate on two things for the layout &mdash; content and focus. The meat of my website comes from my writing and that's what you should get.
 
-If I'm comparing my site with food, it's like going to a super fancy, upscale restaurant for steak. The restaurant's job is to prepare and provide the best piece of steak that they can provide. The thing about steak is that all you really need is the meat to make an awesome steak. Of course you could add sides, but it should only complement the dish not distract away from it. If a steak is truly great, it could stand on its own and you wouldn't need anything else.
+If I'm comparing my site with food, it's like going to a super fancy, upscale, steak restaurant. The restaurant's job is to prepare and provide the best piece of steak that they can provide. The thing about steak is that all you really need is the meat to make an awesome steak. Of course you could add sides, but it should only complement the dish not distract away from it. If a steak is truly great, it could stand on its own and you wouldn't need anything else.
 
 In the same way that nothing should come in the way of the taste of the steak, I expect the same for the experience. If I'm going to a fancy restaurant for steak, I don't want to fill up on salad and bread. I came for steak. For an awesome experience, I want my steak as quick as possible. Only after I've had my steak, then can you offer some dessert and maybe a box of matches to keep reminding me of the place I had an awesome steak.
 
@@ -18,6 +18,11 @@ Now that I've got you hungry for steak, let me jump into the meat of this post, 
   <img src="http://i.michaelsoolee.com/20151213-layout-01.png" alt="">
 </div>
 <br>
+Going back to my steak metaphor, I believe how a steak is plated is important. If the steak is big and almost taking up an entire plate, you might be wondering if they are overcompensating with quantity over quality. If a steak looks too small on a plate, it might heighten your expectations on how it should taste. Meaning that it better meet or exceed your expectations, because if it doesn't, then you'll walk away thinking you paid too much for what you got.
+
+When a steak is perfectly plated, the plate almost disappears leaving your focus on the steak.
+
+Likewise, when creating the new layout for my website, I wanted to explore the use of white space to help accentuate the content. Once the focus is on the content, my next goal was to make sure that the content was easy to read.
 
 ## Easy to read
 
@@ -36,6 +41,8 @@ It turns out that the optimal number of characters for the ideal line length is 
 </div>
 <br>
 Meanwhile, I also wanted to visually excite the reader when I include images in my posts. From the image above, you'll see that images exceed beyond the 500 pixels line width. I've chosen for images to be 550 pixels wide. During my experiments with the layout, I've found that it was large enough to provide some visual difference from the text and not detract from the flow of the text.
+
+Once a reader is done reading a post, I then wanted to design a way to guide their next experience with my website.
 
 ## Guidance
 
