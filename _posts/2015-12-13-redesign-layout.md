@@ -4,11 +4,11 @@ title: "Site redesign: Layout"
 category: work
 ---
 
-When I decided to redesign my website, I knew I wanted to concentrate on two things for the layout &mdash; content and focus. The meat of my website comes from my writing and that's what you should get.
+When I decided to redesign my website, I knew I wanted to concentrate on two things for the layout &mdash; content and focus. The meat of my website comes from my writing and that's what the reader should get.
 
-If I'm comparing my site with food, it's like going to a super fancy, upscale, steak restaurant. The restaurant's job is to prepare and provide the best piece of steak that they can provide. The thing about steak is that all you really need is the meat to make an awesome steak. Of course you could add sides, but it should only complement the dish not distract away from it. If a steak is truly great, it could stand on its own and you wouldn't need anything else.
+If I'm comparing my site with food, it's like steak. The thing I like most about steak is that a great steak could stand on its own and you wouldn't need anything else.
 
-In the same way that nothing should come in the way of the taste of the steak, I expect the same for the experience. If I'm going to a fancy restaurant for steak, I don't want to fill up on salad and bread. I came for steak. For an awesome experience, I want my steak as quick as possible. Only after I've had my steak, then can you offer some dessert and maybe a box of matches to keep reminding me of the place I had an awesome steak.
+When you go to a fancy steak restaurant, the expectation is, that you're there for the steak and nothing else. Don't fill me up with bread and salad. I came for steak. Only after I've had my steak, should I be offered some dessert.
 
 Now that I've got you hungry for steak, let me jump into the meat of this post, the details of the redesign.
 
@@ -18,7 +18,7 @@ Now that I've got you hungry for steak, let me jump into the meat of this post, 
   <img src="http://i.michaelsoolee.com/20151213-layout-01.png" alt="">
 </div>
 <br>
-Going back to my steak metaphor, I believe how a steak is plated is important. If the steak is big and almost taking up an entire plate, you might be wondering if they are overcompensating with quantity over quality. If a steak looks too small on a plate, it might heighten your expectations on how it should taste. Meaning that it better meet or exceed your expectations, because if it doesn't, then you'll walk away thinking you paid too much for what you got.
+Going back to my steak metaphor, I believe how a steak is plated is an important element to the steak eating experience. If the steak is big and taking up an entire plate, you might be suspicious that the restaurant is overcompensating with quantity over quality. If a steak looks too small on a plate, it might heighten your expectations on how it should taste. Meaning that it better meet or exceed your expectations, because if it doesn't, then you'll walk away thinking you paid too much for what you got.
 
 When a steak is perfectly plated, the plate almost disappears leaving your focus on the steak.
 
