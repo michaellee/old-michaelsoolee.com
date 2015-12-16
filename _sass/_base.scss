@@ -27,6 +27,14 @@ body {
     -webkit-text-size-adjust: 100%;
 }
 
+hr{
+  border-top: 1px solid #eee;
+  border-right: none;
+  border-left: none;
+  border-bottom: none;
+  margin-bottom: 2rem;
+}
+
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
