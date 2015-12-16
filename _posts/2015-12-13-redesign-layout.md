@@ -8,7 +8,9 @@ When I decided to redesign my website, I knew I wanted to concentrate on two thi
 
 If I'm comparing my site with food, it's like steak. The thing I like most about steak is that a great steak could stand on its own and you wouldn't need anything else.
 
-When you go to a fancy steak restaurant, the expectation is, that you're there for the steak and nothing else. Don't fill me up with bread and salad. I came for steak. Only after I've had my steak, should I be offered some dessert.
+When you go to a fancy steak restaurant, the expectation is, you are there for the steak and nothing else. Don't fill me up with bread and salad. I came for steak. Only after I've had my steak, should I be offered some dessert.
+
+If I'm doing my best to provide
 
 Now that I've got you hungry for steak, let me jump into the meat of this post, the details of the redesign.
 
