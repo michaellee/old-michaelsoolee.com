@@ -37,3 +37,5 @@ I just really liked the shapes of the letters and found the text to be easy to r
 Knowing that I wanted a sans-serif font to pair with Crimson Text, my serif font of choice, I fired up Google Fonts to find something more suitable for my needs. I quickly went for the Google Fonts favorites such as Open Sans and Source Sans Pro. But neither of those seemed fitting with Crimson Text.
 
 Going through several passes of all the sans-serif fonts with multiple styles on Google Font, I finally narrowed it down to two fonts &mdash; Montserrat and Quattrocento Sans. Of the two, I decided to go with Quattrocento Sans. This is because of the shapes of the letters. Montserrat's letters were wider and rounder. Which I thought would look better paired with another sans-serif font. While Quattrocento Sans' letters are narrower and thus appears longer. This for me looked better in combination with Crimson Text.
+
+I also really liked the serifs used in Quattrocento Sans, especially for the letter Q.
