@@ -32,7 +32,7 @@ The use of sans-serif headings and serif body text is something I found often on
 
 The fonts that I have chosen for my site's redesign are Crimson Text and Quattrocento Sans. As far as why I chose these fonts, I really don't have a great deal of reason. One day I stumbled upon [femmebot's awesome typography project](http://femmebot.github.io/google-type/) where passages of Aesop's Fables were set in Google Fonts, and I fell in love with Crimson Text used in [*The North Wind and the Sun*](http://femmebot.github.io/google-type/#joanrho-01).
 
-I just really liked the shapes of the letters and found the text to be easy to read. It was paired with Julius Sans One, which I wasn't too fond of. The main reason being that the font only had one style. I like fonts that provide various styles such as italics and different weights. This gives me options when I want to emphasize text.
+I just really liked the shapes of the letters and found the text to be easy to read. It was paired with Julius Sans One, which I wasn't too fond of. The main reason being that the font only had one style. I like fonts that provide various styles such as italics and different weights. This gives me options when I want to emphasize text. Wanted a font that had more weight to it. Felt Julius Sans was too thing to used for headings.
 
 Knowing that I wanted a sans-serif font to pair with Crimson Text, my serif font of choice, I fired up Google Fonts to find something more suitable for my needs. I quickly went for the Google Fonts favorites such as Open Sans and Source Sans Pro. But neither of those seemed fitting with Crimson Text.
 
