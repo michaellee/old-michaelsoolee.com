@@ -28,6 +28,7 @@ When creating the new layout for my website, I wanted to explore the use of whit
 <br>
 Once the focus is on the content, my next goal was to make sure it was easy to read.
 
+<a name="easy-to-read"></a>
 ## Easy to read
 
 I'm not sure if this is a result of aging, but these days I've noticed that I'm more likely to read an entire article on a website if the width of the paragraphs are narrower. If you look at a physical book, margins are intentionally put on a page to limit the length of a line. [Doing some research](http://baymard.com/blog/line-length-readability), I discovered that there are benefits to doing this.
