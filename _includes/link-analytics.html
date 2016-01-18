@@ -9,8 +9,9 @@
     hitType: 'event',
     eventCategory: '{{page.category}}',
     eventAction: '{{page.action}}',
-    eventLabel: '{{page.label}}'
+    eventLabel: '{{page.label}}',
+    hitCallback: function(){
+      window.location = '{{page.link}}';
+    }
   });
-
-  window.location = '{{page.link}}';
 </script>
