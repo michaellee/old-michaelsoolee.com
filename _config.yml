@@ -20,6 +20,9 @@ sass:
 collections:
   notes:
     output: true
-    permalink: /notes/:path/
+    permalink: /notes/:path
+  links:
+    output: true
+    permalink: /:path
 
 gems: [jekyll-paginate]
