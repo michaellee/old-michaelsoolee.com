@@ -14,4 +14,8 @@ What I hope to create with the book is a step-by-step guide on how to build webs
 
 The book will be called *Field Guide to Jekyll* and you can find out more about it on the [book's landing page]({{site.url}}/jekyll-field-guide) where I plan to post updates as I get closer to finishing the book. If you're interested in being updated via email, you could [sign up to receive updates here](http://eepurl.com/bJJN-X) or from the [landing page]({{site.url}}/jekyll-field-guide). By signing up, I will send you the first few chapters of the book which covers how to get Jekyll up and running, keep you posted on progress and an early-bird discount.
 
+<div style="text-align: center; margin-bottom: 1rem;">
+  <a href="{{site.url}}/jekyll-field-guide" style="display: inline-block; max-width: 40%;"><img src="http://i.michaelsoolee.com/jekyll/book-cover.jpg"></a>
+</div>
+
 I'm super excited to be sharing all that I've learned over the years in building sites with Jekyll and hope it'll help others save time and quickly building websites with Jekyll.
