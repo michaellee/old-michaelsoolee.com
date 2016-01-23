@@ -13,6 +13,7 @@ markdown: redcarpet
 permalink: /:title
 paginate: 4
 paginate_path: "/page/:num"
+keep_files: [assets]
 
 sass:
   style: :compressed
