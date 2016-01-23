@@ -4,7 +4,7 @@ email: "michaelsoolee@gmail.com"
 description: > # this means to ignore newlines until "baseurl:"
   Michael Lee is a craftsman of digital things.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://michaelsoolee.com" # the base hostname & protocol for your site
+url: "https://michaelsoolee.com" # the base hostname & protocol for your site
 twitter_username: michaelsoolee
 github_username:  michaellee
 
