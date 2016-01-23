@@ -17,7 +17,7 @@ As I mentioned before on [why I'm rebuilding my website]({{site.url}}/rebuilding
 If you're unfamiliar with the terms sans-serif and serif, they refer to the shape of the letters of a font. Serif fonts are fonts that have those little tail marks coming off of the main body of the font. Think fonts often found in physical books and newspapers. Sans-serif, as the name suggests are fonts without those little tail marks. Think fonts like the [San Francisco font](https://developer.apple.com/fonts/) used on iOS or Open Sans which is a popular serif font for the web.
 
 <div style="text-align: center; margin-bottom: 2rem;">
-  <img src="http://i.michaelsoolee.com/20151222-type-01.png" style="border: 1px solid #f3f3f3; display: inline-block;">
+  <img src="{{site.url}}/assets/images/20151222-type-01.png" style="border: 1px solid #f3f3f3; display: inline-block;">
 </div>
 
 ## Inspiration
@@ -35,7 +35,7 @@ The use of sans-serif headings while the body text is in serif is a pattern I of
 ## My choices
 
 <div style="text-align: center; margin-bottom: 2rem;">
-  <img src="http://i.michaelsoolee.com/20151222-type-02.png" style="border: 1px solid #f3f3f3; display: inline-block;">
+  <img src="{{site.url}}/assets/images/20151222-type-02.png" style="border: 1px solid #f3f3f3; display: inline-block;">
 </div>
 
 The fonts that I have chosen for my site's redesign are Crimson Text and Quattrocento Sans. As far as why I chose these fonts, I really don't have a great deal of reason. One day I stumbled upon [femmebot's awesome typography project](http://femmebot.github.io/google-type/) where passages of Aesop's Fables were set in Google Fonts, and I fell in love with Crimson Text used in [*The North Wind and the Sun*](http://femmebot.github.io/google-type/#joanrho-01).
@@ -47,7 +47,7 @@ Knowing that I wanted a sans-serif font to pair with Crimson Text, my serif font
 Going through several passes of all the sans-serif fonts with multiple styles on Google Font, I finally narrowed it down to two fonts &mdash; Montserrat and Quattrocento Sans. Of the two, I decided to go with Quattrocento Sans. This is because of the shapes of the letters. Montserrat's letters were wider and rounder. Which I thought would look better paired with another sans-serif font. While Quattrocento Sans' letters are narrower and thus appears longer. This for me looked better in combination with Crimson Text.
 
 <div style="text-align: center; margin-bottom: 2rem;">
-  <img src="http://i.michaelsoolee.com/20151222-type-03.png" style="border: 1px solid #f3f3f3; display: inline-block;">
+  <img src="{{site.url}}/assets/images/20151222-type-03.png" style="border: 1px solid #f3f3f3; display: inline-block;">
 </div>
 
 I also liked the tail (serif) marks used in Quattrocento Sans, especially for the letter Q.
@@ -61,7 +61,7 @@ Monospaced fonts are fonts where each letter and character take up the same amou
 My choice for a monospace font was actually pretty easy. Ever since Adobe released [Source Code Pro](https://www.google.com/fonts/specimen/Source+Code+Pro), I've been a big fan. I quickly jumped at using this font in my Sketch mockups and actually thought it fit pretty well with Crimson Text and Quattrocento Sans.
 
 <div style="text-align: center; margin-bottom: 2rem;">
-  <img src="http://i.michaelsoolee.com/20151222-type-04.png" style="border: 1px solid #f3f3f3; display: inline-block;">
+  <img src="{{site.url}}/assets/images/20151222-type-04.png" style="border: 1px solid #f3f3f3; display: inline-block;">
 </div>
 
 I was honestly a little worried that a monospace font and a serif font wouldn't look well together, but I've grown to like the pair. I think this works because the code on my site will be highlighted and there is enough visual distinction and space that the two fonts work well together.

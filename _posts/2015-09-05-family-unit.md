@@ -22,4 +22,4 @@ Although the stop and go from work has been a bit strenuous and at times makes m
 
 This is currently my favorite picture of the kiddos. Pretty much sums up their personalities at this moment. Emma, screaming her head off and Noah, calmly looking at her seeing if he can help baby stop crying.
 
-![Noah and Emma](http://i.michaelsoolee.com/20150905-family-unit.jpg)
+![Noah and Emma]({{site.url}}/assets/images/20150905-family-unit.jpg)

@@ -8,7 +8,7 @@ Hey there, I'm Michael Lee. Thanks for visiting my site!
 
 My favorite food is pizza, I'm a stay-at-home dad and a freelance developer &amp; designer based out of Cary, North Carolina.
 
-![Picture of Michael Lee](http://i.michaelsoolee.com/2015-michaellee-profile.jpg)
+![Picture of Michael Lee]({{site.url}}/assets/images/2015-michaellee-profile.jpg)
 
 I enjoy learning and sharing my knowledge of programming, which is why I built [CodeHive](https://www.codehive.io) &mdash; a community for developers to share programming tips, ask questions and help each other grow in their craft.
 

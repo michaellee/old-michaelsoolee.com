@@ -21,43 +21,43 @@ To accomplish this, I use recipes that are made up of watching my site's RSS fee
 
 First, [click on create a new recipe](https://ifttt.com/myrecipes/personal/new) and you should be presented with the IFTTT recipe statement.
 
-![](http://i.michaelsoolee.com/20150729-ifttt-01.png)
+![]({{site.url}}/assets/images/20150729-ifttt-01.png)
 
 Click on the *this* statement, and then you'll be presented with a bunch of channels (what IFTTT calls applications) to select from. Filter this list, by typing in **RSS** in the search field.
 
-![](http://i.michaelsoolee.com/20150729-ifttt-02.png)
+![]({{site.url}}/assets/images/20150729-ifttt-02.png)
 
 Once RSS shows up, click on the *RSS channel*.
 
-![](http://i.michaelsoolee.com/20150729-ifttt-03.png)
+![]({{site.url}}/assets/images/20150729-ifttt-03.png)
 
 Now select the trigger *New Feed Item*. What this does is, it'll check your RSS feed and check to see if there are any new items added. If so then trigger your recipe.
 
-![](http://i.michaelsoolee.com/20150729-ifttt-04.png)
+![]({{site.url}}/assets/images/20150729-ifttt-04.png)
 
 You'll be asked to provide the URL of your RSS feed. Fill this in and then create the trigger. Once the trigger is created, you'll be brought back to your statement to create the *that* portion of the recipe.
 
-![](http://i.michaelsoolee.com/20150729-ifttt-05.png)
+![]({{site.url}}/assets/images/20150729-ifttt-05.png)
 
 Clicking on *that* will bring you to a new listing of channels to create your action.
 
-![](http://i.michaelsoolee.com/20150729-ifttt-06.png)
+![]({{site.url}}/assets/images/20150729-ifttt-06.png)
 
 This time, you'll want to search for *Twitter*. Once Twitter comes up, select the channel.
 
-![](http://i.michaelsoolee.com/20150729-ifttt-07.png)
+![]({{site.url}}/assets/images/20150729-ifttt-07.png)
 
 When you're presented with the actions, select the one that says *Post a tweet*
 
-![](http://i.michaelsoolee.com/20150729-ifttt-08.png)
+![]({{site.url}}/assets/images/20150729-ifttt-08.png)
 
 After selecting your action, you'll be given the option to fine tune your tweet's text. In my tweet, I just have the post title and post link separated by a space.
 
-![](http://i.michaelsoolee.com/20150729-ifttt-09.png)
+![]({{site.url}}/assets/images/20150729-ifttt-09.png)
 
 Once you've created your action, you'll be brought to a screen to review your recipe. If you're satisfied with what you've got, select *Create Recipe*.
 
-![](http://i.michaelsoolee.com/20150729-ifttt-10.png)
+![]({{site.url}}/assets/images/20150729-ifttt-10.png)
 
 Now look at that, a nice shiny new IFTTT recipe that'll watch my Jekyll generated site's RSS and auto tweet my latest post's title and URL.
 
@@ -67,7 +67,7 @@ The second tidbit is, by default, IFTTT will shorten links and uses their shorte
 
 To do this, you'll want to go to *Preferences* found under your account. Then if you scroll down, you'll find an option for *URL Shortening*.
 
-![](http://i.michaelsoolee.com/20150729-ifttt-11.png)
+![]({{site.url}}/assets/images/20150729-ifttt-11.png)
 
 **Unchecking** the option *Auto shorten URLs* will leave your links untouched and in their original form. Sweet.
 

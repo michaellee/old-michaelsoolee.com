@@ -8,7 +8,7 @@ date: 2015-10-27 15:34:00
 Vim commands are powerful and I'm [still learning](http://michaellee.co/notes/vim) a whole bunch. But when I try a crazy key combination and successfully run a command this is what I expect to happen.
 
 <div class="center">
-  <img src="http://i.michaelsoolee.com/20151027-ken-shoryuken.png" alt="Ken shoryuken">
+  <img src="{{site.url}}/assets/images/20151027-ken-shoryuken.png" alt="Ken shoryuken">
 </div>
 <br>
 

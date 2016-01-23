@@ -23,7 +23,7 @@ When a steak is perfectly plated, the plate almost disappears leaving your focus
 When creating the new layout for my website, I wanted to explore the use of white space to help accentuate the content. As you can see from the screenshot below, the logo and the menu (the header) is offset so that it isn't lined up with the column of content. This provides a visual separation of the two elements from each other. I also left enough white space between the header and the body of text so that after a few lines of scrolling the focus is solely on the content.
 
 <div style="border: 1px solid #f3f3f3;">
-  <img src="http://i.michaelsoolee.com/20151213-layout-01.png" alt="">
+  <img src="{{site.url}}/assets/images/20151213-layout-01.png" alt="">
 </div>
 <br>
 Once the focus is on the content, my next goal was to make sure it was easy to read.
@@ -36,13 +36,13 @@ I'm not sure if this is a result of aging, but these days I've noticed that I'm 
 Limiting the length of a line creates a rhythm for the reader. When a reader jumps to the next line, the subconscious mind is re-energized as long as the jump doesn't occur too frequently. Limiting the length of a line also makes it easier for a reader to gauge where a line starts and ends, thus reducing stress.
 
 <div style="border: 1px solid #f3f3f3;">
-  <img src="http://i.michaelsoolee.com/20151213-layout-07.png" alt="">
+  <img src="{{site.url}}/assets/images/20151213-layout-07.png" alt="">
 </div>
 <br>
 It turns out that the optimal number of characters for the ideal line length is **50-75** characters. To achieve this, in my layout, I've set my font-size to 20 pixels while the width of the paragraph is 500 pixels wide.
 
 <div style="border: 1px solid #f3f3f3;">
-  <img src="http://i.michaelsoolee.com/20151213-layout-02.png" alt="">
+  <img src="{{site.url}}/assets/images/20151213-layout-02.png" alt="">
 </div>
 <br>
 Meanwhile, I also wanted to visually excite the reader when I include images in my posts. From the screenshot above, you'll see that images exceed beyond the 500 pixels line width. I've chosen for images to be 550 pixels wide. During my experiments with the layout, I've found that it was large enough to provide some visual difference from the text and not detract from the flow of the text.
@@ -56,7 +56,7 @@ This aspect of the redesign was tough for me &mdash; guiding a reader through an
 In the past I thought that providing the reader with as many links as possible to other parts of my website would increase engagement with my brand. But as you can see from this image below, my assumptions lead to a really messy footer.
 
 <div style="border: 1px solid #f3f3f3;">
-  <img src="http://i.michaelsoolee.com/20151213-layout-08.png" alt="">
+  <img src="{{site.url}}/assets/images/20151213-layout-08.png" alt="">
 </div>
 <br>
 In the screenshot above, I've counted ten possible actions the reader could take action on once they finish reading a post on my site. That's one too many options. Really there should be one, perhaps two at most actions that the user should take. To increase the engagement of my readers with my website, I've decided to focus on building an email list with this redesign.
@@ -64,20 +64,20 @@ In the screenshot above, I've counted ten possible actions the reader could take
 An email makes it super easy for a reader and I to enter into a dialogue regarding a post, all they need to do is simply hit reply. I could also provide exclusive resources and extra value for my readers through an email list. For this reason, I've made an email sign up a major focus at the end of each post.
 
 <div style="border: 1px solid #f3f3f3;">
-  <img src="http://i.michaelsoolee.com/20151213-layout-04.png" alt="">
+  <img src="{{site.url}}/assets/images/20151213-layout-04.png" alt="">
 </div>
 <br>
 I've purposely made the newsletter sign up stand out by adding a background color and a nice, shiny, colored button to catch a person's attention. I'm almost tempted to remove all other footer links so that the reader is left with really three options. Either navigate to a different site, scroll back up or sign up for the newsletter.
 
 <div style="border: 1px solid #f3f3f3;">
-  <img src="http://i.michaelsoolee.com/20151213-layout-05.png" alt="">
+  <img src="{{site.url}}/assets/images/20151213-layout-05.png" alt="">
 </div>
 <br>
 I also want to do some split testing to see which newsletter sign up does better. I've heard that making a user click on an actual button first, then showing a form yields higher sign ups. I'm a bit skeptical about this since I believe most readers are used to the form being made available immediately, so that all they have to do is enter in their information and hit submit.
 
 Another element I wanted to try introducing is a top window sticky banner like the one in this screenshot.
 <div style="border: 1px solid #f3f3f3;">
-  <img src="http://i.michaelsoolee.com/20151213-layout-06.png" alt="">
+  <img src="{{site.url}}/assets/images/20151213-layout-06.png" alt="">
 </div>
 
 The purpose of this banner would be to inform readers on information that I wanted to make sure they knew about. This information could be in the form of a new resource I've created for the user or an announcement of a current series I'm covering such as this one about my redesign. I want to keep this banner as minimal as possible so I plan on just having text and a link in it. The color is used to help draw attention to the banner.
