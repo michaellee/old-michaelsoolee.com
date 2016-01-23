@@ -4,7 +4,7 @@ title: "Comcast Frank"
 category: "lesson learned"
 ---
 
-I've been going through Seth Godin's book, *<a href="http://www.amazon.com/gp/product/1591844096/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1591844096&linkCode=as2&tag=michaelleeco-20&linkId=CSNTQ44AMTZRBDXG">Linchpin</a>*. Last night, I came across a story of a guy named Frank and how he single-handedly changed the perception of Comcast simply by being human and interacting with angry folks on Twitter. I thought I'd share Frank's story as told by Seth, after sharing yesterday's [positive social media interaction with the folks at Assembly](http://michaellee.co/social-media-vs-email).
+I've been going through Seth Godin's book, *<a href="http://www.amazon.com/gp/product/1591844096/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1591844096&linkCode=as2&tag=michaelleeco-20&linkId=CSNTQ44AMTZRBDXG">Linchpin</a>*. Last night, I came across a story of a guy named Frank and how he single-handedly changed the perception of Comcast simply by being human and interacting with angry folks on Twitter. I thought I'd share Frank's story as told by Seth, after sharing yesterday's [positive social media interaction with the folks at Assembly]({{site.url}}/social-media-vs-email).
 
 > Frank figured out that angry customers were ofen using Twitter to vent their rage about Comcast and their service or lack thereof.
 >

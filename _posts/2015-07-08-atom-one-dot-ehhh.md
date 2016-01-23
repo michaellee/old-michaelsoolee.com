@@ -20,7 +20,7 @@ Here is a list of my pros and cons for Atom.
 - It is really well integrated with git/GitHub
 - Handles white space characters better
 - Customizeable right out of the box with a ton of plugins, with Sublime Text you have to install a package manager
-- CLI works out of the box, with Sublime Text, you have to [do some stuff in the command line](http://michaellee.co/open-sublime-text-from-mac-terminal/) to get it working
+- CLI works out of the box, with Sublime Text, you have to [do some stuff in the command line]({{site.url}}/open-sublime-text-from-mac-terminal/) to get it working
 - Slick default theme
 - Has an impressive amount of support for languages out of the box
 

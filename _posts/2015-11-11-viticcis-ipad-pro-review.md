@@ -16,7 +16,7 @@ I think the extra screen real estate with iOS 9's split-view feature could be re
 
 That A9X chip is a lot of power and impressive. I'm not sure if the CPU speed is a good metric to compare devices but the A9X, if I'm reading the specs correctly is more powerful than the CPUs that the Macbook Air ships with &mdash; whoa. The Macbook that trumps the iPad Pro in terms of CPU power is the baseline Macbook Pro.
 
-Which leads me to a conundrum. I've been [experimenting with programming on my iPad Air](http://michaellee.co/reflection-ssh). With an SSH app and a machine that I could connect to. I can easily do some programming on an iPad with tmux and Vim set up on the machine I'm SSHing to. But for the price to purchase the base model iPad Pro and a keyboard, we're only a few hundred dollars shy of a base model Macbook Pro.
+Which leads me to a conundrum. I've been [experimenting with programming on my iPad Air]({{site.url}}/reflection-ssh). With an SSH app and a machine that I could connect to. I can easily do some programming on an iPad with tmux and Vim set up on the machine I'm SSHing to. But for the price to purchase the base model iPad Pro and a keyboard, we're only a few hundred dollars shy of a base model Macbook Pro.
 
 With the Macbook Pro, I wouldn't need to SSH to an external machine. I could do everything from the machine itself. The only reason why I toy with using an iPad as a replacement for a notebook is the sheer size and portability of it. But with Macbooks getting thinner and lighter, I'm not sure if it really is a cost effective option to get just an iPad Pro for programming.
 

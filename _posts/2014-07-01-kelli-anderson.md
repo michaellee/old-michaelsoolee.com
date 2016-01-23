@@ -15,7 +15,7 @@ There was one particular quote by Kelli I couldn't agree with enough and is how 
 
 I'm currently building my first iOS application and it's a great example of Kelli's quote. I've been trying to learn Objective-C and iOS programming for years. With each attempt, I would read books, go through tutorials but nothing seemed to really stick.
 
-Having just learned some Ember.js by jumping head-first in building <a href="http://michaellee.co/tap-and-click" target="_blank">Tap and Click</a>, I decided that if I want to successfully learn how to make iOS apps I would have to just build one.
+Having just learned some Ember.js by jumping head-first in building <a href="{{site.url}}/tap-and-click" target="_blank">Tap and Click</a>, I decided that if I want to successfully learn how to make iOS apps I would have to just build one.
 
 The amount I learn from just diving into building an actual app is exponential. If you're trying to learn to program, I can't recommend enough a head-first approach.
 

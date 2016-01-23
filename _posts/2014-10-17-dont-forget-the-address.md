@@ -9,7 +9,7 @@ A common practice when architecting HTML is to wrap a group of elements with an 
 An example of this would be creating a button on a page.
 
 ```javascript
-<a href="http://michaellee.co/subscribe" class="btn btn-primary">
+<a href="{{site.url}}/subscribe" class="btn btn-primary">
 	Click here to Subscribe
 	<span class="icon icon-arrow"></span>
 </a>

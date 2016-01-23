@@ -4,7 +4,7 @@ title: "Open Sublime Text from the Mac Terminal"
 category: programming
 ---
 
-Sublime Text, like [MacVim has a useful command line tool](http://michaellee.co/launch-macvim-from-terminal/) that allows you to open Sublime Text and files in Sublime Text from the Mac Terminal.
+Sublime Text, like [MacVim has a useful command line tool]({{site.url}}/launch-macvim-from-terminal/) that allows you to open Sublime Text and files in Sublime Text from the Mac Terminal.
 
 Setting this up is pretty straight forward. Simply enter this command in Terminal:
 

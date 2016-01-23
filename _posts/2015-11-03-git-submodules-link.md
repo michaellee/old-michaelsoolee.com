@@ -6,7 +6,7 @@ link: "https://chrisjean.com/git-submodules-adding-using-removing-and-updating/"
 date: 2015-11-03 23:29:00
 ---
 
-I've shared about [Git submodules](http://michaellee.co/git-submodules/) before. I recently decided to use submodules again in some projects I'm developing because I decided to fork a Sass library to use and modify for my projects' needs.
+I've shared about [Git submodules]({{site.url}}/git-submodules/) before. I recently decided to use submodules again in some projects I'm developing because I decided to fork a Sass library to use and modify for my projects' needs.
 
 Submodules are useful since I can essentially treat a submodule as its own repo and make changes to it separate from the project from which it is used in.
 

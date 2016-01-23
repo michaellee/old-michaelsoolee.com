@@ -13,4 +13,4 @@ Upon turning on remote login on my laptop and connecting to my laptop's IP, I wa
 
 I'm even writing this post in Vim through Reflection which I'll commit and push up to GitHub.
 
-If you ever need to run [Javascript on your iPad](http://michaellee.co/program-and-run-javascript-from-ipad/) or terminal commands, I highly recommend checking out [Reflection by Attachmate for iOS](https://geo.itunes.apple.com/us/app/reflection-for-unix-ssh-client/id920472514?mt=8&at=11l9EG).
+If you ever need to run [Javascript on your iPad]({{site.url}}/program-and-run-javascript-from-ipad/) or terminal commands, I highly recommend checking out [Reflection by Attachmate for iOS](https://geo.itunes.apple.com/us/app/reflection-for-unix-ssh-client/id920472514?mt=8&at=11l9EG).

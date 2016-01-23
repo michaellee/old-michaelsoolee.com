@@ -4,7 +4,7 @@ title: "Program and Run Javascript from your iPad"
 category: programming
 ---
 
-Lately, I've been experimenting with programming from my iPad. Thanks to Panic's app, [Prompt](https://itunes.apple.com/us/app/prompt/id421507115?mt=8&uo=4&at=11l9EG) I can be sitting in bed and SSHed to my laptop that's sitting in the living room. Once I've SSHed into my laptop, I fire up my [current editor of choice, Vim](http://michaellee.co/learning-vim/) and start coding away.
+Lately, I've been experimenting with programming from my iPad. Thanks to Panic's app, [Prompt](https://itunes.apple.com/us/app/prompt/id421507115?mt=8&uo=4&at=11l9EG) I can be sitting in bed and SSHed to my laptop that's sitting in the living room. Once I've SSHed into my laptop, I fire up my [current editor of choice, Vim]({{site.url}}/learning-vim/) and start coding away.
 
 The other night I was wondering if there was some way to use my iPad setup to write Javascript. I assumed since I've seen Javascript mostly running in my browser, I wouldn't be able to write and test Javascript from the command line.
 

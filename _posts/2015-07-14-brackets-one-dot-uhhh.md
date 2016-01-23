@@ -5,7 +5,7 @@ category: 'work'
 date: 2015-07-14 10:35:00
 ---
 
-So yesterday afternoon, a friend of mine mentioned that he had read my [short review on Atom](http://michaellee.co/atom-one-dot-ehhh/) and was curious if I could take Brackets by Adobe for a spin. I thought sure why not. I was midway into my work day so I decided to download Brackets and force myself to use it for the rest of the day. In short, it was painful.
+So yesterday afternoon, a friend of mine mentioned that he had read my [short review on Atom]({{site.url}}/atom-one-dot-ehhh/) and was curious if I could take Brackets by Adobe for a spin. I thought sure why not. I was midway into my work day so I decided to download Brackets and force myself to use it for the rest of the day. In short, it was painful.
 
 <!--more-->
 

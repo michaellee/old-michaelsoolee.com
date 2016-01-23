@@ -16,7 +16,7 @@ There are three things that I've started to do over the past two weeks that's he
 <h2>Divide and Conquer</h2>
 I've heard that a habit of those who have found success in achieving their goals or dreams is to make a list of them and to review them daily. I started doing this by writing down all my dreams on a single page in my notebook on Monday, then coming up with small steps that I could take as the week progressed.
 
-In taking action – <a href="http://michaellee.co/little-by-little/">little by little</a> – I began to make progress on these dreams that I have. Being able to open up my notebook and check off completed tasks has given me a sense of energy to keep on etching away at my dreams.
+In taking action – <a href="{{site.url}}/little-by-little/">little by little</a> – I began to make progress on these dreams that I have. Being able to open up my notebook and check off completed tasks has given me a sense of energy to keep on etching away at my dreams.
 
 Your dreams may be your Everest but the peak can be reached as long as you take a step forward everyday.
 
