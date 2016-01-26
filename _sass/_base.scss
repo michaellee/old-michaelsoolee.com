@@ -224,3 +224,24 @@ blockquote {
     margin-left: 0;
   }
 }
+
+.msl-bar{
+  background: #42afe3;
+  color: #fff;
+  padding: 1rem;
+  text-align: center;
+  a{
+    color: #fff;
+    text-decoration: underline;
+  }
+}
+
+.main-content{
+  
+}
+
+.container{
+  width: 90%;
+  max-width: 768px;
+  margin: 0 auto;
+}
