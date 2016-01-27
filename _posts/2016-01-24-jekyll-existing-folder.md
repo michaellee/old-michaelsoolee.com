@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to create a new Jekyll project in an existing folder"
+title: "Create a new Jekyll project in an existing folder"
 category: work
 ---
 
