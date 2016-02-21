@@ -12,6 +12,10 @@ The only problem was all my Instagram followers are friends who aren't my target
 
 Immediately after hitting submit I felt like something wasn't right. At first I shrugged off the feeling and reassured myself that getting folks to sign up for my mailing list was the right thing to do...this was marketing and that it was just part of the game. Likes came in, folks left comments and I think I got a couple of sign ups as a result. Nothing I would consider viral or a great return on investment. But what also lingered was the feeling of I shouldn't have used Instagram to market my book.
 
+<div style="text-align: center; margin-bottom: 2rem;">
+  <img src="{{site.baseurl}}/assets/images/20160220-instagram-greed-01.jpeg" style="border: 1px solid #f3f3f3; display: inline-block;">
+</div>
+
 The thoughts that went through my head was first of my kids. My account for the most part has always been public. This is because I enjoy sharing life as it is. As a father I am most proud of my kids and hope the stories I share with these photos resonates with other fathers to do the same.
 
 Not everyone that follows me are friends that I've actually met in person. Some are strangers but for the most part prior to sharing about the book on my account I was ok with that. But after I had shared my book, I honestly got a little paranoid. All of a sudden I was intentionally drawing the attention of strangers to my feed and that just didn't feel right. This paranoia led to me blocking some accounts and changing my account to private.
@@ -23,6 +27,10 @@ I'm pretty sure the folks who have been following my feed for some time probably
 They might've started following because they thought I'd post up more things about programming or my book. But after the one post about my book, it was back to the regular scheduled programming...photos of my family life. So I'm pretty sure they got a dose of what the heck? His kids are cute and all but I kind of want to hear more about his book or programming.
 
 After mulling over this for a few weeks. I decided to be more intentional with my Instagram account. In that I want to put sharing my life back as the theme of my account and not use it as a way to straight up garner more likes or funnel folks into some email sign up. I think photos of progress of screenshots or coding will be ok from time to time since that is part of my life. But for the most part, the story I'd like to tell is of this work-from-home dad, with two awesome kids and a super awesome wife that he gets to do life with.
+
+<div style="text-align: center; margin-bottom: 2rem;">
+  <img src="{{site.baseurl}}/assets/images/20160220-instagram-greed-02.png" style="border: 1px solid #f3f3f3; display: inline-block;">
+</div>
 
 Prior to writing this post, I changed up my profile description to, "Work from home dad, that loves to eat pizza" because I feel like that is more consistent to what I'd like to share on my account. So if you're following me on Instagram, it's back to pictures of my kids and probably more photos of me eating pizza. I've also deleted the post of my book. I've realized that it just doesn't fit into the theme of my story on Instagram and have made my account public again.
 
