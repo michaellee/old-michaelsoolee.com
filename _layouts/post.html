@@ -15,6 +15,12 @@ layout: default
 
   {{ content }}
 
+  {% if page.comments %}
+    {% for comment in page.comments %}
+      {{ comment.email }}
+    {% endfor %}
+  {% endif %}
+
   {% if page.previous %}
   <p class="small">Previous post: <a href="{{page.previous.url}}">{{page.previous.title}}</a></p>
   {% endif %}
